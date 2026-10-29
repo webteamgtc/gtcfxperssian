@@ -1,0 +1,403 @@
+{
+  "marketingPage": {
+    "meta": {
+      "title": "GTC Financial Consultancy | CMA Licensed – Category 5",
+      "description": "GTC Financial Consultancy L.L.C. is licensed by the UAE Capital Market Authority (Category 5) to provide financial consultation, introduction and promotion services. Information only – no dealing, brokerage or account-opening services are offered on this website."
+    },
+    "notice": "Licensed by the UAE Capital Market Authority – Category 5 (Financial Consultations, Introduction and Promotion), Licence No. 20200000211. No dealing, brokerage or account-opening services are offered on this website.",
+    "version": {
+      "language": "Language",
+      "menu": "Menu"
+    },
+    "cta": "Speak to the Team",
+    "hero": {
+      "badge": "CMA Licensed · Category 5",
+      "title": "Your Trusted Global Partner in [Financial Insight]",
+      "text": "Behind every confident decision is a clear explanation. We bring a thoughtful, professional approach to financial consultations, introductions to licensed financial service providers, and the promotion of financial products and services within our approved regulatory scope.",
+      "primary": "Get Started",
+      "secondary": "About our services"
+    },
+    "services": {
+      "title": "Services Available Through [GTC Financial Consultancy L.L.C.]",
+      "text": "Every service we offer is defined by our CMA licence and delivered with the care your decisions deserve.",
+      "items": [
+        {
+          "icon": "consult",
+          "title": "Financial Consultations",
+          "text": "We explain how financial products and services work, what they involve, and the questions worth asking before you commit. You get clear explanations, not sales pitches or personal recommendations.",
+          "tagline": "Understand Before You Decide"
+        },
+        {
+          "icon": "introduce",
+          "title": "Introduction Services",
+          "text": "When you are ready, we introduce you to Regulated financial service providers. We tell you who the provider is, how they are regulated, and what to expect, before any introduction is made.",
+          "tagline": "The Right Door, Opened Properly"
+        },
+        {
+          "icon": "promote",
+          "title": "Promotion",
+          "text": "We present financial products and services in a fair, balanced and accurate way, and only where our licence permits it. Benefits are always shown alongside the risks.",
+          "tagline": "Information You Can Rely On"
+        },
+        {
+          "icon": "education",
+          "title": "Education & Events",
+          "text": "Seminars and educational content in Arabic and English that explain financial concepts in plain language, so you can approach every conversation informed.",
+          "tagline": "Knowledge That Empowers"
+        }
+      ],
+      "top": "What We Do"
+    },
+    "process": {
+      "title": "Four Steps. [No Surprises.]",
+      "text": "A transparent journey from your first question to the right connection.",
+      "steps": [
+        {
+          "title": "Connect",
+          "tagline": "Every Conversation Starts Somewhere.",
+          "text": "Share your questions in Arabic or English. There is no obligation and no pressure."
+        },
+        {
+          "title": "Understand",
+          "tagline": "Clarity Comes First.",
+          "text": "We explain the relevant products and services, including the risks and the points you should consider."
+        },
+        {
+          "title": "Introduce",
+          "tagline": "Meet the Right Provider.",
+          "text": "If you choose to proceed, we introduce you to a licensed provider and tell you exactly who they are."
+        },
+        {
+          "title": "Stay Informed",
+          "tagline": "Clear Communication Throughout.",
+          "text": "Our team remains available to answer your questions whenever you need us."
+        }
+      ],
+      "top": "How It Works"
+    },
+    "why": {
+      "title": "Why Choose [GTC Financial Consultancy]",
+      "text": "We explain how financial products and services work and, when you are ready, introduce you to regulated financial service providers within the GTC Group.",
+      "tiles": [
+        "Licensed by the UAE Capital Market Authority",
+        "Introductions to Licensed Providers Only",
+        "A Dubai-Based Team, Part of GTC Group",
+        "A Transparent Introduction Process",
+        "Education & Events in Arabic and English",
+        "Clear, Client-Focused Communication"
+      ],
+      "top": "Why Choose Us"
+    },
+    "form": {
+      "title": "Let's [Start]",
+      "text": "Share a few details and our team will get back to you.",
+      "points": [
+        "No Hidden Fees.",
+        "Arabic or English",
+        "Your data stays private"
+      ],
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "messagePlaceholder": "Tell us briefly about your goals",
+      "consent": "I agree that GTC Financial Consultancy L.L.C. may use my details to respond to my enquiry, in line with its Privacy Policy.",
+      "submit": "Submit",
+      "sending": "Sending…",
+      "success": "Thank you! Our UAE team has received your enquiry and will contact you shortly.",
+      "error": "Sorry, something went wrong. Please try again or email us at {email}.",
+      "errors": {
+        "name": "Please enter your name",
+        "email": "Please enter a valid email",
+        "phone": "Please enter a valid phone number",
+        "consent": "Please agree to be contacted",
+        "country": "Please enter your country of residence",
+        "language": "Please choose a preferred language",
+        "firstName": "Please enter your first name",
+        "lastName": "Please enter your last name"
+      },
+      "orContact": "Prefer to talk now?",
+      "address": "Office 2201, Nassima Tower, Trade Centre First, Dubai, United Arab Emirates",
+      "country": "Country of Residence",
+      "language": "Preferred Language",
+      "languages": {
+        "fa": "Farsi",
+        "en": "English"
+      },
+      "top": "Contact Us",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "phoneNumber": "Phone Number"
+    },
+    "faq": {
+      "title": "What People [Ask Us Most]",
+      "items": [
+        {
+          "q": "What is GTC Financial Consultancy licensed to do?",
+          "a": "GTC Financial Consultancy L.L.C. is licensed by the UAE Capital Market Authority under Category 5 (Licence No. 20200000211). This covers three activities: financial consultations, introduction to licensed financial service providers, and promotion of financial products and services where our licence permits."
+        },
+        {
+          "q": "Who can use your services?",
+          "a": "Individuals and businesses in the UAE who want to understand financial products and services more clearly. Our team speaks Arabic and English."
+        },
+        {
+          "q": "Do you hold my money or act on my behalf?",
+          "a": "No. We do not hold client money, manage funds, or carry out any transaction on your behalf. Our role is to explain and, if you choose, to introduce you to a licensed provider."
+        },
+        {
+          "q": "Do you give personal investment recommendations?",
+          "a": "No. Our consultations provide general information to help you understand your options. Any decision is yours, and we encourage you to read the provider's documents and seek independent advice where needed."
+        },
+        {
+          "q": "How will I know who you are introducing me to?",
+          "a": "Before any introduction, we tell you the provider's name, who regulates them, and what services they offer. You decide whether to proceed."
+        },
+        {
+          "q": "What happens to my personal data?",
+          "a": "We use your details only to respond to your enquiry and provide the services you ask for, in line with our <privacy>Privacy Policy</privacy>. We never sell your information."
+        }
+      ],
+      "top": "FAQs"
+    },
+    "footer": {
+      "title": "Important information",
+      "text": "GTC Financial Consultancy L.L.C. is licensed by the UAE Capital Market Authority (CMA) under Category 5 (Financial Consultations, Introduction and Promotion), Licence No. 20200000211. Registered office: Office 2201, Nassima Tower, Trade Centre First, Dubai, United Arab Emirates. It is part of GTC Group and operates independently, introducing clients only to regulated financial services providers. The Company does not hold client money and does not carry out transactions on behalf of clients. Nothing on this website is an offer, solicitation or personal recommendation, and the information is provided for general purposes only.",
+      "verifyPrefix": "You can verify our CAT5 license under the Capital Market Authority ",
+      "verifyLink": "here",
+      "verifySuffix": ":",
+      "risk": "Financial products carry risk and may not be suitable for everyone. Before making any financial decision, review the relevant product documentation and, where necessary, seek independent professional advice.",
+      "links": {
+        "legalDocuments": "Legal Documents",
+        "riskDisclosure": "Risk Disclosure Policy",
+        "privacy": "Privacy Policy",
+        "cookies": "Cookie Policy",
+        "terms": "Terms of Use"
+      },
+      "copyright": "© 2026 GTC Financial Consultancy L.L.C. All rights reserved."
+    },
+    "nav": {
+      "home": "Home",
+      "about": "About Us",
+      "faq": "FAQs",
+      "contact": "Contact Us"
+    },
+    "glossary": {
+      "title": "Finance Sounds Complicated? [Not Anymore.]",
+      "text": "A little knowledge can change how you read financial information. Explore the essentials, one term at a time.",
+      "prev": "Previous term",
+      "next": "Next term",
+      "items": [
+        {
+          "term": "Regulated Entity",
+          "text": "An organization authorized by a relevant regulatory authority to conduct specified activities, subject to applicable rules."
+        },
+        {
+          "term": "Risk Disclosure",
+          "text": "Information explaining material risks associated with a financial product or service, helping readers understand possible adverse outcomes."
+        },
+        {
+          "term": "Terms & Conditions",
+          "text": "The contractual provisions that describe rights, responsibilities, restrictions and other conditions of a service."
+        },
+        {
+          "term": "Financial Product",
+          "text": "An instrument or arrangement with financial characteristics, such as a security or investment product, subject to its specific features and applicable rules."
+        }
+      ],
+      "top": "Learn the Basics"
+    },
+    "support": {
+      "title": "Client Support in [Arabic and English]",
+      "text": "Financial matters can raise many questions. You don't have to figure everything out alone. Whether something needs explaining or you're unsure where to begin, our team is here to listen and help you find the information you need.",
+      "hours": "Monday to Friday, 9:00 to 18:00 GST",
+      "cta": "Get in Touch",
+      "top": "Client Support"
+    },
+    "approach": {
+      "label": "GTC FINANCIAL CONSULTANCY",
+      "title": "Clear explanations come first. [Introductions come only when you choose.]",
+      "text": [
+        "As a Dubai-based firm licensed by the UAE Capital Market Authority under Category 5, we help individuals and businesses understand financial products and services before any decision is made. If you decide to go further, we introduce you to a licensed provider and tell you exactly who they are, how they are regulated and what to expect.",
+        "We do not hold client money, manage funds or carry out transactions on anyone's behalf."
+      ],
+      "top": "Our Approach"
+    },
+    "relationship": {
+      "title": "Your Relationship with [GTC Financial Consultancy]",
+      "text": "GTC Financial Consultancy L.L.C. is licensed by the UAE Capital Market Authority under Category 5 (Licence No. 20200000211) for financial consultations, introduction and promotion. We do not hold client money and do not carry out transactions on your behalf. When we introduce you to the licensed provider, your relationship is directly with the provider under its own licence and terms.",
+      "line": "You can verify our licence on the Capital Market Authority's website.",
+      "cta": "Legal Documents",
+      "items": [
+        {
+          "icon": "shield",
+          "title": "Regulated, Without Exception",
+          "text": "Regulated by the UAE Capital Market Authority under Category 5, Licence No. 20200000211. Everything we do stays within that scope."
+        },
+        {
+          "icon": "globe",
+          "title": "Rooted Locally. Connected Globally.",
+          "text": "A Dubai-based team, part of GTC Group, with the insight of a group active across the region with presence in more than 100 countries."
+        },
+        {
+          "icon": "report",
+          "title": "Transparency, By Design",
+          "text": "No jargon and no hidden agendas. You always know what we do, what we don't do, and who we introduce you to."
+        }
+      ],
+      "top": "Your Relationship with Us"
+    },
+    "closing": {
+      "title": "",
+      "text": "You bring the questions. We'll bring the conversation, helpful explanations and a professional perspective on the financial services you want to understand.",
+      "cta": "Get Started"
+    },
+    "about": {
+      "meta": {
+        "title": "About Us | GTC Financial Consultancy L.L.C.",
+        "description": "We help individuals and businesses in the UAE understand financial products and services before they make a decision and introduce them to licensed providers when they choose to go further."
+      },
+      "label": "ABOUT GTC FINANCIAL CONSULTANCY",
+      "title": "Clear Explanations. [Trusted Introductions.]",
+      "text": "We help individuals and businesses in the UAE understand financial products and services before they make a decision and introduce them to licensed providers when they choose to go further.",
+      "cta": "Explore Our Services",
+      "who": {
+        "title": "Who [We Are]",
+        "text": "GTC Financial Consultancy L.L.C. is a Dubai-based company licensed by the UAE Capital Market Authority under Category 5 (Licence No. 20200000211). Our licence covers financial consultations, introduction to licensed financial service providers, and the promotion of financial products and services within our approved scope. We are part of GTC Group, which is active across the region and has presence in more than 100 countries. We do not hold client money, manage funds or carry out transactions on behalf of clients."
+      },
+      "values": {
+        "title": "Our [Values]",
+        "items": [
+          {
+            "icon": "clarity",
+            "title": "Clarity",
+            "text": "We explain financial products and services in plain language, in Arabic or English."
+          },
+          {
+            "icon": "integrity",
+            "title": "Integrity",
+            "text": "We stay within the scope of our license and say plainly what we do and do not do."
+          },
+          {
+            "icon": "transparency",
+            "title": "Transparency",
+            "text": "You always know who we introduce you to, who regulates them and what to expect."
+          },
+          {
+            "icon": "client",
+            "title": "Client Focus",
+            "text": "Your questions set the pace. There is no obligation and no pressure to proceed."
+          },
+          {
+            "icon": "improve",
+            "title": "Continuous Improvement",
+            "text": "We review our processes and our content regularly to keep standards high."
+          }
+        ]
+      },
+      "why": {
+        "title": "Why Choose [GTC Financial Consultancy?]",
+        "items": [
+          "Licensed by the UAE Capital Market Authority",
+          "A Dubai-based team",
+          "Part of GTC Group",
+          "Arabic and English support",
+          "No obligation, no pressure",
+          "Transparent introductions",
+          "Seminars and educational content"
+        ]
+      }
+    },
+    "faqPage": {
+      "meta": {
+        "title": "Frequently Asked Questions | GTC Financial Consultancy L.L.C.",
+        "description": "Straight answers about who we are, what our license allows, how introductions work and how we look after your information."
+      },
+      "label": "HELP CENTRE",
+      "title": "Frequently Asked [Questions]",
+      "text": "Straight answers about who we are, what our license allows, how introductions work and how we look after your information.",
+      "tabsLabel": "Question categories",
+      "all": "All Questions",
+      "groups": [
+        {
+          "key": "about",
+          "title": "About Us",
+          "items": [
+            {
+              "q": "What is GTC Financial Consultancy licensed to do?",
+              "a": "GTC Financial Consultancy L.L.C. is licensed by the UAE Capital Market Authority under Category 5 (Licence No. 20200000211). This covers three activities: financial consultations, introduction to licensed financial service providers, and promotion of financial products and services where our licence permits."
+            },
+            {
+              "q": "How can I check your licence?",
+              "a": "You can search for GTC Financial Consultancy L.L.C. or Licence No. 20200000211 in the register of licensed companies on the <cma>Capital Market Authority's website</cma>."
+            },
+            {
+              "q": "Are you part of a group?",
+              "a": "Yes. We are part of GTC Group. Each company in the Group is a separate legal entity regulated where it operates. The services described on this website are provided only by GTC Financial Consultancy L.L.C., under its CMA licence."
+            },
+            {
+              "q": "Where are you based?",
+              "a": "Our office is at Office 2201, Nassima Tower, Trade Centre First, Dubai, United Arab Emirates."
+            }
+          ]
+        },
+        {
+          "key": "services",
+          "title": "Our Services",
+          "items": [
+            {
+              "q": "Who can use your services?",
+              "a": "Individuals and businesses in the UAE who want to understand financial products and services more clearly. Our team speaks Arabic and English."
+            },
+            {
+              "q": "Do you give personal investment recommendations?",
+              "a": "No. Our consultations provide general information to help you understand your options. Any decision is yours, and we encourage you to read the provider's documents and seek independent advice where needed."
+            },
+            {
+              "q": "Do you hold my money or act on my behalf?",
+              "a": "No. We do not hold client money, manage funds, or carry out any transaction on your behalf. Our role is to explain and, if you choose, to introduce you to a licensed provider."
+            },
+            {
+              "q": "Do you run seminars or educational events?",
+              "a": "Yes. We hold seminars and publish educational content in Arabic and English that explain financial concepts in plain language. Upcoming events are announced on this website and on our social media channels."
+            }
+          ]
+        },
+        {
+          "key": "introductions",
+          "title": "Introductions",
+          "items": [
+            {
+              "q": "How will I know who you are introducing me to?",
+              "a": "Before any introduction, we tell you the provider's name, who regulates them, and what services they offer. You decide whether to proceed."
+            },
+            {
+              "q": "Do I have to go ahead after an introduction?",
+              "a": "No. An introduction places you under no obligation. You can stop at any point, and you decide whether to use the provider's services."
+            },
+            {
+              "q": "Who is responsible for the services the provider gives me?",
+              "a": "The provider. Its services are given under its own license, terms and documents, and your agreement for those services is with the provider, not with GTC Financial Consultancy L.L.C. Please refer to the provider's agreements and policies carefully before you decide."
+            }
+          ]
+        }
+      ]
+    },
+    "contactPage": {
+      "meta": {
+        "title": "Contact Us | GTC Financial Consultancy L.L.C.",
+        "description": "If you would like to understand a financial product or service better, or learn more about what we do, our team is here to help, in Arabic or English."
+      },
+      "title": "Contact [Us]",
+      "sub": "Learn More About Our Services",
+      "text": "If you would like to understand a financial product or service better, or learn more about what we do, our team is here to help. We respond to every enquiry promptly and professionally, in Arabic or English.",
+      "address": "Office 2201, Nassima Tower, Trade Centre First, Dubai, United Arab Emirates",
+      "labels": {
+        "address": "Address",
+        "phone": "Phone",
+        "email": "Email",
+        "hours": "Hours"
+      },
+      "map": "Map of Nassima Tower, Trade Centre First, Dubai"
+    }
+  }
+}

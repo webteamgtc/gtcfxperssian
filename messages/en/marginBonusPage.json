@@ -1,0 +1,231 @@
+{
+  "marginBonusPage": {
+    "meta": {
+      "title": "Margin Bonus | Up to $20,000 Extra Margin | GTCFX",
+      "description": "Enhance your trading power with additional margin support, giving you greater flexibility to seize market opportunities."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "trading": "Trading",
+      "current": "Margin Bonus"
+    },
+    "hero": {
+      "badge": "Margin Bonus Promotion",
+      "title": "What Is The [GTC Margin Bonus]?",
+      "text": "A Margin Bonus is a non-withdrawable and non-transferable credit issued based on your deposit amount. It increases your account's usable margin, giving you more room to trade during periods of high market volatility.",
+      "warning": "Important: The bonus can be lost and will not be restored if removed. It cannot be withdrawn or transferred at any point.",
+      "apply": "Apply Now",
+      "terms": "Read the Terms"
+    },
+    "calculator": {
+      "title": "Bonus Calculator",
+      "deposit": "Your deposit",
+      "bonus": "Your margin bonus",
+      "usable": "Usable margin",
+      "tiers": ["50% up to $10,000", "20% above $10,000"],
+      "capped": "Maximum bonus reached",
+      "note": "Estimate only. Minimum qualifying deposit $500, bonus capped at $20,000."
+    },
+    "summary": [
+      { "label": "Minimum Deposit", "value": "$500+" },
+      { "label": "Bonus Rate", "value": "50% / 20%" },
+      { "label": "Max Bonus", "value": "$20,000" },
+      { "label": "Cashback", "value": "$3 / lot" }
+    ],
+    "steps": {
+      "title": "How to [Apply]",
+      "description": "Two steps and your bonus request is processed automatically.",
+      "items": [
+        { "title": "Register", "text": "Register for the promotion by submitting the form on the campaign page." },
+        { "title": "Deposit", "text": "Make a qualifying deposit of at least $500 into your verified live trading account." },
+        { "title": "Get Your Bonus", "text": "Once both steps are completed, your bonus request will be automatically processed." },
+        { "title": "Registered Clients Only", "text": "Only registered clients will be eligible to receive the bonus." }
+      ]
+    },
+    "terms": {
+      "title": "Terms & [Conditions]",
+      "description": "Everything you need to know before you claim the GTC Margin Bonus.",
+      "contents": "Contents",
+      "sections": [
+        {
+          "id": "eligibility",
+          "title": "Eligibility",
+          "points": [
+            "The Promotion is available exclusively to clients with fully verified live trading accounts.",
+            {
+              "text": "It applies to:",
+              "items": ["First-time deposits of at least $500 made by new clients.", "Top-up deposits by existing clients, applied only to the newly deposited amount."]
+            },
+            "The Promotion is available on all account types, except for Cent accounts.",
+            "Each client may participate once, unless otherwise authorized in writing.",
+            "Clients trading via MAM, PAMM, or Social Trading are not eligible.",
+            "The bonus is a non-losing bonus used exclusively to support margin. It does not constitute real balance and cannot be withdrawn or transferred."
+          ],
+          "restricted": {
+            "label": "Not available in",
+            "countries": [
+              { "code": "CN", "name": "China" },
+              { "code": "VN", "name": "Vietnam" },
+              { "code": "TW", "name": "Taiwan" },
+              { "code": "HK", "name": "Hong Kong" },
+              { "code": "ID", "name": "Indonesia" },
+              { "code": "PK", "name": "Pakistan" }
+            ]
+          }
+        },
+        {
+          "id": "bonus-size",
+          "title": "Bonus Size and Structure",
+          "points": [
+            {
+              "text": "The bonus amount is calculated as:",
+              "items": ["50% of the deposit amount for deposits up to $10,000", "20% of the portion that exceeds $10,000"]
+            },
+            "The maximum total bonus per client is capped at $20,000.",
+            "To receive the bonus, the client must first register for the promotion and then make a qualifying deposit.",
+            "Once registered and funded, the bonus request will be automatically generated and processed."
+          ]
+        },
+        {
+          "id": "cashback",
+          "title": "Cashback Conditions",
+          "points": [
+            "Clients who receive the Margin Bonus are eligible to claim $3 per full lot traded on FX pairs, gold, metals, and oil within a 3-month period.",
+            {
+              "text": "Cashback can be requested only once and to qualify:",
+              "items": ["The cashback amount must be at least $500", "It must represent at least 20% of the bonus received"]
+            },
+            "The total cashback is capped at the value of the bonus received.",
+            "Cashback must be requested through the client's personal account manager.",
+            "Cashback will be credited within 7 business days once approved."
+          ],
+          "examples": {
+            "label": "Examples",
+            "eligible": "Eligible",
+            "ineligible": "Ineligible",
+            "items": [
+              { "text": "If a client receives a $2,500 bonus, they must trade at least ~167 lots to earn $500 in cashback.", "eligible": true },
+              { "text": "If a client receives a $3,000 bonus and trades only ~133 lots to earn $400 cashback.", "eligible": false },
+              { "text": "If a client receives a $1,000 bonus, they must trade at least ~167 lots to earn $500 cashback, which is over 50% of the bonus.", "eligible": true },
+              { "text": "If a client receives a $5,000 bonus and trades 100 lots to earn $300 cashback.", "eligible": false }
+            ]
+          }
+        },
+        {
+          "id": "bonus-use",
+          "title": "Bonus Use and Nature",
+          "points": [
+            {
+              "text": "The Margin Bonus is strictly for trading margin support and cannot be:",
+              "items": ["Withdrawn", "Transferred", "Used as tradable or real account balance"]
+            },
+            "Any withdrawal from the client's account will result in automatic removal of the bonus."
+          ]
+        },
+        {
+          "id": "withdrawal",
+          "title": "Withdrawal Conditions",
+          "points": [
+            "GTCFX reserves the right to remove the bonus if the account equity falls below the bonus amount.",
+            "Once removed, the bonus will not be reinstated under any circumstances."
+          ]
+        },
+        {
+          "id": "expiry",
+          "title": "Bonus Expiry",
+          "points": [
+            "The Margin Bonus is valid for up to 3 months from the date of the first qualifying deposit.",
+            "GTCFX may remove the bonus automatically after the 3-month period, regardless of trading activity.",
+            "If cashback conditions are not met within the 3-month period, eligibility for cashback is forfeited."
+          ]
+        },
+        {
+          "id": "abuse",
+          "title": "Abuse Policy",
+          "points": [
+            {
+              "text": "Abuse of the promotion is strictly prohibited. Examples include:",
+              "items": ["Hedging between multiple accounts or brokers", "Latency arbitrage or other technical exploits", "Coordinated manipulation of bonus terms"]
+            },
+            {
+              "text": "GTCFX reserves the right to:",
+              "items": ["Remove the bonus without prior notice", "Cancel cashback or profits obtained through abusive behavior", "Suspend or terminate client accounts involved in fraud or abuse"]
+            }
+          ]
+        },
+        {
+          "id": "stop-out",
+          "title": "Stop Out Policy",
+          "points": ["If the account equity reaches the stop-out level, or if the floating loss equals the actual account balance, the Margin Bonus will be automatically removed."]
+        },
+        {
+          "id": "acknowledgment",
+          "title": "Client Acknowledgment",
+          "points": [
+            "By accepting the Margin Bonus, the client acknowledges and agrees to these Terms & Conditions.",
+            "Misuse of the Promotion may result in the removal of the bonus, forfeiture of profits, and/or suspension of the trading account."
+          ]
+        }
+      ]
+    },
+    "apply": {
+      "eyebrow": "Margin Bonus",
+      "title": "Apply for the [Margin Bonus]",
+      "text": "Verify your e-mail, enter your live account number and deposit amount, and your bonus request is processed automatically.",
+      "notes": [
+        "To claim cashback, reach out directly to your Personal Account Manager once the trading and eligibility requirements are fulfilled.",
+        "For assistance, contact your Account Manager or the GTCFX Support Team."
+      ],
+      "noAccount": "Don't have a live account yet?",
+      "openLive": "Open Live Account",
+      "form": {
+        "title": "Apply for Margin Bonus",
+        "steps": ["Open Live Account", "Fund your Account", "Apply for Margin Bonus"],
+        "fullName": "Full Name",
+        "email": "Email Address",
+        "code": "Verification Code",
+        "codePlaceholder": "6-digit code",
+        "getCode": "Send Code",
+        "resendCode": "Resend",
+        "sendingCode": "Sending…",
+        "codeSent": "Enter the 6-digit code we sent to {email}.",
+        "checking": "Checking your e-mail…",
+        "registered": "Email registered. Please proceed.",
+        "notRegistered": "Your email is not registered. <link>Open an account</link> first.",
+        "phone": "Phone Number",
+        "account": "Account Number",
+        "accountPlaceholder": "Live account number",
+        "deposit": "Deposit Amount (USD)",
+        "depositPlaceholder": "e.g. 1000",
+        "country": "Country",
+        "countrySelect": "Please Select Country",
+        "countryLoading": "Loading countries…",
+        "terms": "By clicking submit I acknowledge and agree to all terms of the Margin Bonus. Misuse of the offer may result in bonus removal, profit cancellation, or account suspension.",
+        "submit": "Submit Application",
+        "submitting": "Submitting…",
+        "errors": {
+          "fullName": "Full Name is required",
+          "letters": "Only letters are allowed",
+          "email": "Email Address is required",
+          "emailInvalid": "Invalid email address",
+          "code": "Enter the 6-digit code from your e-mail",
+          "codeFirst": "Send the code to your e-mail first",
+          "codeError": "Couldn't send the code. Please try again.",
+          "otp": "Wrong or expired code, please try again.",
+          "phone": "Phone Number is required",
+          "phoneInvalid": "Invalid phone number",
+          "account": "Account Number is required",
+          "accountDigits": "Account Number must be 6-8 digits",
+          "deposit": "Deposit Amount is required",
+          "depositMin": "Enter an amount greater than 0",
+          "country": "Country is required",
+          "countryLoad": "Couldn't load countries",
+          "terms": "Please accept the terms and conditions",
+          "notRegistered": "Your email is not registered. Please open a live account first.",
+          "alreadyApplied": "You have already applied with this e-mail.",
+          "generic": "Something went wrong. Please try again."
+        }
+      }
+    }
+  }
+}

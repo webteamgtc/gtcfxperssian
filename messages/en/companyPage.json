@@ -1,0 +1,2097 @@
+{
+  "companyPage": {
+    "meta": {
+      "title": "GTCFX Company | Regulations, Awards, Partners & Support",
+      "description": "Explore GTCFX company information — global regulations, industry awards, partnership programs, leverage details, and support resources from a trusted Forex & CFD broker."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "company": "Company"
+    },
+    "hubSection": {
+      "title": "About GTCFX",
+      "description": "GTCFX is a global leader in financial derivatives, established in 2012. The GTCFX brand encompasses multiple companies that provide a diverse range of online trading products, serving over 985,000 clients worldwide. GTCFX is recognized for its commitment to delivering top-tier financial services, with a strong emphasis on excellence and innovation.",
+      "ctaLive": "Open Live Account",
+      "ctaSecondary": "Our Licences"
+    },
+    "legalSection": {
+      "title": "Legal Information",
+      "subtitle": "GTCFX Regulation",
+      "description": "GTC Group owns the following entities globally, together the GTC Financial Group. Each of these entities provides financial services according to their respective licences in the relevant jurisdiction.",
+      "viewMore": "View More",
+      "entities": {
+        "australia": {
+          "name": "Australia",
+          "text": "GTC Global (Australia) Pty Ltd holds an Australian Financial Services Licence number 496371. GTC Global (Australia) focuses on providing education services to Australian clients."
+        },
+        "mauritius": {
+          "name": "Mauritius",
+          "text": "GTC Global Ltd. is a limited company incorporated in Mauritius (company number: C188049) and licensed by the Financial Services Commission, Mauritius (No. GB22200292) to trade as an SEC-2."
+        },
+        "southAfrica": {
+          "name": "South Africa",
+          "text": "GTC Global SA (Pty) Ltd (Company No. 2020/810937/07) is an authorised financial services provider (FSP No. 51545). Its registered address is 18 Cavendish Road, Claremont, Cape Town, Western Cape, 7708, South Africa. The company is neither a market maker nor a product issuer and acts solely as an intermediary under the Financial Advisory and Intermediary Services Act, 2002 (FAIS)."
+        },
+        "vanuatu": {
+          "name": "Vanuatu",
+          "text": "GTC Global Trade Capital Co. Limited, is a global finance brokerage company registered, supervised, and authorized by the Vanuatu Financial Services Commission of the Republic of Vanuatu Company license number: 40354. Registered address: 1/Floor, B&P House, Kumul Highway, Port Vila, Vanuatu."
+        },
+        "cambodia": {
+          "name": "Cambodia",
+          "text": "GTCFX Co., Ltd. is licensed by the Securities and Exchange Regulator of Cambodia (SERC) as a Derivative Broker under licence number 043 N.M.K./A.B./Ch.U., valid from 8 October 2026 to 7 October 2028. Registered address: Building No. 40, 8th Floor, Street 289, Phum 13, Sangkat Boeung Kak 1, Khan Tuol Kork, Phnom Penh, Cambodia."
+        }
+      },
+      "entity": "Regulated entity"
+    },
+    "awardsSection": {
+      "title": "GTCFX Awards",
+      "subtitle": "Award-Winning CFD Broker Recognized for Excellence",
+      "description": "GTCFX has earned industry recognition across multiple international expos and financial events, reflecting our commitment to innovation, service quality, and excellence in global trading solutions.",
+      "viewMore": "View More",
+      "prev": "Previous awards",
+      "next": "Next awards",
+      "items": [
+        {
+          "title": "Best Liquidity Provider Globally",
+          "image": "/awards/1.webp"
+        },
+        {
+          "title": "Best Liquidity Provider",
+          "image": "/awards/2.webp"
+        },
+        {
+          "title": "Best Forex Introducing Broker",
+          "image": "/awards/3.webp"
+        }
+      ],
+      "recognised": "Recognised by the industry"
+    },
+    "leverageSection": {
+      "title": "Leverage Information",
+      "viewMore": "View More",
+      "points": {
+        "multiplier": {
+          "title": "Leverage Multiplier Effect",
+          "description": "Leverage amplifies both losses and profits equally. A 1% market move on a 1:100 leveraged position results in a 100% gain or loss on your margin — understanding this relationship is essential before trading with leverage."
+        },
+        "margin": {
+          "title": "Leverage Ratio & Margin Relationship",
+          "description": "Leverage multiple determines required margin ratio: Margin = Position Value ÷ Leverage"
+        },
+        "lots": {
+          "title": "Contract Size & Lot Size",
+          "description": "Standard Lot = 100,000 Base Currency Units\nMini Lot (0.01 Lot) = 1,000 Base Currency Units"
+        }
+      },
+      "calculator": {
+        "title": "See leverage at work",
+        "leverage": "Leverage",
+        "position": "Position value",
+        "margin": "Required margin",
+        "move": "If the market moves 1%",
+        "ofMargin": "{pct}% of your margin",
+        "note": "Illustrative example only. Leverage magnifies losses as well as gains."
+      }
+    },
+    "helpCenterSection": {
+      "title": "Help Center",
+      "headlineLine1": "We're here to help",
+      "headlineLine2": "you",
+      "description": "Your satisfaction is our top priority — we're dedicated to ensuring a seamless and professional experience with our services.",
+      "viewMore": "View More",
+      "features": {
+        "fastResponse": {
+          "title": "Fast Response",
+          "description": "Replies within 24 hours on all business days, no waiting around."
+        },
+        "localExpertise": {
+          "title": "Local Expertise",
+          "description": "Agents who deeply understand your regional market and local needs."
+        },
+        "secure": {
+          "title": "Secure & Confidential",
+          "description": "Your data is fully encrypted and handled in accordance with our Privacy Policy."
+        }
+      }
+    },
+    "partnerSection": {
+      "title": "Partner with Us",
+      "description": "Enhance your business and expand your client network with our partnership programs unlock the full potential of your business and maximize earnings through our dedicated ib program, designed to accelerate growth and boost your profitability",
+      "tabs": {
+        "partners": {
+          "label": "Partners Program",
+          "contentTitle": "Partners Program",
+          "contentDescription": "Grow your Introducing Broker business with dedicated support, marketing resources, and competitive revenue structures designed to help you scale your client network and maximize profitability.",
+          "linkAriaLabel": "Open Partners Program"
+        },
+        "prime": {
+          "label": "GTCFX Prime",
+          "contentTitle": "GTCFX Prime",
+          "contentDescription": "Access institutional-grade liquidity and advanced trading technology with GTC Prime. Benefit from tailor-made pricing sourced from tier-1 banks, DMA execution, and end-to-end broker solutions built for professional trading communities.",
+          "linkAriaLabel": "Open GTCFX Prime"
+        }
+      }
+    },
+    "trustPromiseSection": {
+      "eyebrow": "Trust promise",
+      "title": "Trust promise",
+      "description": "GTCFX establishes and practices an ESG strategy for sustainable management and long-term value for our clients and communities.",
+      "panels": {
+        "environment": {
+          "title": "Environment",
+          "description": "Through environmental management and health & safety practices, we protect corporate wellbeing, social wellbeing, and the health of our planet."
+        },
+        "social": {
+          "title": "Social",
+          "description": "As members of society, we fulfill our social responsibilities to clients, employees, and local communities."
+        },
+        "governance": {
+          "title": "Governance",
+          "description": "Through responsible and ethical management, we do our utmost to protect the rights and interests of shareholders and stakeholders."
+        }
+      }
+    },
+    "ctaSection": {
+      "eyebrow": "Still need assistance?",
+      "title": "Didn't Find What You Were Looking For?",
+      "description": "Submit an enquiry or contact our support team using one of the channels above. Our team can assist with account, platform, payment and general service-related matters. GTCFX provides general and administrative support only through this page. Nothing communicated through our support channels constitutes investment, legal or tax advice.",
+      "live": "Open Live Account",
+      "demo": "Open Free Demo Account"
+    }
+  },
+  "aboutUsPage": {
+    "meta": {
+      "title": "About GTCFX | Global Trading Company & Trusted Broker",
+      "description": "Learn about GTCFX, a global Forex and CFD trading platform serving 985,000+ clients across 100+ countries. Discover our technology, trading services, and commitment to excellence."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "company": "Company",
+      "current": "About Us"
+    },
+    "hero": {
+      "title": "Trade Without Borders [worldwide]",
+      "description": "Since 2012, GTCFX has been committed to providing every trader with an institutional-grade market experience through deep liquidity, lightning-fast execution, and strict compliance—no matter where you are.",
+      "cta": "Start trading",
+      "network": "Live network",
+      "markets": "100+ markets",
+      "facts": [
+        {
+          "label": "Headquarters",
+          "value": "Dubai, UAE"
+        },
+        {
+          "label": "Execution",
+          "value": "< 10ms NDD"
+        },
+        {
+          "label": "Platforms",
+          "value": "MT4 · MT5"
+        },
+        {
+          "label": "Regulated",
+          "value": "Multi Regulated"
+        }
+      ]
+    },
+    "strength": {
+      "title": "Numbers are our most [honest language.]",
+      "description": "Multi-regulated and globally trusted, serving over 985,000 active clients worldwide — every number reflects traders' trust in GTCFX.",
+      "items": [
+        {
+          "value": 2012,
+          "prefix": "",
+          "suffix": "",
+          "plain": true,
+          "label": "Year founded",
+          "tag": "Est.",
+          "text": "Established over 14 years ago, deeply rooted in the global CFD industry."
+        },
+        {
+          "value": 985,
+          "prefix": "",
+          "suffix": "K+",
+          "label": "Active traders",
+          "tag": "Clients",
+          "text": "Global active traders vote with real money."
+        },
+        {
+          "value": 30,
+          "prefix": "",
+          "suffix": "+",
+          "label": "Industry awards",
+          "tag": "Awards",
+          "text": "Internationally recognized authoritative awards, widely recognized in the industry."
+        }
+      ]
+    },
+    "story": {
+      "title": "A global journey starting from [Dubai]",
+      "description": "GTCFX is a leading global financial derivatives trading platform, dedicated to providing individual and institutional investors with low-latency, high-liquidity trading services.",
+      "hq": "Headquarters",
+      "since": "Since",
+      "lat": "25.2048° N",
+      "lng": "55.2708° E",
+      "headline": "A MENA based fintech brand serving traders worldwide.",
+      "paragraphs": [
+        "GTCFX is a global CFD trading brand headquartered in Dubai. Since 2012, we have focused on building a secure, efficient, and transparent trading environment for clients across more than 100 countries.",
+        "From deep liquidity and fast execution to regulatory compliance and localized support, every part of our operation is designed to help traders access global markets with confidence."
+      ],
+      "focusLabel": "Focus",
+      "focus": "Foreign Exchange, Precious Metals, Stock Indices, Commodities",
+      "serviceLabel": "Service",
+      "service": "Retail investors, institutional investors, and high-net-worth clients"
+    },
+    "why": {
+      "title": "Why do over 985,000 traders worldwide [choose GTCFX?]",
+      "description": "Starting from Dubai, serving over 985,000 active clients worldwide — every number reflects traders' trust in GTCFX.",
+      "items": [
+        {
+          "id": "execution",
+          "title": "Lightning-fast order execution",
+          "text": "Order execution time < 10ms, NDD (No Dealing Desk Intervention) mode, zero duplicate quotes. Deep liquidity pools support institutional-level price response.",
+          "stats": [
+            {
+              "value": "<10ms",
+              "label": "Execution"
+            },
+            {
+              "value": "0",
+              "label": "Requotes"
+            },
+            {
+              "value": "NDD",
+              "label": "Model"
+            }
+          ]
+        },
+        {
+          "id": "pricing",
+          "title": "Ultra-low spread cost",
+          "text": "EURUSD as low as 0.0 pips, gold as low as 0.12 pips. Institutional-grade liquidity providers make every trade more cost-effective.",
+          "note": "EURUSD · 0.0 pips"
+        },
+        {
+          "id": "compliance",
+          "title": "Global multi-regulation",
+          "text": "Subject to regulatory requirements, client funds are FSCA, VFSC, FCA, ASIC, and FSC, client funds are held in segregated accounts, ensuring comprehensive protection of rights and interests.",
+          "note": "5 regulators"
+        },
+        {
+          "id": "platforms",
+          "title": "Multi-platform support",
+          "text": "Seamless synchronization across multiple devices including MT4, MT5, and GTC Go App."
+        },
+        {
+          "id": "service",
+          "title": "24/7 Multilingual Customer Service",
+          "text": "Our dedicated Arabic, English, and Chinese teams are online throughout the process."
+        }
+      ]
+    },
+    "explore": {
+      "title": "In-depth [understanding of GTCFX]",
+      "description": "From brand vision to global reach, from career opportunities to industry events—explore every dimension of GTCFX.",
+      "more": "Learn more",
+      "items": [
+        {
+          "id": "why",
+          "title": "Why GTC Group",
+          "text": "Understand our mission, vision and core values",
+          "href": "/company/why-gtc-group"
+        },
+        {
+          "id": "global",
+          "title": "Global Presence",
+          "text": "Explore our global footprint and regulatory entities.",
+          "href": "/company/global-presence"
+        },
+        {
+          "id": "events",
+          "title": "Events & Exhibitions",
+          "text": "View the global exhibitions and events that GTCFX participates in.",
+          "href": "/company/events-and-exhibitions"
+        }
+      ]
+    },
+    "recognition": {
+      "title": "Industry recognition, [numerous awards]",
+      "description": "GTCFX maintains deep partnerships with top global fintech events, liquidity providers, and platform suppliers, and has received industry recognition on multiple occasions.",
+      "cta": "Start trading",
+      "items": [
+        {
+          "title": "Best CFD Broker",
+          "by": "International Business Magazine",
+          "tag": "Best CFD broker",
+          "year": "2024"
+        },
+        {
+          "title": "Most trusted broker",
+          "by": "Global Forex Awards",
+          "tag": "Most trusted",
+          "year": "2023"
+        },
+        {
+          "title": "Excellent Customer Service Award",
+          "by": "MENA Financial Awards",
+          "tag": "Customer service",
+          "year": "2023"
+        },
+        {
+          "title": "Best Regulatory Compliance Brand",
+          "by": "Forex Brokers Review",
+          "tag": "Compliance",
+          "year": "2022"
+        },
+        {
+          "title": "Best broker in the Middle East",
+          "by": "MENA Forex Show",
+          "tag": "Middle East",
+          "year": "2022"
+        }
+      ]
+    },
+    "regulated": {
+      "title": "Protected and recognized across [five global jurisdictions]",
+      "cta": "Complete regulatory information",
+      "items": [
+        {
+          "code": "FSCA",
+          "country": "S. Africa"
+        },
+        {
+          "code": "VFSC",
+          "country": "Vanuatu"
+        },
+        {
+          "code": "FCA",
+          "country": "UK"
+        },
+        {
+          "code": "ASIC",
+          "country": "Australia"
+        },
+        {
+          "code": "FSC",
+          "country": "Mauritius"
+        }
+      ]
+    },
+    "mission": {
+      "label": "Our mission",
+      "quote": "To enable every trader to participate in global financial markets on [institutional-grade terms] —no matter where you are.",
+      "signature": "GTCFX · Trading for everyone"
+    },
+    "cta": {
+      "title": "Ready to join [985,000+] global traders. Are you in line?",
+      "card": "Open an account in 3 minutes and start your global trading journey immediately.",
+      "live": "Open Live Account",
+      "demo": "Open Demo Account"
+    }
+  },
+  "whyGtcGroupPage": {
+    "meta": {
+      "title": "Why Choose GTCFX | Forex & CFD Trading Platform Benefits",
+      "description": "Discover why traders choose GTCFX. Trade Forex and CFDs with tight spreads, fast execution, advanced platforms like MT4 & MT5, and reliable global support."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "company": "Company",
+      "current": "Why GTC Group"
+    },
+    "hero": {
+      "title": "Why Clients Choose GTCFX It's All In The [Numbers]",
+      "description": "Explore our diverse range of products, high-quality services, trading platforms, available markets and client-service features. Product availability, pricing and execution conditions may vary depending on the account type, platform and prevailing market conditions.",
+      "cta": "Open Live Account",
+      "stats": [
+        {
+          "id": "support",
+          "value": 3,
+          "label": "Global Support Centre",
+          "note": "UAE – UK – Cyprus"
+        },
+        {
+          "id": "compensation",
+          "value": 20,
+          "prefix": "€",
+          "suffix": "K",
+          "label": "Per-client compensation via Financial Commission"
+        },
+        {
+          "id": "latency",
+          "plain": "<1ms",
+          "label": "Order execution latency across global liquidity"
+        },
+        {
+          "id": "markets",
+          "value": 7,
+          "suffix": "+",
+          "label": "Trading Markets",
+          "note": "Forex, Metals, Indices, Shares & more"
+        }
+      ]
+    },
+    "mission": {
+      "label": "Our Mission Statement",
+      "quote": "We are not just a broker. We are builders of technology and practitioners of compliance. GTCFX is rooted in Dubai — [built for the world.]"
+    },
+    "commitments": {
+      "title": "Our Four Core [Commitments]",
+      "description": "Our four commitments define our relationship with each client and every investment decision we make.",
+      "items": [
+        {
+          "id": "transparency",
+          "title": "Transparency",
+          "text": "We provide clear information about our services, legal entities, terms, fees, and risks. Full details are in the Client Agreement and related documents, which should be reviewed before opening or funding an account."
+        },
+        {
+          "id": "security",
+          "title": "Security",
+          "text": "We apply operational and technical controls designed to protect client information and support the appropriate handling of client funds. Where applicable, client funds are held separately from company operating funds."
+        },
+        {
+          "id": "professionalism",
+          "title": "Professionalism",
+          "text": "We offer a range of trading tools, account types, and support services for eligible retail and professional clients. Features and availability may vary depending on the account type, platform, client classification, and jurisdiction."
+        },
+        {
+          "id": "connectivity",
+          "title": "Connectivity",
+          "text": "We provide eligible clients with access to international markets through our trading platforms and support infrastructure."
+        }
+      ]
+    },
+    "rooted": {
+      "title": "Rooted In Dubai, [Serving The World]",
+      "paragraphs": [
+        "GTCFX is a global CFD trading brand headquartered in Dubai. Since 2012, we have focused on building a secure, efficient, and transparent trading environment for clients across more than 100 countries.",
+        "Deeply embedded in the Middle East and Asia-Pacific markets, our localized expertise powers global trading needs — bridging regional depth with international reach."
+      ],
+      "cta": "Open Live Account",
+      "badge": "Headquarters",
+      "city": "Dubai, UAE",
+      "since": "Since 2012",
+      "reach": "100+ countries"
+    },
+    "recognition": {
+      "title": "Recognized Across [Global Stages]",
+      "description": "Every feature we offer exists because our clients demanded security, speed, and transparency — and we delivered.",
+      "items": [
+        {
+          "id": "expo",
+          "title": "Forex Expo Dubai",
+          "text": "Platinum sponsor and active exhibitor at the region's premier FX industry event, connecting with traders and professionals across MENA.",
+          "date": "2023 - 2024"
+        },
+        {
+          "id": "fintech",
+          "title": "Fintech & Crypto Summit",
+          "text": "Strategic sponsor at Dubai's flagship fintech summit — showcasing our commitment to emerging financial technologies and innovation.",
+          "date": "2024"
+        },
+        {
+          "id": "commission",
+          "title": "Financial Commission",
+          "text": "Full membership with the Financial Commission's independent dispute resolution and compensation fund — up to $20,000 per trader claim.",
+          "date": "Member Since 2022"
+        }
+      ]
+    },
+    "edge": {
+      "title": "What makes GTCFX [different]",
+      "description": "In an industry full of similar-sounding firms, GTCFX is built differently — from our ownership structure to how we custody your assets.",
+      "items": [
+        {
+          "id": "reach",
+          "title": "Global Reach, Local Expertise",
+          "text": "Offices across three continents with on-the-ground teams who understand regional markets, regulations, and opportunities firsthand — not via a report from headquarters."
+        },
+        {
+          "id": "conflicts",
+          "title": "No Conflicts of Interest",
+          "text": "We never take proprietary positions against our clients or receive hidden commissions from product providers. Every recommendation aligns with your goals — full stop."
+        },
+        {
+          "id": "funds",
+          "title": "Fully Segregated Client Funds",
+          "text": "Client assets are held in segregated accounts at tier-1 custodians — completely separate from GTCFX's operational capital. This isn't a policy; it's structural protection."
+        },
+        {
+          "id": "risk",
+          "title": "Real-Time Risk Management",
+          "text": "Proprietary monitoring systems track exposure 24/7 across all positions. Stress-testing runs continuously — not just at quarter-end when it's too late to matter."
+        }
+      ]
+    },
+    "voices": {
+      "title": "Verified client [experiences]",
+      "description": "Real feedback from traders across regions. We let the words speak — no editing, no filtering.",
+      "rating": "5 out of 5 stars",
+      "items": [
+        {
+          "name": "Khalid A.",
+          "role": "UAE Retail Trader",
+          "quote": "Approved testimonial text pending — paste the client's exact words here."
+        },
+        {
+          "name": "Michelle L.",
+          "role": "Asia-Pacific Institutional Client",
+          "quote": "Approved testimonial text pending — paste the client's exact words here."
+        },
+        {
+          "name": "Rania A.",
+          "role": "Cairo, Forex Trader",
+          "quote": "Approved testimonial text pending — paste the client's exact words here."
+        }
+      ],
+      "links": [
+        {
+          "id": "google",
+          "label": "View Google reviews",
+          "href": ""
+        },
+        {
+          "id": "myfxbook",
+          "label": "Myfxbook verified reviews",
+          "href": ""
+        },
+        {
+          "id": "wikifx",
+          "label": "View on WikiFX",
+          "href": ""
+        },
+        {
+          "id": "investing",
+          "label": "View on Investing.com",
+          "href": ""
+        }
+      ]
+    },
+    "cta": {
+      "title": "Start Your Investment Journey [Today.]",
+      "text": "Join thousands of investors who trust GTCFX to protect and grow their capital across global markets — with full transparency and no hidden agenda.",
+      "live": "Open Live Account"
+    }
+  },
+  "globalPresencePage": {
+    "meta": {
+      "title": "Global Presence | GTCFX Forex & CFD Trading Platform Worldwide",
+      "description": "Explore GTCFX’s regulated entities and global footprint. Trade Forex and CFDs with a broker serving clients in 100+ countries with support in 20+ languages."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "company": "Company",
+      "current": "Global Presence"
+    },
+    "hero": {
+      "title": "Global Reach, [Local Authority]",
+      "description": "GTCFX operates through independently regulated entities across multiple jurisdictions — ensuring every client is served within a fully compliant, supervised framework.",
+      "primary": "Open Account",
+      "secondary": "View Licences",
+      "hq": "Dubai HQ",
+      "commission": "Financial Commission member",
+      "stats": [
+        {
+          "value": 5,
+          "label": "Regulated Entities"
+        },
+        {
+          "value": 20,
+          "prefix": "$",
+          "suffix": "K",
+          "label": "Client Protection"
+        },
+        {
+          "value": 20,
+          "suffix": "+",
+          "label": "Languages Supported"
+        }
+      ]
+    },
+    "entities": {
+      "title": "Five Entities. [One Standard of Compliance.]",
+      "description": "Each GTCFX entity is independently licensed and supervised by its local regulatory authority, providing clients with transparent, accountable service within established legal frameworks.",
+      "cta": "Complete regulatory information",
+      "labels": {
+        "authority": "Regulatory Authority",
+        "type": "Licence Type",
+        "licence": "Licence Number",
+        "company": "Company No.",
+        "validity": "Validity Period",
+        "address": "Registered Address"
+      },
+      "items": [
+        {
+          "id": "australia",
+          "code": "AU",
+          "name": "GTC Global (Australia) Pty Ltd",
+          "place": "Australia · Sydney",
+          "rows": [
+            {
+              "id": "authority",
+              "value": "Australian Securities & Investments Commission (ASIC)"
+            },
+            {
+              "id": "type",
+              "value": "Australian Financial Services Licence"
+            },
+            {
+              "id": "licence",
+              "value": "496371"
+            }
+          ],
+          "tier": "Tier 1"
+        },
+        {
+          "id": "mauritius",
+          "code": "MU",
+          "name": "GTC Global Ltd",
+          "place": "Mauritius · Port Louis",
+          "rows": [
+            {
+              "id": "authority",
+              "value": "Financial Services Commission (FSC)"
+            },
+            {
+              "id": "type",
+              "value": "SEC-2 Investment Dealer"
+            },
+            {
+              "id": "licence",
+              "value": "GB22200292"
+            },
+            {
+              "id": "company",
+              "value": "C188049"
+            }
+          ]
+        },
+        {
+          "id": "cambodia",
+          "code": "KH",
+          "name": "GTCFX Co., Ltd.",
+          "place": "Cambodia · Phnom Penh",
+          "rows": [
+            {
+              "id": "authority",
+              "value": "Securities and Exchange Regulator of Cambodia (SERC)"
+            },
+            {
+              "id": "type",
+              "value": "Derivative Broker"
+            },
+            {
+              "id": "licence",
+              "value": "043 N.M.K./A.B./Ch.U."
+            },
+            {
+              "id": "validity",
+              "value": "8 October 2026 – 7 October 2028"
+            },
+            {
+              "id": "address",
+              "value": "Building No. 40, 8th Floor, Street 289, Phum 13, Sangkat Boeung Kak 1, Khan Tuol Kork, Phnom Penh, Cambodia"
+            }
+          ]
+        },
+        {
+          "id": "southAfrica",
+          "code": "ZA",
+          "name": "GTC Global SA (Pty) Ltd",
+          "place": "South Africa · Cape Town",
+          "rows": [
+            {
+              "id": "authority",
+              "value": "Financial Sector Conduct Authority (FSCA)"
+            },
+            {
+              "id": "type",
+              "value": "Authorised Financial Services Provider (intermediary, FAIS)"
+            },
+            {
+              "id": "licence",
+              "value": "FSP No. 51545"
+            },
+            {
+              "id": "company",
+              "value": "2020/810937/07"
+            },
+            {
+              "id": "address",
+              "value": "18 Cavendish Road, Claremont, Cape Town, Western Cape, 7708, South Africa"
+            }
+          ]
+        },
+        {
+          "id": "vanuatu",
+          "code": "VU",
+          "name": "GTC Global Trade Capital Co. Limited",
+          "place": "Vanuatu · Port Vila",
+          "rows": [
+            {
+              "id": "authority",
+              "value": "Vanuatu Financial Services Commission (VFSC)"
+            },
+            {
+              "id": "type",
+              "value": "Financial Dealers Licence"
+            },
+            {
+              "id": "licence",
+              "value": "40354"
+            },
+            {
+              "id": "address",
+              "value": "1/Floor, B&P House, Kumul Highway, Port Vila, Vanuatu"
+            }
+          ]
+        }
+      ],
+      "hint": "View licence details",
+      "back": "Back",
+      "copy": "Copy",
+      "copied": "Copied",
+      "status": "Licensed"
+    },
+    "local": {
+      "title": "Not Just a Licence — [Real Local Support]",
+      "description": "Being regulated locally means our operational infrastructure is built around the communities we serve — not bolted on as an afterthought.",
+      "items": [
+        {
+          "id": "language",
+          "title": "Multilingual Client Services",
+          "text": "Dedicated support teams in different languages — native speakers who understand your market's nuance and expectations."
+        },
+        {
+          "id": "compliance",
+          "title": "Local Regulatory Compliance",
+          "text": "Each GTCFX entity is independently licensed and supervised in its own jurisdiction — such as Mauritius (FSC), Vanuatu (VFSC) and more — so your account is protected under local law."
+        },
+        {
+          "id": "payments",
+          "title": "Regional Deposit & Withdrawal Methods",
+          "text": "Local payment channels, currency options, and processing routes tailored to your region — so funding and withdrawing your account is fast and familiar."
+        }
+      ]
+    },
+    "philosophy": {
+      "title": "Cross Borders. [Never Cross the Line.]",
+      "description": "GTCFX's global expansion strategy is anchored in a non-negotiable principle: compliance before commerce. We obtain local regulatory authorisation before entering any new market — because client protection is not a feature, it's the foundation.",
+      "items": [
+        {
+          "id": "licence",
+          "title": "Licence First, Always",
+          "text": "Every market we enter requires local regulatory approval before we onboard a single client."
+        },
+        {
+          "id": "transparent",
+          "title": "Transparent Operations",
+          "text": "All entity details, licence numbers, and regulatory status are publicly verifiable on each authority's official register."
+        },
+        {
+          "id": "layered",
+          "title": "Layered Client Protection",
+          "text": "Regulatory oversight plus independent Financial Commission membership provides dual-layer accountability for every client."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Start Your Investment Journey [Today.]",
+      "text": "Join thousands of investors who trust GTCFX to protect and grow their capital across global markets — with full transparency and no hidden agenda.",
+      "live": "Open Live Account"
+    }
+  },
+  "eventsPage": {
+    "meta": {
+      "title": "Forex Events & Trading Exhibitions | GTCFX Global Events",
+      "description": "Discover upcoming Forex events and trading exhibitions. Meet GTCFX worldwide and explore our latest products and services."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "company": "Company",
+      "current": "Events & Exhibitions"
+    },
+    "hero": {
+      "booth": "Booth #{booth}",
+      "countdown": {
+        "days": "Days",
+        "hours": "Hours",
+        "minutes": "Min",
+        "seconds": "Sec",
+        "live": "Happening now — come and see us"
+      },
+      "more": "More Events",
+      "viewAll": "View All Activities",
+      "empty": "New events are being scheduled. Check back soon or follow us for announcements."
+    },
+    "form": {
+      "title": "Meet our team",
+      "subtitle": "Register your interest and we'll arrange a time to meet at {event}.",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "country": "Country",
+      "countrySelect": "Please select one",
+      "countryLoading": "Loading countries…",
+      "phone": "Phone Number",
+      "sendOtp": "Send OTP",
+      "resendOtp": "Resend",
+      "sending": "Sending…",
+      "otp": "Verification code",
+      "otpPlaceholder": "6-digit code",
+      "termsStart": "By clicking Submit, I confirm that I have read and agree to the",
+      "terms": "Terms & Conditions",
+      "submit": "Submit Message",
+      "submitting": "Sending…",
+      "ok": "Thank you — our events team will contact you shortly.",
+      "otpSent": "We've sent a code to your phone.",
+      "errors": {
+        "required": "This field is required",
+        "letters": "Please use letters only",
+        "email": "Please enter a valid email",
+        "phone": "Please enter a valid phone number",
+        "otp": "Enter the 6-digit code",
+        "otpFirst": "Please verify your phone first",
+        "terms": "Please accept the Terms & Conditions",
+        "generic": "Something went wrong. Please try again.",
+        "country": "Couldn't load countries"
+      }
+    },
+    "archive": {
+      "title": "The Stages [We've Walked]",
+      "description": "From expo floors to conference halls — a record of where GTCFX has shown up, connected, and represented the global trading community.",
+      "booth": "Booth #{booth}",
+      "empty": "No events recorded for this year yet.",
+      "prev": "Previous photo",
+      "next": "Next photo",
+      "photo": "Photo {n}"
+    },
+    "philosophy": {
+      "title": "Why We Show Up, [Every Time]",
+      "description": "Every feature we offer exists because our clients demanded security, speed, and transparency — and we delivered.",
+      "items": [
+        {
+          "id": "face",
+          "title": "Face-to-Face with Traders",
+          "text": "Exhibitions are our most important channel for genuinely listening to the market — collecting first-hand feedback, understanding real needs, and building relationships that no digital channel can replicate."
+        },
+        {
+          "id": "sync",
+          "title": "Staying in Industry Sync",
+          "text": "Understanding regulatory shifts, emerging technologies, and competitive dynamics in real time — so our products evolve continuously and our clients always operate with the most current intelligence."
+        },
+        {
+          "id": "trust",
+          "title": "Building Lasting Trust",
+          "text": "Physical presence is the most powerful complement to digital credibility. When you meet our team in person, you experience the people and values behind the brand — and that builds the kind of trust that lasts."
+        }
+      ]
+    },
+    "media": {
+      "title": "Media & [Partner Resources]",
+      "description": "Everything you need for coverage, partnership evaluation, or due diligence on GTCFX's global activity.",
+      "items": [
+        {
+          "id": "brand",
+          "title": "Brand Asset Pack",
+          "text": "Official GTCFX logo files (SVG, PNG, EPS), brand color palette, typography guidelines, and product fact sheets. Suitable for press use and partnership materials.",
+          "cta": "Request the pack",
+          "subject": "Brand Asset Pack request"
+        },
+        {
+          "id": "press",
+          "title": "Exhibition Press Releases",
+          "text": "Official GTCFX press releases covering recent exhibition appearances, sponsorship announcements, and keynote highlights — formatted and ready for editorial use.",
+          "cta": "Request press releases",
+          "subject": "Exhibition press releases request"
+        }
+      ],
+      "contactStart": "For media interviews, press inquiries, or partnership discussions, contact our communications team at",
+      "contactEnd": "— we typically respond within one business day.",
+      "email": "media@gtcfx.com",
+      "kit": {
+        "palette": "Brand palette",
+        "logo": "Logo files",
+        "release": "Press release",
+        "type": "Typography"
+      }
+    },
+    "cta": {
+      "title": "Start Your Investment Journey [Today.]",
+      "text": "Join thousands of investors who trust GTCFX to protect and grow their capital across global markets — with full transparency and no hidden agenda.",
+      "live": "Open Live Account"
+    }
+  },
+  "regulationsPage": {
+    "meta": {
+      "title": "GTCFX Regulations | Licensed Forex & CFD Trading Platform",
+      "description": "Explore GTCFX regulations and global entities. Trade Forex and CFDs with a broker operating under strict compliance standards across multiple jurisdictions."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "company": "Company",
+      "current": "Regulations"
+    },
+    "hero": {
+      "title": "Regulated Entities. Clear Disclosures. [Informed Choices.]",
+      "description": "GTC operates through a network of separately incorporated entities and affiliates across multiple jurisdictions. Certain entities are licensed and regulated by their respective local authorities, with each licence applying only to the entity to which it was issued.",
+      "review": "Last review May 2026",
+      "stats": [
+        {
+          "value": "Multiple",
+          "label": "Regulated Entities"
+        },
+        {
+          "value": "Multiple",
+          "label": "Jurisdictions"
+        },
+        {
+          "value": "Global",
+          "label": "Client Based"
+        }
+      ],
+      "cta": "View all entities"
+    },
+    "entities": {
+      "title": "Entity-Specific Regulation Across [Multiple Jurisdictions]",
+      "description": "The entities and affiliates listed below are separate legal entities. Each licence applies solely to the entity to which it was issued and does not extend to any other entity, affiliate, or the GTC brand generally. The products, services and regulatory protections available to a client depend on the applicable contracting entity, the client's jurisdiction and eligibility. Licence details may be verified through the relevant regulator's official register.",
+      "labels": {
+        "authority": "Regulator",
+        "type": "Licence Type",
+        "licence": "Licence No.",
+        "registration": "Registration No.",
+        "company": "Company No.",
+        "validity": "Validity Period",
+        "address": "Registered Address"
+      },
+      "verify": "Verify on {regulator} register",
+      "verifySoon": "Register link coming soon",
+      "copy": "Copy",
+      "copied": "Copied",
+      "items": [
+        {
+          "id": "southAfrica",
+          "code": "ZA",
+          "country": "South Africa",
+          "city": "Cape Town",
+          "name": "GTC Global SA (Pty) Ltd",
+          "short": "FSCA",
+          "number": "FSP 51545",
+          "rows": [
+            {
+              "id": "authority",
+              "value": "Financial Sector Conduct Authority (FSCA)"
+            },
+            {
+              "id": "type",
+              "value": "Financial Services Provider (FSP)"
+            },
+            {
+              "id": "licence",
+              "value": "FSP 51545"
+            },
+            {
+              "id": "registration",
+              "value": "2020/810937/07"
+            },
+            {
+              "id": "address",
+              "value": "18 Cavendish Road, Claremont, Cape Town, Western Cape, 7708, South Africa."
+            }
+          ],
+          "registerUrl": "https://www.fsca.co.za"
+        },
+        {
+          "id": "vanuatu",
+          "code": "VU",
+          "country": "Vanuatu",
+          "city": "Port Vila",
+          "name": "GTC Global Trade Capital Co. Limited",
+          "short": "VFSC",
+          "number": "40354",
+          "rows": [
+            {
+              "id": "authority",
+              "value": "Vanuatu Financial Services Commission (VFSC)"
+            },
+            {
+              "id": "type",
+              "value": "Principal's Dealer License"
+            },
+            {
+              "id": "licence",
+              "value": "40354"
+            },
+            {
+              "id": "address",
+              "value": "1/Floor, B&P House, Kumul Highway, Port Vila"
+            }
+          ],
+          "registerUrl": "https://www.vfsc.vu"
+        },
+        {
+          "id": "comoros",
+          "code": "KM",
+          "country": "Comoros",
+          "city": "Anjouan",
+          "name": "GTC Global Trading LTD",
+          "short": "AOFA",
+          "number": "L16283/GTC",
+          "rows": [
+            {
+              "id": "authority",
+              "value": "Anjouan Offshore Finance Authority"
+            },
+            {
+              "id": "type",
+              "value": "Brokerage License"
+            },
+            {
+              "id": "licence",
+              "value": "L16283/GTC"
+            },
+            {
+              "id": "company",
+              "value": "16283"
+            },
+            {
+              "id": "address",
+              "value": "Boulevard de Coalancanthe, Mutsamudu, Anjouan, Union of the Comoros"
+            }
+          ],
+          "registerUrl": ""
+        },
+        {
+          "id": "australia",
+          "code": "AU",
+          "country": "Australia",
+          "city": "Sydney",
+          "name": "GTC Global (Australia) Pty Ltd",
+          "short": "ASIC",
+          "number": "496371",
+          "rows": [
+            {
+              "id": "authority",
+              "value": "Australian Securities & Investments Commission (ASIC)"
+            },
+            {
+              "id": "type",
+              "value": "Australian Financial Services License"
+            },
+            {
+              "id": "licence",
+              "value": "496371"
+            }
+          ],
+          "registerUrl": "https://asic.gov.au"
+        },
+        {
+          "id": "mauritius",
+          "code": "MU",
+          "country": "Mauritius",
+          "city": "Port Louis",
+          "name": "GTC Global Ltd",
+          "short": "FSC",
+          "number": "GB22200292",
+          "rows": [
+            {
+              "id": "authority",
+              "value": "Financial Services Commission (FSC)"
+            },
+            {
+              "id": "type",
+              "value": "SEC-2 Investment Dealer"
+            },
+            {
+              "id": "licence",
+              "value": "GB22200292"
+            },
+            {
+              "id": "company",
+              "value": "C188049"
+            }
+          ],
+          "registerUrl": "https://www.fscmauritius.org"
+        },
+        {
+          "id": "cambodia",
+          "code": "KH",
+          "country": "Cambodia",
+          "city": "Phnom Penh",
+          "name": "GTCFX Co., Ltd.",
+          "short": "SERC",
+          "number": "043 N.M.K./A.B./Ch.U.",
+          "rows": [
+            {
+              "id": "authority",
+              "value": "Securities and Exchange Regulator of Cambodia (SERC)"
+            },
+            {
+              "id": "type",
+              "value": "Derivative Broker"
+            },
+            {
+              "id": "licence",
+              "value": "043 N.M.K./A.B./Ch.U."
+            },
+            {
+              "id": "validity",
+              "value": "8 October 2026 – 7 October 2028"
+            },
+            {
+              "id": "address",
+              "value": "Building No. 40, 8th Floor, Street 289, Phum 13, Sangkat Boeung Kak 1, Khan Tuol Kork, Phnom Penh, Cambodia"
+            }
+          ],
+          "registerUrl": "https://www.serc.gov.kh"
+        }
+      ]
+    },
+    "map": {
+      "title": "Operating Across [Multiple] Jurisdictions.",
+      "description": "Our entities and affiliates operate within different legal and regulatory frameworks. Their respective roles, permitted services and geographic availability vary by jurisdiction. Each entity remains responsible for complying with the laws, licence conditions and regulatory requirements applicable to its own operations."
+    },
+    "protection": {
+      "title": "How your funds are [protected.]",
+      "description": "Four pillars of client safety — built into the operating procedure of every licensed entity. Not optional features. Not marketing language. Regulator-mandated, audit-tested controls.",
+      "items": [
+        {
+          "id": "segregated",
+          "title": "Segregated Client Funds",
+          "text": "Client funds are held entirely separate from company operating capital, in independent bank accounts at top-tier financial institutions."
+        },
+        {
+          "id": "negative",
+          "title": "Negative Balance Protection",
+          "text": "Your maximum loss is capped at your account balance."
+        },
+        {
+          "id": "aml",
+          "title": "AML & KYC Compliance",
+          "text": "Strict identity verification and anti-money-laundering procedures, aligned with FATF guidance and the standards required by each regulator we operate under."
+        },
+        {
+          "id": "encryption",
+          "title": "256-bit Data Encryption",
+          "text": "Industry-standard SSL/TLS encryption secures every byte of trading data, personal information and payment activity — in transit and at rest."
+        }
+      ]
+    },
+    "network": {
+      "title": "About the [GTC Network.]",
+      "paragraphs": [
+        "“GTC Financial Group” refers to a network of separately incorporated entities and affiliates, not a single legal entity or licence.",
+        "Each entity operates under its own authorisation. A licence applies only to the services of the issuing entity and does not extend to other entities or the GTC brand."
+      ],
+      "note": "The applicable entity depends on client residence, eligibility and applicable law. The contracting entity and, where relevant, product issuer or counterparty will be disclosed before account application and in the Client Agreement. Products and protections may vary. For details, contact our Team.",
+      "items": [
+        {
+          "id": "restricted",
+          "title": "Restricted Jurisdictions",
+          "text": "GTCFX does not provide services to residents of the United States, Japan, or any other jurisdiction where doing so would be inconsistent with local law or regulation."
+        },
+        {
+          "id": "risk",
+          "title": "Risk Disclosure",
+          "text": "Trading CFDs and leveraged products carries a high level of risk to your capital. You may lose more than your initial deposit — though never more than your account balance with us. Trade only with capital you can afford to lose."
+        },
+        {
+          "id": "audit",
+          "title": "Independent Audit & Reporting",
+          "text": "Each licensed entity files audited financial statements with its local regulator on the schedule mandated by that regulator. Audit reports are available on request through our compliance team."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Apply Your Account With Us [Today]",
+      "steps": [
+        {
+          "id": "register",
+          "tag": "Register",
+          "title": "Start Your Application",
+          "text": "Provide your basic personal and residency details. We will assess your eligibility and identify the contracting entity available to you under applicable law. The relevant entity will be disclosed before you submit your application.",
+          "meta": "< 2 minutes"
+        },
+        {
+          "id": "verify",
+          "tag": "Verify",
+          "title": "Complete verification",
+          "text": "Upload a valid identity document and proof of address. Our compliance team reviews submissions quickly and confidentially.",
+          "meta": "Typically within 24 hours"
+        },
+        {
+          "id": "trade",
+          "tag": "Trade",
+          "title": "Fund and trade",
+          "text": "Deposit through your preferred payment method and start trading the global markets you've been waiting for.",
+          "meta": "10+ payment methods supported"
+        }
+      ],
+      "live": "Open a live account",
+      "demo": "Try a demo account first",
+      "licences": [
+        "FSCA · FSP 51545",
+        "VFSC · 40354",
+        "FSC · GB22200292",
+        "SERC · 043 N.M.K./A.B./Ch.U."
+      ]
+    }
+  },
+  "contactPage": {
+    "meta": {
+      "title": "Contact GTCFX | Trading Support & Customer Service",
+      "description": "Contact GTCFX for fast and professional support. Get help with your trading account, platforms, and services from our global team."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "company": "Company",
+      "current": "Contact Us"
+    },
+    "hero": {
+      "status": "24/7 Multilingual Support Available",
+      "title": "Multilingual Client Support [Here When You Need Assistance]",
+      "description": "Our support team can assist with account enquiries, platform access, technical matters, deposits and withdrawals, complaints, and general service-related questions. Support is available through the channels listed below. Response times may vary depending on the nature and complexity of your enquiry.",
+      "quick": {
+        "chat": "Live Chat",
+        "email": "Email",
+        "ticket": "Submit a ticket"
+      },
+      "bubbles": [
+        "How do I verify my account?",
+        "Withdrawal status?",
+        "MT5 login help"
+      ]
+    },
+    "help": {
+      "title": "How Can We [Help?]",
+      "description": "Whether you are an existing client or would like to learn more about our services, please complete the form below. We will direct your enquiry to the appropriate team.",
+      "points": [
+        {
+          "id": "responsive",
+          "title": "Responsive Support",
+          "text": "We aim to respond to email and form enquiries within one business day."
+        },
+        {
+          "id": "multilingual",
+          "title": "Multilingual Assistance",
+          "text": "Support may be available in multiple languages, subject to staff availability."
+        },
+        {
+          "id": "data",
+          "title": "Responsible Data Handling",
+          "text": "Personal information submitted through this page will be processed in accordance with our Privacy Policy."
+        }
+      ],
+      "disclaimer": "GTCFX provides general and administrative support only through this page. Nothing communicated through our support channels constitutes investment, legal or tax advice."
+    },
+    "form": {
+      "title": "Submit a ticket",
+      "existing": "Are you an existing client?",
+      "yes": "Yes",
+      "no": "No",
+      "queryType": "Query type",
+      "ticketType": "Ticket type",
+      "ticketSelect": "Select ticket type",
+      "subject": "Subject",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "phone": "Phone number",
+      "country": "Country",
+      "countrySelect": "Select country",
+      "countryLoading": "Loading countries…",
+      "description": "Ticket description",
+      "descriptionPlaceholder": "Detailed explanation of your case…",
+      "attachment": "Attachment",
+      "optional": "(optional)",
+      "choose": "Choose file",
+      "drop": "or drag it here",
+      "attachmentHint": "Screenshots, receipts, logs, or supporting documents. Max 5 MB.",
+      "remove": "Remove file",
+      "note": "After submitting the form, you will receive an email with your case number.",
+      "submit": "Submit",
+      "submitting": "Sending…",
+      "errors": {
+        "email": "Invalid email",
+        "phone": "Phone is required",
+        "file": "File must be 5 MB or smaller",
+        "country": "Couldn't load countries",
+        "registrationStatus": "Registration status is required",
+        "queryType": "Query type is required",
+        "ticketType": "Ticket type is required",
+        "subject": "Subject is required",
+        "firstName": "First name is required",
+        "lastName": "Last name is required",
+        "minLetters": "At least 2 letters",
+        "emailRequired": "Email is required",
+        "countryRequired": "Country is required",
+        "description": "Description is required",
+        "promotionBonusType": "Promotion/Bonus type is required",
+        "tradeAccount": "Trade account is required",
+        "tradeOrderIds": "Trade order(s) ID is required",
+        "dateTimeIncident": "Date and time of incident is required"
+      },
+      "queryTypeSelect": "Select query type",
+      "queryTypeOptions": {
+        "general": "General Query",
+        "compliance": "Compliance Query"
+      },
+      "ticketTypeOptions": {
+        "accountRegistration": "Account/Registration",
+        "deposits": "Deposits",
+        "withdrawals": "Withdrawals",
+        "tradingAccountQueries": "Trading account queries",
+        "accountOpeningLinks": "Add account opening links",
+        "partnerClientTransfer": "Partner / Client Transfer Request",
+        "promotionsBonuses": "Promotions/Bonuses",
+        "tradingInvestigation": "Trading investigation",
+        "kycQueries": "KYC queries",
+        "other": "Other"
+      },
+      "tradeAccount": "Trade account",
+      "transactionIds": "Transaction ID(s)",
+      "tradeOrderIds": "Trade order(s) ID",
+      "dateTimeIncident": "Date and time of incident",
+      "dateTimeIncidentPlaceholder": "e.g. 2024-01-15 14:30",
+      "promotionBonusType": "Promotion/Bonus type",
+      "promotionBonusSelect": "Select type",
+      "promotionBonusOptions": {
+        "issue": "Issue",
+        "request": "Request"
+      },
+      "depositAmount": "Deposit amount",
+      "depositDisclaimer": "Please make sure your deposit details are correct before submitting.",
+      "withdrawalDisclaimer": "Please ensure your withdrawal details are correct before submitting.",
+      "termsPrefix": "By clicking Submit, I acknowledge that the information I provide will be processed in accordance with the",
+      "privacyPolicy": "Privacy Policy",
+      "termsMiddle": "for the purpose of reviewing and responding to my enquiry. If I am an existing client, my account remains subject to the",
+      "clientAgreement": "Client Agreement",
+      "termsSuffix": "entered into with my applicable contracting entity and accept my number is not on the Do Not Call Register (DNCR).",
+      "toastSubmitted": "Submitted successfully.",
+      "toastError": "An error occurred."
+    },
+    "channels": {
+      "title": "Choose Your [Preferred Channel]",
+      "description": "Multiple ways to reach our team — pick the one that suits you best and get the help you need.",
+      "items": [
+        {
+          "id": "chat",
+          "title": "Live Chat",
+          "text": "Connect instantly with our support agents for real-time assistance.",
+          "value": "+44 800 048 8461",
+          "cta": "Chat Now"
+        },
+        {
+          "id": "email",
+          "title": "Email Support",
+          "text": "Send us a detailed message and we'll respond within 24 hours.",
+          "value": "support@gtcfx.com",
+          "cta": "Send Email"
+        },
+        {
+          "id": "whatsapp",
+          "title": "WhatsApp & WeChat",
+          "text": "Reach us on your preferred messaging app for quick support.",
+          "value": "+44 800 048 8461",
+          "cta": "Message Us"
+        }
+      ]
+    },
+    "offices": {
+      "title": "Global Support, [Local Assistance]",
+      "description": "Our customer support offices are strategically located across multiple regions to provide multilingual assistance with general enquiries, account administration, platform access, technical issues and other service-related matters. These locations provide customer support and administrative assistance only. They are not separate contracting entities and should not be regarded as evidence that GTC Global Trading Ltd is licensed or authorised in those jurisdictions.",
+      "items": [
+        {
+          "id": "london",
+          "code": "GB",
+          "city": "London, UK",
+          "entity": "GTC Global Trade Capital (UK) Ltd",
+          "address": [
+            "Level 18, One Canada Square",
+            "Canary Wharf",
+            "London E14 5AB, UK"
+          ],
+          "lon": -0.02,
+          "lat": 51.5,
+          "tz": "Europe/London"
+        },
+        {
+          "id": "limassol",
+          "code": "CY",
+          "city": "Limassol, Cyprus",
+          "entity": "GTC Global Trade Capital (EU) Ltd",
+          "address": [
+            "Office 301, Neocleous House",
+            "195 Makarios III Avenue",
+            "3030 Limassol, Cyprus"
+          ],
+          "lon": 33.04,
+          "lat": 34.68,
+          "tz": "Asia/Nicosia"
+        }
+      ],
+      "localTime": "Local time",
+      "directions": "Get directions"
+    },
+    "cta": {
+      "title": "Didn't Find What You Were [Looking For?]",
+      "card": "Submit an enquiry or contact our support team using one of the channels above. Nothing communicated through our support channels constitutes investment, legal or tax advice.",
+      "live": "Open Live Account",
+      "demo": "Open Free Demo Account"
+    }
+  },
+  "dynamicLeveragePage": {
+    "meta": {
+      "title": "Dynamic Leverage & CFD Margin Calculator | GTCFX",
+      "description": "Trade with Dynamic Leverage up to 1:2000 at GTCFX. Adjust your margin requirements to trading volume and use our CFD Margin Calculator to plan your trades."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "company": "Company",
+      "current": "Dynamic Leverage"
+    },
+    "hero": {
+      "badge": "Transparent Trading Conditions",
+      "title": "Leverage & [Margin Conditions.]",
+      "text": "Every instrument, every margin requirement, every leverage tier — laid out so you can size your positions with precision instead of guesswork.",
+      "links": [
+        {
+          "label": "Forex",
+          "tab": "forex"
+        },
+        {
+          "label": "Indices",
+          "tab": "futureIndex"
+        },
+        {
+          "label": "Metals",
+          "tab": "metals"
+        },
+        {
+          "label": "Calculator",
+          "href": "/company#leverage"
+        },
+        {
+          "label": "Stocks",
+          "tab": "cashIndex"
+        }
+      ],
+      "sheet": {
+        "title": "Live · Margin Sheet",
+        "status": "Streaming",
+        "rows": [
+          {
+            "symbol": "EURUSD",
+            "terms": "1:2000 · 0.05%"
+          },
+          {
+            "symbol": "USDJPY",
+            "terms": "1:2000 · 0.05%"
+          },
+          {
+            "symbol": "XAUUSD",
+            "terms": "1:2000 · 0.05%"
+          },
+          {
+            "symbol": "US500",
+            "terms": "1:125 · 0.800%"
+          },
+          {
+            "symbol": "US30",
+            "terms": "1:125 · 0.800%"
+          }
+        ],
+        "maxLabel": "Max Leverage",
+        "maxValue": "1:2000"
+      }
+    },
+    "glance": {
+      "eyebrow": "At a glance",
+      "count": "4 key figures",
+      "items": [
+        {
+          "tag": "01 · Max Leverage",
+          "value": "1:2000",
+          "text": "Available under specific regulations* entities for eligible account types.",
+          "fill": 60
+        },
+        {
+          "tag": "02 · Trading Markets",
+          "value": "6+",
+          "text": "Forex, Metals, Indices, Shares & more.",
+          "fill": 70
+        },
+        {
+          "tag": "03 · Licences",
+          "value": "5",
+          "text": "FSCA · VFSC · FCA · ASIC · FSC — five regulated entities worldwide.",
+          "fill": 80
+        },
+        {
+          "tag": "04 · Margin Alerts",
+          "value": "24 / 7",
+          "text": "Real-time push notifications when free margin falls below your alert threshold.",
+          "fill": 90
+        }
+      ]
+    },
+    "schedule": {
+      "eyebrow": "Section 02 — Instrument Schedule",
+      "title": "Dynamic Leverage [Details]",
+      "description": "Dynamic leverage at GTCFX automatically adjusts based on your trading positions. This model is applied per instrument, meaning your leverage decreases as your trading volume increases. This approach enables you to optimize your trading potential.",
+      "search": "Search by symbol or name",
+      "showing": "Showing {shown} of {total} tiers · {category}",
+      "empty": "No instruments match your search.",
+      "defaultTab": "futureIndex",
+      "tabs": {
+        "forex": "Forex",
+        "metals": "Metals",
+        "energies": "Energies",
+        "cashIndex": "Cash Index",
+        "futureIndex": "Future Index"
+      },
+      "loading": "Loading leverage schedule…",
+      "error": "The leverage schedule could not be loaded. Please refresh the page or try again later."
+    },
+    "basics": {
+      "eyebrow": "The basics",
+      "title": "What Is Leverage [Really?]",
+      "description": "Three short concepts. No jargon. Once you grasp these, you understand the foundation of every leveraged trade you'll ever place.",
+      "items": [
+        {
+          "tag": "i. Definition",
+          "title": "Leverage, defined",
+          "text": "A multiplier that lets you control a position larger than the cash in your account, using your broker's borrowed capital as the rest.",
+          "example": "With $1,000 at 1:100 leverage, you control a $100,000 position."
+        },
+        {
+          "tag": "ii. Margin",
+          "title": "Margin, explained",
+          "text": "The portion of your own funds locked as collateral to open and maintain a position. Higher leverage means a smaller margin requirement.",
+          "example": "At 1 : 100, a $100,000 trade requires only 1% margin — just $1,000."
+        },
+        {
+          "tag": "iii. Risk",
+          "title": "The double-edged sword",
+          "text": "Leverage scales gains and losses equally. A 1% adverse move on a 1:100 position can erase your entire margin. Trade with care.",
+          "example": "Risk warning: leveraged trading may result in losses. Use stop-loss orders."
+        }
+      ]
+    },
+    "fixed": {
+      "title": "Fixed Leverage [Schedule]",
+      "description": "The following fixed leverage rules apply to all trades during specified market conditions:",
+      "weekend": {
+        "title": "Weekend Transition Periods",
+        "before": {
+          "title": "Before Friday Market Close (3 hours)",
+          "rows": [
+            {
+              "time": "02:00",
+              "zone": "China (GMT+8)",
+              "tz": "china"
+            },
+            {
+              "time": "21:00",
+              "zone": "Server (GMT+3)",
+              "tz": "server"
+            },
+            {
+              "time": "22:00",
+              "zone": "UAE (GMT+4)",
+              "tz": "uae"
+            }
+          ]
+        },
+        "after": {
+          "title": "After Monday Market Open (1 hour)",
+          "rows": [
+            {
+              "time": "06:00",
+              "zone": "China (GMT+8)",
+              "tz": "china"
+            },
+            {
+              "time": "07:00",
+              "zone": "XAUUSD cutoff (China (GMT+8))",
+              "tz": "china",
+              "cutoff": true
+            },
+            {
+              "time": "01:00",
+              "zone": "Server (GMT+3)",
+              "tz": "server"
+            },
+            {
+              "time": "02:00",
+              "zone": "XAUUSD cutoff (Server (GMT+3))",
+              "tz": "server",
+              "cutoff": true
+            },
+            {
+              "time": "02:00",
+              "zone": "UAE (GMT+4)",
+              "tz": "uae"
+            },
+            {
+              "time": "03:00",
+              "zone": "XAUUSD cutoff (UAE (GMT+4))",
+              "tz": "uae",
+              "cutoff": true
+            }
+          ]
+        }
+      },
+      "legend": {
+        "china": "China (GMT+8)",
+        "server": "Server (GMT+3)",
+        "uae": "UAE (GMT+4)"
+      },
+      "news": {
+        "title": "Economic News Events",
+        "points": [
+          "15 minutes before high-impact news releases",
+          "15 minutes after news releases",
+          "During periods of expected extreme volatility"
+        ]
+      },
+      "notes": {
+        "title": "Important Notes",
+        "points": [
+          "Margin calculations remain fixed after the period ends",
+          "Existing positions are not affected",
+          "Applies to all instruments and account types"
+        ]
+      },
+      "rollover": {
+        "title": "Daily Night Rollover Period",
+        "label": "Every trading day:",
+        "time": "23:30 – 00:15 (Server Time)",
+        "sub": "From Monday night to Friday night",
+        "lines": [
+          "During this short time window, leverage is automatically reduced.",
+          "Lower leverage means more margin is required to hold the same trade size."
+        ]
+      },
+      "hmr": {
+        "title": "HMR:",
+        "points": [
+          "does not modify trade entry price",
+          "does not widen spreads by itself",
+          "does not manually close trades",
+          "does not affect positions opened before the HMR period"
+        ],
+        "lines": [
+          "However, because margin requirements temporarily increase, your margin level (%) may fall.",
+          "If your margin level reaches the stop-out level, the platform will automatically close positions according to normal platform risk rules."
+        ],
+        "strong": "After the HMR period ends, margin requirements automatically return to normal."
+      },
+      "notice": {
+        "title": "High Margin Requirement (HMR) Notice",
+        "text": "During specific market risk periods (daily rollover and major economic announcements), the platform temporarily increases the margin required to open new trades."
+      }
+    },
+    "faq": {
+      "title": "FAQ's On Tiered [Margin/Leverage]",
+      "items": [
+        {
+          "q": "How does tiered leverage work?",
+          "a": "Tiered leverage adjusts the CFD leverage ratio based on position size. For example, smaller positions may qualify for leverage up to 1:2000, while larger positions may move to lower leverage tiers and require additional margin."
+        },
+        {
+          "q": "Can tiered leverage affect my trading strategy?",
+          "a": "Leverage in CFD trading can affect your strategy when trading larger positions. Higher margin requirements from tiered leverage may limit your ability to open additional positions or require you to adjust existing ones."
+        },
+        {
+          "q": "Is tiered leverage the same for all assets?",
+          "a": "No. The CFD leverage ratio may vary across different asset classes. For example, forex pairs may have higher leverage ratios than commodities or indices, resulting in different margin requirements."
+        },
+        {
+          "q": "What happens if I can't meet the margin requirements due to tiered leverage?",
+          "a": "If you cannot meet the margin requirements due to tiered leverage, you may need to add funds or adjust your position size to maintain sufficient margin for your CFD trades."
+        },
+        {
+          "q": "Is tiered leverage applied automatically?",
+          "a": "Yes, tiered leverage is typically applied automatically by the trading platform based on the size of your position."
+        },
+        {
+          "q": "How can I calculate the margin required with tiered leverage?",
+          "a": "You can calculate forex margin using the margin calculator, which considers your position size, leverage tier, and applicable margin requirements."
+        },
+        {
+          "q": "What is High Margin Requirement (HMR)?",
+          "a": [
+            "HMR is a temporary increase in the margin required to open new trades during periods of elevated market risk such as daily rollover and major economic announcements.",
+            "It is a protective risk-management mechanism."
+          ]
+        },
+        {
+          "q": "Why does my margin level drop even if price did not move?",
+          "a": [
+            "During HMR, the required margin per position increases.",
+            "Because margin increases while equity remains the same, your margin level (%) decreases even if the market price has not changed."
+          ]
+        },
+        {
+          "q": "Will my trade be closed because of HMR?",
+          "a": [
+            "HMR itself does not close trades.",
+            "However, if the margin level falls to the platform stop-out level due to the temporary margin increase, the trading platform will automatically close positions according to normal trading rules."
+          ]
+        },
+        {
+          "q": "Are existing trades affected?",
+          "a": [
+            "Your trade price, stop loss, and take profit remain unchanged.",
+            "However, the margin required to maintain the position may temporarily increase, which can reduce free margin."
+          ]
+        },
+        {
+          "q": "Does HMR widen spreads?",
+          "a": [
+            "No.",
+            "Spread changes are caused by market liquidity and pricing from liquidity providers, not by HMR.",
+            "HMR only changes the margin requirement."
+          ]
+        },
+        {
+          "q": "Does HMR apply to all instruments?",
+          "a": [
+            "HMR mainly affects the following instruments:"
+          ],
+          "list": [
+            "Forex pairs",
+            "Gold and Silver",
+            "Indices",
+            "Energy products",
+            "CFDs"
+          ],
+          "note": "Some instruments may experience stronger effects during news releases depending on volatility."
+        },
+        {
+          "q": "Why is Gold affected the most?",
+          "a": [
+            "Gold reacts strongly to the following factors:"
+          ],
+          "list": [
+            "Inflation data (CPI)",
+            "Employment data (NFP)",
+            "Interest rate expectations"
+          ],
+          "note": "Because price movements can be extremely fast, additional margin protection is applied."
+        },
+        {
+          "q": "How long does HMR last?",
+          "a": [
+            "HMR typically lasts for the following periods:"
+          ],
+          "list": [
+            "Daily rollover: approximately 45 minutes",
+            "Major economic news: around the release window"
+          ],
+          "note": "The duration may vary depending on market liquidity."
+        },
+        {
+          "q": "Can I avoid HMR?",
+          "a": [
+            "Yes. You can avoid HMR effects by:"
+          ],
+          "list": [
+            "Not opening new positions during the rollover window",
+            "Maintaining sufficient free margin",
+            "Reducing leverage before major news events"
+          ]
+        },
+        {
+          "q": "Is this common in the industry?",
+          "a": [
+            "Yes.",
+            "Temporary margin increases during high-volatility periods are a standard risk-control practice used across professional trading environments and liquidity providers."
+          ]
+        },
+        {
+          "q": "Why wasn’t I notified individually?",
+          "a": [
+            "HMR is a system-controlled, market-condition-based mechanism applied simultaneously to all accounts.",
+            "Because activation depends on live market risk conditions, individual notifications are not always possible."
+          ]
+        }
+      ]
+    },
+    "cta": {
+      "eyebrow": "Start trading",
+      "title": "Trade on the [best] conditions in the room.",
+      "description": "Open a live account in three minutes, or test every leverage tier risk-free in a demo with USD 100,000 of virtual funds.",
+      "live": "Open Live Account",
+      "demo": "Try Demo Account"
+    }
+  },
+  "faqsPage": {
+    "meta": {
+      "title": "FAQs | Trading Support & Help Center | GTCFX",
+      "description": "Find answers about accounts, deposits, platforms, verification, and support from GTCFX."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "company": "Company",
+      "current": "FAQs"
+    },
+    "hero": {
+      "badge": "GTCFX Help Center · 24/7 Support",
+      "title": "Hello, how can we [help you] today?",
+      "description": "Browse guides on accounts, deposits, platforms and trading conditions — answers in seconds, not hours.",
+      "searchPlaceholder": "Search articles, guides and FAQs... (e.g. 'how to withdraw')",
+      "searchAriaLabel": "Help center search",
+      "searchButton": "Search",
+      "popularLabel": "Popular:",
+      "popularTopics": {
+        "deposit": "Deposit & Withdrawal",
+        "openAccount": "Open an account",
+        "mt5": "MT5 Download",
+        "verification": "Verification"
+      },
+      "floatingBadges": {
+        "deposits": "Deposits",
+        "openAccount": "Open Account",
+        "mt5Setup": "MT5 Setup",
+        "security": "Security"
+      },
+      "stats": [
+        {
+          "value": "450+",
+          "label": "Help Articles"
+        },
+        {
+          "value": "98%",
+          "label": "Resolution Rate"
+        },
+        {
+          "value": "< 2 min",
+          "label": "Avg. Chat Wait"
+        },
+        {
+          "value": "24/7",
+          "label": "Live Support"
+        }
+      ]
+    },
+    "categories": {
+      "title": "Find what you need [by category]",
+      "description": "Eight curated knowledge hubs covering everything from account opening to advanced trading conditions.",
+      "cards": {
+        "accountOpening": {
+          "title": "Account Opening",
+          "description": "Open a Live or Demo account in minutes. Complete guides on registration, KYC verification and account types.",
+          "tags": [
+            "Registration",
+            "KYC Documents"
+          ]
+        },
+        "deposits": {
+          "title": "Deposits & Withdrawals",
+          "description": "Funding methods, processing times and limits."
+        },
+        "platforms": {
+          "title": "Trading Platforms",
+          "description": "MT4, MT5 and mobile app setup & troubleshooting."
+        },
+        "conditions": {
+          "title": "Trading Conditions",
+          "description": "Spreads, swaps, leverage and margin requirements."
+        },
+        "management": {
+          "title": "Account Management",
+          "description": "Profile updates, password resets and settings."
+        },
+        "security": {
+          "title": "Account Security",
+          "description": "2FA, suspicious activity and protection tips."
+        },
+        "regulation": {
+          "title": "Regulation & Compliance",
+          "description": "Licences, policies, fund safety and disclosures."
+        }
+      }
+    },
+    "topQuestions": {
+      "title": "Quick answers to [common questions]",
+      "description": "Browse by category. If you can't find what you're looking for, our team is one click away.",
+      "empty": "No FAQs available at the moment.",
+      "loadingAria": "Loading FAQs"
+    },
+    "humanSupport": {
+      "title": "Still need help? [Connect] with our team",
+      "description": "Our multilingual support team is available around the clock during market hours. Choose the channel that works best for you.",
+      "cards": {
+        "liveChat": {
+          "title": "Live Chat",
+          "description": "Connect with a support agent instantly through our live chat, fastest way to get answers in real-time.",
+          "meta": "Online every time · 24/7"
+        },
+        "email": {
+          "title": "Email Support",
+          "description": "Send us a detailed message and receive a thorough response from our specialists, ideal for complex queries.",
+          "meta": "support@gtcfx.com"
+        },
+        "phone": {
+          "title": "Phone Support",
+          "description": "Speak directly with our team. Available in multiple languages for premium account holders and partners.",
+          "meta": "+44 800 048 8461"
+        }
+      }
+    },
+    "cta": {
+      "title": "Didn't find what you [were looking for?]",
+      "description": "Submit an enquiry or contact our support team using one of the channels above. Our team can assist with account, platform, payment and general service-related matters. GTCFX provides general and administrative support only through this page. Nothing communicated through our support channels constitutes investment, legal or tax advice.",
+      "openLiveAccount": "Open Live Account",
+      "openDemoAccount": "Open Free Demo Account"
+    }
+  },
+  "awardsPage": {
+    "meta": {
+      "title": "Award-Winning Forex & CFD Broker | GTCFX Global Recognition",
+      "description": "Explore GTCFX awards and global recognition across leading financial expos. Trade Forex and CFDs with an award-winning broker trusted worldwide."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "company": "Company",
+      "current": "Awards"
+    },
+    "hero": {
+      "title": "Recognition [Without Borders]",
+      "text": "From Dubai to Doha, Muscat to Asia, GTCFX is recognised by leading industry institutions across global markets.",
+      "primary": "Open Account",
+      "secondary": "Try Demo Account",
+      "stats": [
+        {
+          "value": "52+",
+          "label": "International awards"
+        },
+        {
+          "value": "14",
+          "label": "Cities honoured"
+        },
+        {
+          "value": "04",
+          "label": "Regions covered"
+        }
+      ],
+      "featured": "Featured award"
+    },
+    "issuers": [
+      "World Finance",
+      "Finance Magnates",
+      "Dubai Forex Expo",
+      "UK Finance"
+    ],
+    "issuersTitle": "Recognised by",
+    "gallery": {
+      "title": "Recognised in [Every Market]",
+      "text": "Filter by year to find the recognition closest to you. Each award shows who gave it, the year and the city where it was presented.",
+      "all": "All awards",
+      "viewMore": "View more",
+      "viewLess": "Show fewer",
+      "items": [
+        {
+          "title": "Best Liquidity Provider Globally",
+          "by": "Awarded by SmartVision Expo Oman",
+          "year": "2025",
+          "city": "Muscat",
+          "region": "Middle East",
+          "image": "/awards/1.webp"
+        },
+        {
+          "title": "Best Liquidity Provider",
+          "by": "Awarded by Qatar Financial Expo and Awards Doha",
+          "year": "2025",
+          "city": "Doha",
+          "region": "Middle East",
+          "image": "/awards/2.webp"
+        },
+        {
+          "title": "Best Forex Introducing Broker",
+          "by": "Awarded by WIKI Expo Dubai Award",
+          "year": "2024",
+          "city": "Dubai",
+          "region": "Middle East",
+          "image": "/awards/3.webp"
+        },
+        {
+          "title": "Most Trusted Forex Broker",
+          "by": "Awarded by BrokerView Expo Abu Dhabi Award",
+          "year": "2024",
+          "city": "Abu Dhabi",
+          "region": "Middle East",
+          "image": "/awards/4.webp"
+        },
+        {
+          "title": "Worldwide Leading Broker",
+          "by": "Awarded by Forex Traders Summit Dubai",
+          "year": "2024",
+          "city": "Dubai",
+          "region": "Middle East",
+          "image": "/awards/5.webp"
+        },
+        {
+          "title": "Best Forex Trading Platform Asia",
+          "by": "Awarded by AETC",
+          "year": "2024",
+          "city": "",
+          "region": "Asia",
+          "image": "/awards/6.webp"
+        },
+        {
+          "title": "Recognition Award",
+          "by": "Awarded during National Day 2024",
+          "year": "2024",
+          "city": "",
+          "region": "Middle East",
+          "image": "/awards/7.webp"
+        },
+        {
+          "title": "Industry Recognition",
+          "by": "Awarded for outstanding achievement",
+          "year": "2024",
+          "city": "",
+          "region": "Global",
+          "image": "/awards/8.webp"
+        },
+        {
+          "title": "Industry Recognition",
+          "by": "Awarded by UF Awards",
+          "year": "2025",
+          "city": "",
+          "region": "Global",
+          "image": "/awards/9.webp"
+        }
+      ]
+    },
+    "map": {
+      "title": "A Trophy in [Every Region]",
+      "text": "Our awards come from the cities where our clients trade: the UAE, Qatar, Oman, across Asia and from global award bodies.",
+      "awards": "{count, plural, one {# award} other {# awards}}"
+    },
+    "cta": {
+      "title": "Wherever You Trade, We're [Already Recognised]",
+      "text": "Join traders worldwide and experience a service recognised by the institutions that matter.",
+      "steps": [
+        {
+          "title": "Register",
+          "text": "Sign up in minutes with your email, set your password and tell us where you trade from."
+        },
+        {
+          "title": "Create an account",
+          "text": "Complete verification, choose your account type and unlock MT4, MT5 and the GTC Go app."
+        },
+        {
+          "title": "Make a deposit",
+          "text": "Fund securely by card, bank transfer or e-wallet, then trade forex, indices and other CFDs."
+        }
+      ],
+      "note": "No obligation. Start with a demo to practise risk-free before going live.",
+      "primary": "Open Live Account",
+      "secondary": "Try Demo Account"
+    }
+  }
+}

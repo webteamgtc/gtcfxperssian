@@ -1,0 +1,206 @@
+{
+  "legalPage": {
+    "breadcrumb": {
+      "home": "Home",
+      "legal": "Legal"
+    },
+    "docs": {
+      "privacy-policy": {
+        "name": "Privacy Policy",
+        "summary": "How we collect, use, protect and retain your personal data.",
+        "title": "Privacy Policy | Data Protection & Security | GTCFX",
+        "description": "Learn how GTCFX collects, uses, and protects your personal data in accordance with global data protection standards."
+      },
+      "terms-and-conditions": {
+        "name": "Terms & Conditions",
+        "summary": "The terms that govern your use of our website and services.",
+        "title": "Terms and Conditions | GTCFX",
+        "description": "Read the Terms & Conditions of GTCFX before availing of our services. Click here to learn how GTCFX manages data feeds, privacy, security, and more."
+      },
+      "risk-disclosure": {
+        "name": "Risk Disclosure",
+        "summary": "The risks of trading leveraged products such as CFDs and forex.",
+        "title": "Risk Disclosure | Trading Risks Explained | GTCFX",
+        "description": "Understand the risks associated with trading Forex and CFDs before making investment decisions. Ensure informed and responsible trading."
+      },
+      "cookie-policy": {
+        "name": "Cookie Policy",
+        "summary": "How we use cookies and similar technologies on our website.",
+        "title": "Cookie Policy | Your Privacy & Data Usage | GTCFX",
+        "description": "Understand how GTCFX uses cookies to enhance your experience, analyze usage, and maintain a secure and efficient website."
+      },
+      "deposit-and-refund-policy": {
+        "name": "Deposit & Refund Policy",
+        "summary": "Deposits, withdrawals, refunds and payment verification.",
+        "title": "Deposit & Refund Policy | Payments & Transactions | GTCFX",
+        "description": "Review GTCFX’s deposit and refund policy, including payment methods, processing procedures, and transaction guidelines."
+      },
+      "kyc-compliance-policy": {
+        "name": "KYC & Compliance Policy",
+        "summary": "Identity verification, documentation and compliance checks.",
+        "title": "KYC & Compliance Policy | Identity Verification | GTCFX",
+        "description": "Understand GTCFX’s KYC and compliance procedures for identity verification, regulatory requirements, and secure trading practices."
+      },
+      "website-disclaimer": {
+        "name": "Website Disclaimer",
+        "summary": "The limits of the information published on this website.",
+        "title": "Website Disclaimer | GTCFX",
+        "description": "The information provided on this website is for general informational purposes only and does not constitute investment advice, solicitation, or recommendation."
+      },
+      "swap-free-terms-and-conditions": {
+        "name": "Swap-Free Terms",
+        "summary": "Eligibility, fees and rules for swap-free accounts.",
+        "title": "Swap-Free Terms & Conditions | GTCFX",
+        "description": "Review the terms and conditions for swap-free accounts, including eligibility, usage rules, and applicable conditions."
+      }
+    },
+    "document": {
+      "contents": "Contents",
+      "sections": "{count} sections",
+      "readTime": "{minutes} min read",
+      "progress": "Reading progress",
+      "section": "Section {current} of {total}",
+      "keyNotices": "Key notices",
+      "about": "About this policy",
+      "notes": "Please note",
+      "backToTop": "Back to top",
+      "allDocuments": "All legal documents",
+      "contactSupport": "Contact Support",
+      "related": {
+        "title": "Other [policies]",
+        "description": "Every policy that applies to your use of GTCFX websites and services, in one place."
+      },
+      "read": "Read policy",
+      "unavailable": {
+        "title": "This document is temporarily unavailable",
+        "text": "We couldn't load this policy right now. Please try again shortly, or download the PDF version from our legal documents page."
+      }
+    },
+    "hub": {
+      "meta": {
+        "title": "Legal Documents | Policies & Client Agreements | GTCFX",
+        "description": "Download GTCFX legal documents, client onboarding forms, privacy policies, risk disclosures, and regulatory agreements for all GTC entities."
+      },
+      "current": "Legal Documents",
+      "hero": {
+        "eyebrow": "Legal & Compliance",
+        "title": "Legal policies & [client agreements]",
+        "description": "Access legal documents, client onboarding forms, privacy policies, risk disclosures, and regulatory information for GTC Global LTD (Mauritius) and GTC Global Trade Capital Co. Ltd (Vanuatu).",
+        "entities": "Regulated entities",
+        "documents": "PDF documents",
+        "policies": "Online policies",
+        "verified": "Official document"
+      },
+      "content": {
+        "title": "Download [by entity]",
+        "description": "Choose the GTC entity you contract with to see its documents. Each file opens as a PDF in a new tab.",
+        "tabsLabel": "Legal entities",
+        "download": "Download",
+        "pdf": "PDF",
+        "count": "{count} documents",
+        "footnote": "Documents open in a new tab. Policies may be updated periodically — always refer to the latest published version.",
+        "entities": {
+          "mauritius": {
+            "label": "GTC Global LTD (Mauritius)",
+            "short": "Mauritius"
+          },
+          "vanuatu": {
+            "label": "GTC Global Trade Capital Co.Ltd (Vanuatu)",
+            "short": "Vanuatu"
+          }
+        },
+        "open": "Open"
+      },
+      "web": {
+        "title": "Read our policies [online]",
+        "description": "The same policies as interactive pages, with a contents list and plain section numbering."
+      },
+      "cta": {
+        "title": "Questions about a [document?]",
+        "description": "Our support team can help you find the right agreement for your entity or explain any part of our policies.",
+        "primary": "Contact Support",
+        "secondary": "Restricted countries"
+      }
+    },
+    "restricted": {
+      "meta": {
+        "title": "Restricted Countries | GTCFX Service Availability",
+        "description": "Check the list of restricted countries for GTCFX services and ensure compliance before opening a trading account."
+      },
+      "current": "Restricted Countries",
+      "hero": {
+        "badge": "Service availability",
+        "title": "Restricted [countries]",
+        "description": "GTC Global Ltd does not provide services to residents of certain jurisdictions due to regulatory, compliance, and risk management policies."
+      },
+      "search": {
+        "title": "Check your country",
+        "placeholder": "Type a country name…",
+        "clear": "Clear",
+        "noMatch": "“{query}” is not on any restricted list.",
+        "noMatchHint": "Availability can still depend on your eligibility and onboarding route.",
+        "matches": "{count, plural, one {# match} other {# matches}}"
+      },
+      "categories": {
+        "prohibited": {
+          "title": "Prohibited countries",
+          "description": "We do not open accounts for, or provide services to, residents of these countries.",
+          "status": "Prohibited"
+        },
+        "highRisk": {
+          "title": "High risk countries",
+          "description": "Residents of these countries are subject to enhanced due diligence and may not be accepted.",
+          "status": "High risk"
+        },
+        "serviceRestriction": {
+          "title": "Service restriction",
+          "description": "Our services are not offered to residents of these countries.",
+          "status": "Restricted"
+        }
+      },
+      "count": "{count, plural, one {# country} other {# countries}}",
+      "noteLabel": "Note:",
+      "noteText": "The above list applies specifically to services offered by GTC Global Ltd and GTC Global Trade Capital Co. Limited. Other entities within the GTC Financial Group may operate under different regulatory frameworks. Please refer to their respective websites for more details.",
+      "countries": {
+        "prohibited": [
+          "Democratic People's Republic of Korea",
+          "Iran",
+          "Myanmar"
+        ],
+        "highRisk": [
+          "Democratic Republic of Congo",
+          "Haiti",
+          "Iraq",
+          "Kenya",
+          "Kuwait",
+          "Lao People's Democratic Republic",
+          "Lebanon",
+          "Monaco",
+          "Nepal",
+          "Papua New Guinea",
+          "South Sudan",
+          "Syria",
+          "Venezuela",
+          "Vietnam",
+          "Virgin Islands (UK)",
+          "Yemen"
+        ],
+        "serviceRestriction": [
+          "Afghanistan",
+          "Russia",
+          "Ukraine",
+          "Israel",
+          "USA",
+          "Australia",
+          "Japan"
+        ]
+      },
+      "cta": {
+        "title": "Not sure if you [can join?]",
+        "description": "Contact our support team before applying and we'll confirm which GTC entity, if any, can serve your country of residence.",
+        "primary": "Contact Support",
+        "secondary": "Legal documents"
+      }
+    }
+  }
+}

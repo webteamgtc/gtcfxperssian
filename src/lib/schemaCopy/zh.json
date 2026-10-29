@@ -1,0 +1,548 @@
+{
+  "routes": {
+    "home": {
+      "website": {
+        "name": "低点差在线 CFD 交易 | GTCFX",
+        "description": "通过 GTCFX 访问 7 个以上交易市场，这是一家领先的 CFD 经纪商，提供外汇、指数、能源、金属、股票等。享受低点差，立即开始 CFD 交易。"
+      },
+      "financialService": {
+        "name": "GTC Global SA (Pty) Ltd",
+        "legalName": "GTC Global SA (Pty) Ltd",
+        "description": "GTC Global SA (Pty) Ltd 是南非金融部门行为监管局（FSCA）授权并监管的金融服务提供商（FSP 编号 51545）。",
+        "address": {
+          "streetAddress": "18 Cavendish Road, Claremont",
+          "addressLocality": "Cape Town",
+          "addressRegion": "Western Cape",
+          "postalCode": "7708",
+          "addressCountry": "ZA"
+        },
+        "identifiers": [
+          {
+            "propertyID": "CIPC 公司编号",
+            "value": "2020/810937/07"
+          },
+          {
+            "propertyID": "FSCA FSP 编号",
+            "value": "51545"
+          }
+        ]
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "什么是 CFD 交易？",
+            "answer": "CFD 交易允许您在不拥有标的资产的情况下，对选定金融工具的价格变动进行交易。"
+          },
+          {
+            "question": "我可以在 GTCFX 交易哪些市场？",
+            "answer": "根据您的账户类型和地区，您可能可以访问外汇、金属、能源、指数、大宗商品、股票 和期货 CFD。"
+          },
+          {
+            "question": "什么是交易杠杆？",
+            "answer": "杠杆允许您用较少的资金控制更大的交易头寸。它可能同时放大潜在收益和潜在损失。"
+          },
+          {
+            "question": "点差和佣金如何运作？",
+            "answer": "点差是买入价与卖出价之间的差额。某些账户类型还可能对每笔交易或每手收取佣金。"
+          },
+          {
+            "question": "什么是保证金以及如何计算？",
+            "answer": "保证金是开立和维持交易头寸所需的资金。它取决于交易品种、头寸规模、杠杆和市场条件。"
+          }
+        ]
+      }
+    },
+    "marketsForex": {
+      "product": {
+        "name": "GTCFX 外汇 CFD 交易",
+        "alternateName": [
+          "外汇 CFD 交易",
+          "FX CFD 交易"
+        ],
+        "serviceType": "在线外汇 CFD 交易",
+        "description": "通过 GTCFX 的外汇 CFD 访问 70 多种主要、次要及奇异货币对。",
+        "category": [
+          "外汇 CFD",
+          "主要货币对",
+          "次要货币对",
+          "Exotic 货币对"
+        ]
+      }
+    },
+    "marketsEnergy": {
+      "product": {
+        "name": "GTCFX 能源 CFD 交易",
+        "serviceType": "在线能源 CFD 交易",
+        "description": "通过 GTCFX 访问能源 CFD 市场，包括原油和天然气，无需拥有或实物交割标的商品。",
+        "category": [
+          "能源 CFD",
+          "原油 CFD",
+          "天然气 CFD"
+        ]
+      }
+    },
+    "marketsIndices": {
+      "product": {
+        "name": "GTCFX 指数 CFD 交易",
+        "alternateName": [
+          "指数 CFD 交易",
+          "指数 CFD 交易"
+        ],
+        "serviceType": "在线指数 CFD 交易",
+        "description": "通过 GTCFX 访问 20 多种全球指数 CFD，涵盖美国、欧洲和亚洲股票市场。",
+        "category": [
+          "指数 CFD",
+          "指数 CFD",
+          "股票指数 CFD",
+          "美国指数",
+          "欧洲指数",
+          "亚洲指数"
+        ]
+      }
+    },
+    "marketsMetals": {
+      "product": {
+        "name": "GTCFX 金属 CFD 交易",
+        "serviceType": "在线金属 CFD 交易",
+        "description": "通过 GTCFX 访问金属 CFD 市场，包括黄金、白银、铂金和钯金，无需拥有或实物交割标的金属。",
+        "category": [
+          "金属 CFD",
+          "黄金 CFD",
+          "白银 CFD",
+          "铂金 CFD",
+          "钯金 CFD"
+        ]
+      }
+    },
+    "marketsShares": {
+      "product": {
+        "name": "GTCFX 股票 CFD 交易",
+        "alternateName": [
+          "股票 CFD 交易",
+          "Stock CFD 交易",
+          "股权 CFD 交易"
+        ],
+        "serviceType": "在线股票与股权 CFD 交易",
+        "description": "通过 GTCFX 访问 500 多种全球股票 CFD，在不拥有标的股票的情况下对股价走势做多或做空。",
+        "category": [
+          "股票 CFD",
+          "Stock CFD",
+          "股权 CFD",
+          "全球股票 CFD"
+        ]
+      }
+    },
+    "marketsFutureCfds": {
+      "product": {
+        "name": "GTCFX 期货 CFD 交易",
+        "serviceType": "在线期货类 CFD 交易",
+        "description": "通过 GTCFX 访问期货类 CFD 市场，包括选定的股指和贵金属期货，无需实物拥有或交割标的资产。",
+        "category": [
+          "期货 CFD",
+          "Futures CFD",
+          "指数期货 CFD",
+          "金属期货 CFD"
+        ]
+      }
+    },
+    "copyTrading": {
+      "howTo": {
+        "name": "如何开始使用 GTCFX 跟单交易",
+        "description": "通过三个简单步骤开始使用 GTCFX 跟单交易。",
+        "steps": [
+          {
+            "name": "开立真实账户",
+            "text": "创建 GTCFX 真实账户并完成设置，以访问跟单交易服务。"
+          },
+          {
+            "name": "选择合适的交易员",
+            "text": "在选择跟随对象之前，查看交易员资料、业绩和交易风格。"
+          },
+          {
+            "name": "开始复制策略",
+            "text": "分配资金、激活跟单，并直接从您的控制面板跟踪业绩。"
+          }
+        ]
+      },
+      "service": {
+        "name": "GTCFX 跟单交易服务",
+        "alternateName": "GTCFX 跟单交易",
+        "serviceType": "在线跟单交易服务",
+        "description": "一项在线跟单交易服务，允许符合条件的客户查看交易员资料、选择策略并自动复制选定交易，同时监控业绩并管理资金分配。",
+        "disambiguatingDescription": "跟单交易自动复制所选交易员的交易，同时客户仍保持对自己账户和资金的控制。",
+        "category": [
+          "跟单交易",
+          "自动交易",
+          "策略复制"
+        ]
+      }
+    },
+    "gtcGoApp": {
+      "application": {
+        "name": "GTC Go",
+        "alternateName": [
+          "GTC Go 交易 App",
+          "GTCFX 移动交易 App"
+        ],
+        "description": "GTC Go 是一款适用于 iOS 和 Android 的移动交易应用，提供 7 个以上交易市场、实时报价、图表、专业订单类型、账户管理和跟单交易。",
+        "featureList": [
+          "访问 7 个以上交易市场",
+          "实时市场报价",
+          "专业订单类型",
+          "技术图表和指标",
+          "自定义价格提醒",
+          "账户管理",
+          "入金和出金",
+          "跟单交易"
+        ]
+      }
+    },
+    "freeDemoAccount": {
+      "service": {
+        "name": "GTCFX 免费模拟交易账户",
+        "alternateName": "GTCFX 模拟账户",
+        "serviceType": "在线 CFD 模拟交易账户",
+        "description": "免费模拟交易账户，允许用户在 GTCFX 支持的交易平台上，以虚拟资金在真实市场条件下练习 CFD 交易。",
+        "category": [
+          "CFD 模拟账户",
+          "模拟交易账户",
+          "练习交易账户"
+        ]
+      },
+      "howTo": {
+        "name": "如何开始使用 GTCFX 模拟账户",
+        "description": "设置 GTCFX 模拟交易环境，开始使用虚拟资金测试交易策略。",
+        "steps": [
+          {
+            "name": "注册账户",
+            "text": "注册以创建您的 GTCFX 模拟账户。"
+          },
+          {
+            "name": "选择平台和参数",
+            "text": "选择您的交易平台并配置首选的模拟账户设置。"
+          },
+          {
+            "name": "下载并配置",
+            "text": "在桌面或移动设备上设置您首选的交易平台。"
+          },
+          {
+            "name": "运行策略测试",
+            "text": "使用虚拟资金测试策略并监控交易业绩。"
+          }
+        ]
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "模拟账户是否有到期日？",
+            "answer": "没有。GTCFX 模拟账户不会过期，可用于持续的交易练习。"
+          },
+          {
+            "question": "模拟账户的点差是否与真实账户相同？",
+            "answer": "模拟点差旨在 尽可能 反映真实市场条件，但由于模拟交易不与真实流动性和实时订单流交互，可能会出现细微差异。"
+          },
+          {
+            "question": "如何重置模拟余额？",
+            "answer": "当您想开始新的测试周期时，可以从账户控制面板重置虚拟模拟余额。"
+          },
+          {
+            "question": "支持哪些平台？",
+            "answer": "GTCFX 模拟账户支持 MetaTrader 4、MetaTrader 5 和 GTC Trader，适用于支持的桌面、网页和移动环境。"
+          },
+          {
+            "question": "开立模拟账户是否需要身份验证？",
+            "answer": "不需要。GTCFX 模拟账户可在无需身份验证、入金或支持文件的情况下开立。"
+          }
+        ]
+      }
+    },
+    "openLiveAccount": {
+      "service": {
+        "name": "GTCFX 真实交易账户",
+        "alternateName": "GTCFX 真实账户",
+        "serviceType": "在线真实交易账户",
+        "description": "开立 GTCFX 真实交易账户，访问全球 CFD 市场、多种账户类型和支持的交易平台。",
+        "category": [
+          "真实交易账户",
+          "CFD 交易账户"
+        ]
+      },
+      "howTo": {
+        "name": "如何开立 GTCFX 真实交易账户",
+        "description": "通过三个步骤开立 GTCFX 真实交易账户。",
+        "steps": [
+          {
+            "name": "基本信息",
+            "text": "提供您的姓名、电子邮件和电话号码，以创建安全的交易资料。"
+          },
+          {
+            "name": "身份验证 (KYC)",
+            "text": "上传您的身份证明和地址证明以完成账户验证。"
+          },
+          {
+            "name": "入金并开始交易",
+            "text": "使用可用的支付方式为账户入金，资金到账后即可开始交易。"
+          }
+        ]
+      }
+    },
+    "pammAccount": {
+      "service": {
+        "name": "GTCFX PAMM 账户服务",
+        "alternateName": "GTCFX PAMM",
+        "serviceType": "PAMM 账户与投资管理服务",
+        "description": "GTCFX PAMM 允许多位投资者将资金分配至托管账户，由专业资金经理执行交易，并按比例分配盈亏。",
+        "category": [
+          "PAMM 账户",
+          "PAMM 投资",
+          "托管交易账户"
+        ]
+      },
+      "howTo": {
+        "name": "如何开始使用 GTCFX PAMM 账户",
+        "description": "通过为账户入金、选择经理并设置分配比例，开始使用 GTCFX PAMM。",
+        "steps": [
+          {
+            "name": "开立并入金",
+            "text": "注册 GTCFX 账户并入金。"
+          },
+          {
+            "name": "浏览经理",
+            "text": "按回报、风险水平、策略和历史业绩比较经理。"
+          },
+          {
+            "name": "设置分配和限额",
+            "text": "选择要分配的资金量并设置可接受的回撤限额。"
+          },
+          {
+            "name": "监控业绩",
+            "text": "通过您的账户监控业绩以及盈亏的按比例分配。"
+          }
+        ]
+      }
+    },
+    "swapUpdate": {
+      "dataset": {
+        "name": "GTCFX 每日 CFD 隔夜利息",
+        "description": "外汇、金属和指数等 CFD 工具的每日隔夜利息，包括各交易品种的多空隔夜利息数值。",
+        "keywords": [
+          "CFD 隔夜利息",
+          "CFD 隔夜利率",
+          "外汇 CFD 隔夜利息",
+          "金属 CFD 隔夜利息",
+          "指数 CFD 隔夜利息"
+        ]
+      }
+    },
+    "dynamicLeverage": {
+      "webpage": {
+        "name": "动态杠杆与保证金条件 | GTCFX",
+        "description": "了解 GTCFX 动态杠杆和保证金要求如何根据交易头寸规模、交易品种和市场条件进行调整。",
+        "about": "动态杠杆与保证金条件"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "分级杠杆如何运作？",
+            "answer": "分级杠杆会随交易规模增大而降低杠杆比率。因此，较大的头寸可能需要更多保证金。"
+          },
+          {
+            "question": "分级杠杆会影响我的交易策略吗？",
+            "answer": "会。对于较大的头寸，增加的保证金要求可能限制开立额外头寸的能力，或需要对现有头寸进行调整。"
+          },
+          {
+            "question": "分级杠杆对所有资产都相同吗？",
+            "answer": "不是。分级杠杆可能因资产类别而异，外汇货币对可用的杠杆可能与大宗商品或指数不同。"
+          },
+          {
+            "question": "如果因分级杠杆无法满足保证金要求会怎样？",
+            "answer": "在交易较大交易量时，可能需要额外资金以满足适用的保证金要求。"
+          },
+          {
+            "question": "分级杠杆会自动应用吗？",
+            "answer": "会。分级杠杆会根据交易头寸规模自动应用。"
+          },
+          {
+            "question": "如何计算分级杠杆所需的保证金？",
+            "answer": "可使用 GTCFX 动态杠杆页面上提供的保证金计算器估算所需保证金。"
+          }
+        ]
+      }
+    },
+    "mt4Platform": {
+      "application": {
+        "name": "MetaTrader 4",
+        "alternateName": [
+          "MT4",
+          "MT4 交易平台"
+        ],
+        "description": "MetaTrader 4 是通过 GTCFX 提供的多资产交易平台，提供高级图表、自动交易、多种订单类型，并支持桌面和移动设备访问。",
+        "featureList": [
+          "高级图表",
+          "30 多种内置技术指标",
+          "Expert Advisors 自动交易",
+          "MQL4 支持",
+          "多种订单类型",
+          "一键交易",
+          "多设备访问"
+        ]
+      },
+      "howTo": {
+        "name": "如何开始使用 GTCFX MT4 交易",
+        "description": "通过三个步骤开始使用 GTCFX 的 MetaTrader 4。",
+        "steps": [
+          {
+            "name": "开立账户",
+            "text": "注册 GTCFX 账户，完成验证并为交易账户入金。"
+          },
+          {
+            "name": "下载 MT4",
+            "text": "下载适用于 Windows、macOS、iOS 或 Android 的 MetaTrader 4。"
+          },
+          {
+            "name": "登录并交易",
+            "text": "使用 GTCFX 服务器凭据登录，配置图表和指标，然后开始交易。"
+          }
+        ]
+      }
+    },
+    "mt5Platform": {
+      "application": {
+        "name": "MetaTrader 5",
+        "alternateName": [
+          "MT5",
+          "MT5 交易平台"
+        ],
+        "description": "MetaTrader 5 是通过 GTCFX 提供的多资产交易平台，提供高级图表、自动交易、多种订单类型，并支持桌面和移动设备访问全球市场。",
+        "featureList": [
+          "38 多种内置技术指标",
+          "21 种时间周期",
+          "MQL5 自动交易",
+          "多资产策略测试",
+          "六种订单类型",
+          "市场深度",
+          "一键交易",
+          "多设备访问"
+        ]
+      },
+      "howTo": {
+        "name": "如何开始使用 GTCFX MT5 交易",
+        "description": "通过三个步骤开始使用 GTCFX 的 MetaTrader 5。",
+        "steps": [
+          {
+            "name": "开立账户",
+            "text": "注册 GTCFX 账户，完成验证并为交易账户入金。"
+          },
+          {
+            "name": "下载 MT5",
+            "text": "选择适用于 Windows、macOS、iOS 或 Android 的 MetaTrader 5 并安装平台。"
+          },
+          {
+            "name": "登录并交易",
+            "text": "使用 GTCFX 服务器凭据登录，配置图表和指标，然后开始交易。"
+          }
+        ]
+      }
+    },
+    "vpsHosting": {
+      "service": {
+        "name": "GTCFX Forex VPS 托管",
+        "alternateName": [
+          "Forex VPS 托管",
+          "MT4 VPS 托管",
+          "MT5 VPS 托管"
+        ],
+        "serviceType": "Forex VPS 托管服务",
+        "description": "GTCFX Forex VPS 托管为交易员提供专用远程服务器环境，用于运行 MT4、MT5 和 Expert Advisors，具备低延迟连接和持续运行能力。",
+        "category": [
+          "Forex VPS 托管",
+          "交易 VPS",
+          "MT4 VPS",
+          "MT5 VPS"
+        ]
+      },
+      "offers": [
+        {
+          "name": "Bronze Forex VPS 方案",
+          "price": "40.00",
+          "priceCurrency": "USD",
+          "description": "Bronze Forex VPS 托管，每月 $40，含 1 vCPU、2,560MB RAM、30GB SSD、Windows Server 及预装 MT4/MT5。符合条件的交易员维持最低余额 $5,000 即可免费使用。"
+        },
+        {
+          "name": "Silver Forex VPS 方案",
+          "price": "70.00",
+          "priceCurrency": "USD",
+          "description": "Silver Forex VPS 托管，每月 $70，含 1 vCPU、4,096MB RAM、50GB SSD、Windows Server 及预装 MT4/MT5。符合条件的交易员维持最低余额 $7,500 即可免费使用。"
+        },
+        {
+          "name": "Gold Forex VPS 方案",
+          "price": "120.00",
+          "priceCurrency": "USD",
+          "description": "Gold Forex VPS 托管，每月 $120，含 4 vCPU、6,656MB RAM、75GB SSD、Windows Server 及预装 MT4/MT5。符合条件的交易员维持最低余额 $10,000 即可免费使用。"
+        }
+      ],
+      "faq": {
+        "items": [
+          {
+            "question": "我可以在 Mac 上设置 MT4 或 MT5 VPS 吗？",
+            "answer": "可以。GTCFX MT4 和 MT5 VPS 托管可在 Mac 上设置和访问。"
+          },
+          {
+            "question": "Forex VPS 实际如何运作？",
+            "answer": "Forex VPS 为交易员提供专用且稳定的环境，用于托管交易平台和算法，具备持续运行和低延迟连接。"
+          },
+          {
+            "question": "谁有资格获得免费 VPS 托管？",
+            "answer": "维持所选方案层级最低账户余额的符合条件的交易员，可免费获得 VPS 托管。"
+          },
+          {
+            "question": "支持哪些交易平台？",
+            "answer": "GTCFX Forex VPS 托管支持 MetaTrader 4 和 MetaTrader 5，包括图表、指标、Expert Advisors 及基本交易功能。"
+          }
+        ]
+      }
+    },
+    "economicCalendar": {
+      "dataset": {
+        "name": "GTCFX 外汇与 CFD 经济日历",
+        "description": "面向外汇和 CFD 交易员的实时经济日历，用于跟踪影响市场的经济事件、实际结果、预测值和前值，涵盖主要全球市场。",
+        "keywords": [
+          "外汇经济日历",
+          "CFD 经济日历",
+          "经济事件日历",
+          "外汇交易日历",
+          "CFD 交易日历"
+        ],
+        "about": [
+          "外汇 CFD 交易",
+          "CFD 交易",
+          "全球经济事件"
+        ]
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "什么是经济日历？",
+            "answer": "经济日历是即将发生的经济事件和数据发布的时间表，例如利率决策、GDP 数据、就业报告和通胀数据，这些都可能推动金融市场波动。"
+          },
+          {
+            "question": "如何使用经济日历进行交易？",
+            "answer": "按日期范围、影响程度和国家筛选经济事件，然后在重要数据发布前比较预测值和前值。交易员可利用这些信息为潜在市场波动做好准备，同时采取适当的风险管理。"
+          },
+          {
+            "question": "影响程度（高/中/低）是什么意思？",
+            "answer": "影响程度表示经济数据发布在历史上对金融市场的影响程度。Non-Farm Payrolls、FOMC 决策和 CPI 等高影响事件可能导致显著的市场波动。"
+          },
+          {
+            "question": "日历使用什么时区？",
+            "answer": "经济日历默认以用户本地时区显示事件时间，并可切换至 UTC 或其他支持的时区。"
+          },
+          {
+            "question": "经济日历数据是实时的吗？",
+            "answer": "是的。实际发布值会在官方数据公布时实时更新，而预测值和前值会定期更新。"
+          }
+        ]
+      }
+    }
+  }
+}

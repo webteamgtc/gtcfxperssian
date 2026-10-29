@@ -1,0 +1,613 @@
+{
+  "meta": {
+    "title": "Online CFD Trading with Low Spread | GTCFX",
+    "description": "Access 6+ trading markets with GTCFX, a leading CFD broker offering forex, indices, energy, metals, shares, and more. Access tight spreads & trade CFDs today."
+  },
+  "riskBar": "CFDs are highly speculative, leveraged instruments. Trading in CFDs carries a high degree of risk to your capital. Investors should ensure they possess adequate market knowledge or seek independent financial advice before executing trades.",
+  "nav": {
+    "company": "Company",
+    "trading": "Trading",
+    "markets": "Markets",
+    "learn": "Learn",
+    "news": "GTC News",
+    "register": "Register",
+    "login": "Log in",
+    "menu": "Menu",
+    "close": "Close",
+    "groups": {
+      "company": [
+        {
+          "label": "About Us",
+          "desc": "Who we are and what drives us"
+        },
+        {
+          "label": "Why GTC Group",
+          "desc": "What makes our trading different"
+        },
+        {
+          "label": "Global Regulation",
+          "desc": "Our licences and regulated entities"
+        },
+        {
+          "label": "Events",
+          "desc": "Expos, awards and gatherings"
+        }
+      ],
+      "trading": [
+        {
+          "label": "Account Types",
+          "desc": "Standard and ECN accounts"
+        },
+        {
+          "label": "Copy Trading",
+          "desc": "Follow experienced traders"
+        },
+        {
+          "label": "Deposit & Withdraw",
+          "desc": "Funding methods and timings"
+        },
+        {
+          "label": "Trading Instruments",
+          "desc": "Full list of tradable products"
+        },
+        {
+          "label": "Promotions",
+          "desc": "Current offers and campaigns"
+        }
+      ],
+      "markets": [
+        {
+          "label": "Forex CFDs",
+          "desc": "Major, minor and exotic pairs"
+        },
+        {
+          "label": "Metals CFDs",
+          "desc": "Gold, silver and more"
+        },
+        {
+          "label": "Energy CFDs",
+          "desc": "Crude oil and natural gas"
+        },
+        {
+          "label": "Indices CFDs",
+          "desc": "Global stock indices"
+        },
+        {
+          "label": "Shares/Equity CFDs",
+          "desc": "Leading global companies"
+        },
+        {
+          "label": "Futures CFDs",
+          "desc": "Futures contracts as CFDs"
+        }
+      ],
+      "learn": [
+        {
+          "label": "FAQ",
+          "desc": "Answers to common questions"
+        },
+        {
+          "label": "Help Center",
+          "desc": "Guides and support articles"
+        },
+        {
+          "label": "Contact Us",
+          "desc": "Talk to our support team"
+        }
+      ],
+      "news": [
+        {
+          "label": "Latest News",
+          "desc": "Company announcements"
+        },
+        {
+          "label": "Events",
+          "desc": "Where to meet GTCFX next"
+        }
+      ]
+    }
+  },
+  "footer": {
+    "tagline": "Global Markets. One Connection.",
+    "columns": {
+      "instruments": {
+        "title": "Instruments",
+        "links": [
+          "Forex CFDs",
+          "Energy CFDs",
+          "Indices CFDs",
+          "Metals CFDs",
+          "Shares/Equity CFDs",
+          "Futures CFDs"
+        ]
+      },
+      "quick": {
+        "title": "Quick Navigation",
+        "links": [
+          "Account Types",
+          "Copy Trading",
+          "Deposit & Withdraw",
+          "Trading Instruments",
+          "Promotions"
+        ]
+      },
+      "platforms": {
+        "title": "Platforms",
+        "links": [
+          "MT4 Platform",
+          "MT5 Platform",
+          "GTC Go - Trade & Invest"
+        ]
+      },
+      "company": {
+        "title": "Company",
+        "links": [
+          "About Us",
+          "Why GTC Group",
+          "Global Regulation",
+          "Events"
+        ]
+      },
+      "support": {
+        "title": "Support",
+        "links": [
+          "FAQ",
+          "Contact Us",
+          "Help Center"
+        ]
+      },
+      "legal": {
+        "title": "Legal",
+        "links": [
+          "Website Disclaimer",
+          "Risk Disclosure",
+          "Restricted Countries",
+          "Deposit & Refund Policy",
+          "KYC & Compliance Policy",
+          "Cookie Policy",
+          "Privacy Policy",
+          "Terms and Conditions"
+        ]
+      }
+    },
+    "riskTitle": "Risk Warning",
+    "risk": [
+      "Trading in derivatives, including rolling spot Foreign Exchange (FX) and Contracts for Difference (CFDs), is highly speculative, carries a substantial degree of risk, and is not appropriate for every investor. Nothing on this website constitutes investment advice or a recommendation, and it has been prepared without regard to your individual objectives, financial circumstances or needs.",
+      "FX and CFDs are complex instruments dealt on a margined basis and carry a high risk of losing money rapidly by reason of leverage, which magnifies gains and losses alike. You may lose part or all of your invested capital, and losses may exceed your initial investment. Before trading, you should consider your objectives, financial position, level of experience and appetite for risk, satisfy yourself that you understand how these products operate, and trade only with funds you can afford to lose. Seek independent financial or tax advice if in any doubt. Past performance is not indicative of future results.",
+      "The entity with which a client contracts will depend on the client's jurisdiction, eligibility, classification and onboarding route. The applicable contracting entity and, where relevant, the product issuer and/or counterparty will be clearly disclosed before the client submits an account application and will be identified in the relevant Client Agreement. Products and services available under one entity may not be available under another entity. Each entity within the GTC Financial Group is a separate legal entity. A licence held by one entity does not extend to any other entity within the group.",
+      "GTC Global Trading Ltd, is a company incorporated in Anjouan, Union of the Comoros (Company No. 16283) and licensed by the Anjouan Offshore Finance Authority under Licence No. L16283/GTC. Its registered address is Boulevard de Coalancanthe, Mutsamudu, Anjouan, Union of the Comoros.",
+      "GTC Global Trade Capital Co. Limited (Company No. 40354) is a company incorporated in Vanuatu. The company holds Class A, Class B and Class C Principal's Licences issued by the Vanuatu Financial Services Commission under the Financial Dealers Licensing Act [CAP. 70]. Its registered address is First Floor, B&P House, Kumul Highway, Port Vila, Vanuatu.",
+      "Services offered through this international website are not available to residents of the United States, Japan, Australia, or in any jurisdiction where the provision of those services would contravene applicable laws, regulations, or sanctions."
+    ],
+    "rights": "All rights reserved.",
+    "cookie": "We use cookies to enhance your experience, analyze website traffic, and remember your preferences. Some cookies are essential, while others help us improve our services and personalize content. By clicking “Accept All,” you consent to our use of cookies.",
+    "cookieAccept": "Accept All",
+    "cookieSettings": "Settings",
+    "backToTop": "Back to top",
+    "notices": {
+      "za": {
+        "title": "Risk Warning",
+        "paras": [
+          "Trading in derivatives, including rolling spot Foreign Exchange (FX) and Contracts for Difference (CFDs), is highly speculative, carries a substantial degree of risk, and is not appropriate for every investor. Nothing on this website constitutes investment advice or a recommendation, and it has been prepared without regard to your individual objectives, financial circumstances or needs.",
+          "FX and CFDs are complex instruments dealt on a margined basis and carry a high risk of losing money rapidly by reason of leverage, which magnifies gains and losses alike. You may lose part or all of your invested capital, and losses may exceed your initial investment. Before trading, you should consider your objectives, financial position, level of experience and appetite for risk, satisfy yourself that you understand how these products operate, and trade only with funds you can afford to lose. Seek independent financial or tax advice if in any doubt. Past performance is not indicative of future results.",
+          "This website is operated by GTC Global SA (Pty) Ltd (Company No. 2020/810937/07), the licensed financial services provider for clients resident in South Africa (FSP No. 51545). Its registered address is 18 Cavendish Road, Claremont, Cape Town, Western Cape, 7708, South Africa. It is licensed and regulated by South Africa's Financial Sector Conduct Authority (FSCA). The company is neither a market maker nor a product issuer and acts solely as an intermediary under the Financial Advisory and Intermediary Services Act, 2002 (FAIS), between the client and GTC Global Trading Ltd, the product supplier and principal counterparty to all client transactions.",
+          "GTC Global Trading Ltd is a company incorporated in Anjouan, Union of the Comoros (Company No. 16283) and licensed by the Anjouan Offshore Finance Authority under Licence No. L162831GTC. Its registered address is Boulevard de Coalancanthe, Mutsamudu, Anjouan, Union of the Comoros.",
+          "Services offered through this website are not available to residents of the United States, Japan, Australia, or in any jurisdiction where the provision of those services would contravene applicable laws, regulations, or sanctions."
+        ]
+      },
+      "vu": {
+        "title": "Risk Warning",
+        "paras": [
+          "Trading in derivatives, including rolling spot Foreign Exchange (FX) and Contracts for Difference (CFDs), is highly speculative, carries a substantial degree of risk, and is not appropriate for every investor. Nothing on this website constitutes investment advice or a recommendation, and it has been prepared without regard to your individual objectives, financial circumstances or needs.",
+          "FX and CFDs are complex instruments dealt on a margined basis and carry a high risk of losing money rapidly by reason of leverage, which magnifies gains and losses alike. You may lose part or all of your invested capital, and losses may exceed your initial investment. Before trading, you should consider your objectives, financial position, level of experience and appetite for risk, satisfy yourself that you understand how these products operate, and trade only with funds you can afford to lose. Seek independent financial or tax advice if in any doubt. Past performance is not indicative of future results.",
+          "The entity with which a client contracts will depend on the client's jurisdiction, eligibility, classification and onboarding route. The applicable contracting entity and, where relevant, the product issuer and/or counterparty will be clearly disclosed before the client submits an account application and will be identified in the relevant Client Agreement. Products and services available under one entity may not be available under another entity. Each entity within the GTC Financial Group is a separate legal entity. A licence held by one entity does not extend to any other entity within the group.",
+          "GTC Global Trade Capital Co. Limited (Company No. 40354) is a company incorporated in Vanuatu. The company holds Class A, Class B and Class C Principal's Licences issued by the Vanuatu Financial Services Commission under the Financial Dealers Licensing Act [CAP. 70]. Its registered address is First Floor, B&P House, Kumul Highway, Port Vila, Vanuatu.",
+          "Services offered through this international website are not available to residents of the United States, Japan, Australia, or in any jurisdiction where the provision of those services would contravene applicable laws, regulations, or sanctions."
+        ]
+      },
+      "mu": {
+        "title": "Risk Warning",
+        "paras": [
+          "Trading in derivatives, including rolling spot Foreign Exchange (FX) and Contracts for Difference (CFDs), is highly speculative, carries a substantial degree of risk, and is not appropriate for every investor. Nothing on this website constitutes investment advice or a recommendation, and it has been prepared without regard to your individual objectives, financial circumstances or needs.",
+          "FX and CFDs are complex instruments dealt on a margined basis and carry a high risk of losing money rapidly by reason of leverage, which magnifies gains and losses alike. You may lose part or all of your invested capital, and losses may exceed your initial investment. Before trading, you should consider your objectives, financial position, level of experience and appetite for risk, satisfy yourself that you understand how these products operate, and trade only with funds you can afford to lose. Seek independent financial or tax advice if in any doubt. Past performance is not indicative of future results.",
+          "The entity with which a client contracts will depend on the client's jurisdiction, eligibility, classification and onboarding route. The applicable contracting entity and, where relevant, the product issuer and/or counterparty will be clearly disclosed before the client submits an account application and will be identified in the relevant Client Agreement. Products and services available under one entity may not be available under another entity. Each entity within the GTC Financial Group is a separate legal entity. A licence held by one entity does not extend to any other entity within the group.",
+          "GTC Global Ltd is a company incorporated in Mauritius (Company No. C188049), holding a Global Business Licence, and authorised and regulated by the Financial Services Commission, Mauritius (FSC) as an Investment Dealer (Full Service Dealer, excluding Underwriting) / SEC-2.1B, Licence No. GB22200292, pursuant to Section 29 of the Securities Act 2005, Rule 4 of the Securities (Licensing) Rules 2007, and the Financial Services (Consolidated Licensing and Fees) Rules 2008. Its registered office and principal place of business is Ground Floor, The Catalyst, Silicon Avenue, 40 Cybercity, 72201 Ebene, Republic of Mauritius.",
+          "Services offered through this international website are not available to residents of the United States, Japan, Australia, or in any jurisdiction where the provision of those services would contravene applicable laws, regulations, or sanctions."
+        ]
+      }
+    },
+    "changeCategory": "Change investor category"
+  },
+  "common": {
+    "prev": "Previous",
+    "next": "Next",
+    "scroll": "Scroll to explore"
+  },
+  "app": {
+    "splashTitle": "GTCFX: GTC GO - Trade & Invest",
+    "tagline": "Trade & Invest",
+    "watchlist": "Watchlist",
+    "portfolio": "Portfolio",
+    "balance": "Balance",
+    "today": "Today",
+    "buy": "Buy",
+    "sell": "Sell",
+    "filled": "Order filled",
+    "filledSub": "Buy 0.10 lot XAUUSD",
+    "copy": "Copy Trading",
+    "copySub": "Follow top strategies",
+    "download": "Download GTC Go",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "rating": "Rated by traders worldwide",
+    "tabs": [
+      "Markets",
+      "Trade",
+      "Portfolio",
+      "Profile"
+    ],
+    "onAppStore": "Download on the",
+    "onPlay": "GET IT ON"
+  },
+  "lang": {
+    "title": "Choose your language",
+    "subtitle": "GTCFX is available in {count} languages.",
+    "search": "Search languages",
+    "current": "Current",
+    "all": "All",
+    "regions": {
+      "global": "Global",
+      "mena": "Middle East & South Asia",
+      "asia": "East & Southeast Asia",
+      "europe": "Europe"
+    },
+    "noResults": "No language matches “{q}”.",
+    "rtl": "RTL",
+    "close": "Close",
+    "remember": "Your choice is saved on this device.",
+    "open": "Change language"
+  },
+  "menu": {
+    "groups": {
+      "company": "Company",
+      "trading": "Trading",
+      "markets": "Markets",
+      "learn": "Learn",
+      "news": "GTC News"
+    },
+    "sections": {
+      "about": "About GTCFX",
+      "legal": "Legal information",
+      "help": "Help center",
+      "partner": "Partner with us",
+      "tradeWith": "Trade with GTCFX",
+      "metatrader": "MetaTrader 4/5",
+      "gtcgo": "GTCFX: GTC Go",
+      "products": "Our products",
+      "advantages": "Trading advantages",
+      "tradeMarkets": "Trade markets",
+      "recommendations": "Recommendations",
+      "popularIndices": "Popular indices",
+      "startTrading": "Start trading",
+      "skills": "Build your skills",
+      "helpCentre": "Help centre",
+      "marketUpdates": "Market updates",
+      "companyUpdates": "Company updates"
+    },
+    "links": {
+      "aboutUs": "About Us",
+      "whyGtcfx": "Why GTC Group",
+      "globalPresence": "Global Presence",
+      "events": "Events & Exhibitions",
+      "regulation": "Regulations",
+      "awards": "GTCFX Awards",
+      "faqSupport": "FAQ & User Support",
+      "contact": "Contact Us",
+      "partners": "Partners Program",
+      "prime": "GTC Prime",
+      "openLive": "Open Live Account",
+      "freeDemo": "Free Demo Account",
+      "fund": "Fund Your Account",
+      "accountTypes": "Account Types",
+      "security": "Security of Funds",
+      "mt5": "MetaTrader 5",
+      "mt4": "MetaTrader 4",
+      "mtAndroid": "MetaTrader Android",
+      "mtIos": "MetaTrader iPhone/iPad",
+      "gtcGo": "GTC Go",
+      "gtcGoWeb": "GTC Go Web",
+      "gtcGoIos": "GTC Go iPhone/iPad",
+      "gtcGoAndroid": "GTC Go Android",
+      "copyTrading": "Copy Trading",
+      "dynamicLeverage": "Dynamic Leverage",
+      "swapUpdate": "Swap Update",
+      "pamm": "PAMM Account",
+      "vps": "VPS",
+      "forex": "Forex CFDs",
+      "energy": "Energy CFDs",
+      "indices": "Indices CFDs",
+      "metals": "Metals CFDs",
+      "shares": "Shares/Equity CFDs",
+      "futures": "Futures CFDs",
+      "EURUSD": "EURUSD",
+      "GBPUSD": "GBPUSD",
+      "USDJPY": "USDJPY",
+      "USDCHF": "USDCHF",
+      "XAUUSD": "Gold (XAUUSD)",
+      "US30": "Wall Street",
+      "SPX500": "US SP 500",
+      "NAS100": "US Tech 100",
+      "beginners": "For Trading Beginners",
+      "glossary": "A–Z Glossary",
+      "liquidity": "Liquidity & Technology",
+      "essentials": "Trading Essentials",
+      "marketGuides": "Market Guides",
+      "risk": "Risk Management Basics",
+      "technical": "Technical Analysis Basics",
+      "qa": "GTCFX Q&A",
+      "depositFaq": "Account & Deposit FAQs",
+      "platformGuides": "Platform Guides",
+      "outlook": "Daily / Weekly Market Outlook",
+      "calendar": "Economic Calendar",
+      "earnings": "Earnings & Dividends Calendar",
+      "holidays": "Market Holidays",
+      "companyNews": "Company News",
+      "awardsMedia": "Awards & Media"
+    },
+    "promos": {
+      "company": {
+        "title": "Find Your Account",
+        "text": "Choose the right account for your needs.",
+        "cta": "See Account Guide"
+      },
+      "trading": {
+        "title": "Platform Downloads",
+        "text": "Scan to get GTC Go on your phone.",
+        "cta": "Download"
+      },
+      "markets": {
+        "title": "Register Now",
+        "text": "Open a live account today and start trading with GTCFX. Get access to our award-winning trading platforms, market analysis, and educational resources.",
+        "cta": "Open Live Account"
+      },
+      "learn": {
+        "title": "Traders' Insight",
+        "text": "Get daily market commentary and insights from industry leaders and IBKR analysts across global asset classes.",
+        "cta": "Explore Insights"
+      },
+      "news": {
+        "title": "Fund in Your Trading Currency",
+        "text": "Deposit and trade in up to 29 currencies with flexible funding options.",
+        "cta": "Explore Funding"
+      }
+    },
+    "downloads": {
+      "mt4": "MetaTrader 4",
+      "mt5": "MetaTrader 5",
+      "gtcgo": "GTCFX: GTC Go",
+      "scan": "Scan to download"
+    },
+    "accountsVisual": {
+      "standard": "Standard",
+      "ecn": "ECN",
+      "from": "from"
+    },
+    "live": "Live",
+    "allLinks": "{count} links",
+    "back": "Back",
+    "openMenu": "Open menu",
+    "mobileCta": "Start trading in minutes",
+    "currencies": "currencies",
+    "desc": {
+      "aboutUs": "Who we are and what drives us",
+      "whyGtcfx": "What makes our trading different",
+      "globalPresence": "Our offices and markets worldwide",
+      "events": "Expos, summits and gatherings",
+      "regulation": "Our licences and regulated entities",
+      "awards": "Industry recognition we've earned",
+      "faqSupport": "Answers and help from our team",
+      "contact": "Talk to our support team",
+      "partners": "Earn as an introducing broker",
+      "prime": "Premium service for active traders",
+      "openLive": "Start trading in minutes",
+      "freeDemo": "Practise with virtual funds",
+      "fund": "Deposits, withdrawals and timings",
+      "accountTypes": "Standard and ECN accounts",
+      "security": "How we protect client money",
+      "mt5": "Advanced multi-asset platform",
+      "mt4": "The classic trading platform",
+      "mtAndroid": "MetaTrader on Android",
+      "mtIos": "MetaTrader on iPhone and iPad",
+      "gtcGo": "Our all-in-one trading app",
+      "gtcGoWeb": "Trade in your browser",
+      "gtcGoIos": "GTC Go for iPhone and iPad",
+      "gtcGoAndroid": "GTC Go for Android",
+      "copyTrading": "Follow experienced traders",
+      "dynamicLeverage": "Leverage that adapts to your positions",
+      "swapUpdate": "Latest overnight swap rates",
+      "pamm": "Managed trading accounts",
+      "vps": "Run EAs around the clock",
+      "forex": "Major, minor and exotic pairs",
+      "energy": "Crude oil and natural gas",
+      "indices": "Global stock indices",
+      "metals": "Gold, silver and more",
+      "shares": "Leading global companies",
+      "futures": "Futures contracts as CFDs",
+      "beginners": "Your first steps in trading",
+      "glossary": "Trading terms explained",
+      "liquidity": "How our pricing and execution work",
+      "essentials": "Core concepts every trader needs",
+      "marketGuides": "How each market moves",
+      "risk": "Protect your capital",
+      "technical": "Read charts and patterns",
+      "qa": "Common questions answered",
+      "depositFaq": "Accounts, funding and payments",
+      "platformGuides": "Set up and use our platforms",
+      "outlook": "What's moving the markets",
+      "calendar": "Key economic releases",
+      "earnings": "Company results and payouts",
+      "holidays": "Trading hours and closures",
+      "companyNews": "Announcements from GTCFX",
+      "awardsMedia": "Press coverage and awards"
+    },
+    "eyebrow": "GTCFX"
+  },
+  "stats": {
+    "items": [
+      {
+        "value": 985000,
+        "prefix": "",
+        "suffix": "+",
+        "label": "Served Clients"
+      },
+      {
+        "value": 7,
+        "prefix": "",
+        "suffix": "+",
+        "label": "Trading Markets"
+      },
+      {
+        "value": 20,
+        "prefix": "",
+        "suffix": "+",
+        "label": "Languages Supported"
+      },
+      {
+        "value": 850,
+        "prefix": "$",
+        "suffix": " Billion",
+        "label": "Monthly Trades"
+      }
+    ]
+  },
+  "riskBarUs": "Trading CFDs involves significant risk and may result in the loss of your invested capital. You should carefully consider whether trading is appropriate for your financial circumstances and obtain independent financial advice where necessary. GTCFX services are not offered to residents of the United States or in jurisdictions where the distribution or use of such services is prohibited by applicable laws or regulations.",
+  "geo": {
+    "us": {
+      "title": "Before you [continue]",
+      "text": "By continuing, you confirm that you understand the risks of trading CFDs, that you are not relying solely on this site for financial advice, and that you are not a resident or citizen of the United States, where GTCFX does not provide CFD trading services.",
+      "points": [
+        "Trading CFDs carries a high level of risk",
+        "This website is not financial advice",
+        "Not available to US residents or citizens"
+      ],
+      "readFull": "Full notice",
+      "accept": "Accept",
+      "reject": "Reject",
+      "restrictedEyebrow": "Access restricted",
+      "restrictedTitle": "You can't use this website",
+      "restrictedText": "You can't use this website without accepting the risk disclaimer. Please accept to continue visiting the site.",
+      "acceptToVisit": "Accept to visit website",
+      "back": "Back to disclaimer",
+      "note": "Your answer is remembered on this device for 30 days."
+    },
+    "uae": {
+      "eyebrow": "Welcome to GTCFX UAE",
+      "title": "Choose how you'd like to [continue]",
+      "text": "To show you the right information, please tell us which investor category applies to you. You can change this at any time.",
+      "cat1": {
+        "badge": "CAT 1",
+        "title": "Category 1",
+        "text": "Access the full GTCFX website: markets, trading accounts, platforms and account opening.",
+        "points": [
+          "Full website and services",
+          "Account opening available",
+          "Live prices and trading tools"
+        ]
+      },
+      "cat5": {
+        "badge": "CAT 5",
+        "title": "Category 5",
+        "text": "View general information about GTCFX for marketing purposes only. No trading services are offered on this page.",
+        "points": [
+          "Marketing information only",
+          "No account opening",
+          "Speak to our team"
+        ]
+      },
+      "ack": {
+        "label": "I confirm that I have read and understood the statement below, that I am accessing this website from the United Arab Emirates on my own initiative, and that the category I have selected applies to me.",
+        "more": "Read the full statement",
+        "less": "Hide the statement",
+        "title": "Important information for UAE residents",
+        "points": [
+          "This website is provided for general information only. Nothing on it is an offer, solicitation or recommendation to buy or sell any financial product or service in the United Arab Emirates, and nothing on it is investment advice.",
+          "Financial products and services are made available in the UAE only where permitted by the UAE Capital Market Authority (CMA) and other applicable laws, and only to persons who meet the relevant client classification requirements.",
+          "The category you select here does not by itself make you eligible for any product or service. Your classification is assessed and confirmed by GTCFX during onboarding.",
+          "Category 5 (marketing) visitors are shown marketing and introduction information only. No trading, investment or account-opening services are offered to them.",
+          "Derivatives and leveraged products, such as CFDs, carry a high level of risk and can result in losses exceeding your initial deposit. They are not suitable for all investors."
+        ],
+        "error": "Please confirm you have read and understood the statement to continue."
+      },
+      "continue": "Continue",
+      "note": "Your choice is remembered on this device for 30 days.",
+      "disclaimerTitle": "Please note",
+      "disclaimer": "The categories shown are for information purposes and do not by themselves determine your eligibility. Eligibility is confirmed during onboarding in line with applicable UAE regulations."
+    },
+    "region": {
+      "text": "You appear to be in {country}. Visit the website for your region?",
+      "switch": "Go to {region}",
+      "stay": "Stay here"
+    },
+    "intro": {
+      "loading": "Loading GTCFX"
+    }
+  },
+  "leadForm": {
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email address",
+    "country": "Country of residence",
+    "countrySelect": "Select your country",
+    "countryLoading": "Loading countries…",
+    "phone": "Phone number",
+    "sendOtp": "Send code",
+    "sendingOtp": "Sending…",
+    "otpLabel": "Verification code",
+    "otpHint": "Enter the 6-digit code we sent to your WhatsApp",
+    "verified": "Verified",
+    "disclaimerTitle": "Disclaimer:",
+    "disclaimerBefore": "By submitting this form you confirm that you have read and agree to the",
+    "clientAgreement": "Client Agreement",
+    "disclaimerAfter": ", and that GTCFX may contact you about your enquiry.",
+    "termsPrefix": "I agree to the",
+    "termsLink": "Terms and Conditions",
+    "submit": "Create Account",
+    "submitting": "Submitting…",
+    "offers": {
+      "level1": "Level 1",
+      "level2": "Level 2",
+      "level3": "Level 3",
+      "level4": "Level 4",
+      "level5": "Level 5",
+      "premium": "Premium",
+      "eliteRaw": "Elite Raw"
+    },
+    "errors": {
+      "firstName": "First name is required",
+      "lastName": "Last name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Invalid email address",
+      "emailNoPlus": "Email cannot contain a plus sign (+)",
+      "emailBlockedDomain": "Temporary or disposable email addresses are not allowed",
+      "phoneRequired": "Phone number is required",
+      "phoneInvalid": "Invalid phone number",
+      "phoneCountryMismatch": "Phone number does not match the selected country",
+      "countryRequired": "Country is required",
+      "otpRequired": "Verification code is required",
+      "otpLength": "The code must be 6 digits",
+      "termsRequired": "You must agree to the terms"
+    },
+    "toast": {
+      "verifyPhoneFirst": "Please verify your phone number first",
+      "invalidEmail": "Invalid email address. Please use a valid email.",
+      "otpSent": "Verification code sent",
+      "otpSendFailed": "Failed to send the verification code",
+      "otpVerified": "Verified successfully",
+      "otpInvalid": "Invalid verification code",
+      "otpVerifyFailed": "Verification failed",
+      "success": "Thank you! We will contact you soon",
+      "genericError": "Something went wrong"
+    },
+    "countrySearch": "Search country…"
+  }
+}

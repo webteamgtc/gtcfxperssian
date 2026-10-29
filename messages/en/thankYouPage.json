@@ -1,0 +1,37 @@
+{
+  "thankYouPage": {
+    "meta": {
+      "title": "Thank You - GTCFX",
+      "description": "Your request has been received."
+    },
+    "badge": "Request received",
+    "heading": "Thank you",
+    "heading1": "Your request was received successfully.",
+    "checkEmail": "Please check your email. The details have been sent to the provided email address.",
+    "checkEmailHint": "Can't find it? Check your spam or promotions folder.",
+    "des": "We have received your request and will contact you shortly.",
+    "des1": "If you have any questions, please reach out to our support team.",
+    "footer": "Thanks for choosing GTCFX.",
+    "footer1": "We look forward to supporting your trading journey.",
+    "next": {
+      "title": "What happens [next]",
+      "steps": [
+        { "title": "Request received", "text": "Your details are safely with us." },
+        { "title": "We review it", "text": "Our team checks your request." },
+        { "title": "We get in touch", "text": "Expect to hear from us shortly." }
+      ]
+    },
+    "actions": {
+      "home": "Back to home",
+      "support": "Contact support"
+    },
+    "explore": {
+      "title": "While you wait",
+      "items": {
+        "markets": { "title": "Explore markets", "text": "Forex, metals, indices and more." },
+        "platform": { "title": "MetaTrader 5", "text": "Get to know the platform." },
+        "calendar": { "title": "Economic calendar", "text": "See what's moving the markets." }
+      }
+    }
+  }
+}

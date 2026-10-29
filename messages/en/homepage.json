@@ -1,0 +1,369 @@
+{
+  "hero": {
+    "badge": "Trusted · Regulated · Global",
+    "title": "Access Global Markets with GTCFX",
+    "titleA": "Access Global",
+    "titleB": "Markets with GTCFX",
+    "subtitle": "Trade forex, metals, commodities, indices, and more on a secure and professional CFD trading platform built for fast and reliable trading.",
+    "ctaLive": "Open Live Account",
+    "ctaDemo": "Free Demo Account",
+    "liveLabel": "Live prices",
+    "tabs": [
+      "Metals",
+      "Energy",
+      "FX Minors",
+      "Stock",
+      "Future"
+    ],
+    "bid": "Bid",
+    "ask": "Ask",
+    "pricesNote": "Indicative prices for demonstration."
+  },
+  "features": {
+    "titleA": "Unlock Global Markets",
+    "titleB": "With A Reliable CFD Broker",
+    "subtitle": "Access global markets with powerful trading tools designed for a fast and seamless trading experience.",
+    "items": [
+      {
+        "eyebrow": "Trading Conditions",
+        "title": "Tight Spreads",
+        "text": "Enjoy competitive spreads designed to improve your trading costs while ensuring access to global markets."
+      },
+      {
+        "eyebrow": "Trade with Flexibility",
+        "title": "Best Leverage",
+        "text": "Benefit from high leverage up to 1:2000, with minimal margin requirements starting from just 0.1%."
+      },
+      {
+        "eyebrow": "Swift and Secure Transactions",
+        "title": "Fast Execution",
+        "text": "Take advantage of fast, secure execution in under 10 milliseconds, ensuring that you never miss a trading opportunity."
+      },
+      {
+        "eyebrow": "Leverage That Adapts",
+        "title": "Dynamic Leverage",
+        "text": "Dynamic leverage that adjusts based on your positions, providing the flexibility to trade effectively."
+      },
+      {
+        "eyebrow": "Trade Across Multiple Markets",
+        "title": "24/5 Trading",
+        "text": "Stay connected to global markets 24/5 — trade on your schedule, wherever you are."
+      },
+      {
+        "eyebrow": "Trading Protection",
+        "title": "Stop-Out Protection",
+        "text": "Stay in control during volatile markets with 20% stop-out protection, allowing your positions more flexibility before automatic closure."
+      }
+    ],
+    "maxLeverage": "Max leverage"
+  },
+  "markets": {
+    "titleLine1": "Trade the Leading",
+    "titleLine2": "Global CFDs Markets",
+    "viewMore": "View more",
+    "selectMarketAria": "Select {label}",
+    "markets": {
+      "energy": {
+        "label": "Energy",
+        "cardTitle": "Energy\nTrading",
+        "title": "Explore Global Energy Markets",
+        "description": "Access energy market opportunities with competitive trading conditions and flexible market access."
+      },
+      "commodities": {
+        "label": "Commodity CFDs",
+        "cardTitle": "Commodities\nTrading",
+        "title": "Diversify With Commodities",
+        "description": "Explore commodity CFD markets with flexible trading conditions and market access."
+      },
+      "forex": {
+        "label": "Forex",
+        "cardTitle": "Forex Trading\nMade Simple",
+        "title": "Forex Trading Made Simple",
+        "description": "Trade currency pairs with tight spreads, fast execution, and low margin requirements."
+      },
+      "indices": {
+        "label": "Indices",
+        "cardTitle": "Indices\nTrading",
+        "title": "Trade Leading Global Indices",
+        "description": "Access major global index markets from one professional trading account."
+      },
+      "metals": {
+        "label": "Metals",
+        "cardTitle": "Metals\nTrading",
+        "title": "Trade Precious Metals",
+        "description": "Explore gold, silver, and other metals through a professional trading environment."
+      },
+      "shares-equity-cfds": {
+        "label": "Shares/Equity CFDs",
+        "cardTitle": "Shares & Equity\nCFDs Trading",
+        "title": "Trade Shares & Equity CFDs",
+        "description": "Access global equity opportunities with flexible market."
+      },
+      "future-cfds": {
+        "label": "Futures CFDs",
+        "cardTitle": "Futures CFDs\nTrading",
+        "title": "Trade Futures CFDs",
+        "description": "Explore futures-based CFD markets with flexible trading options on a reliable CFD trading platform."
+      }
+    }
+  },
+  "platforms": {
+    "eyebrow": "Platforms",
+    "title": "Trade Anywhere, On Any Device",
+    "subtitle": "Choose the platform that fits your style — on mobile, desktop or web.",
+    "items": [
+      {
+        "key": "gtcgo",
+        "brand": "GTC Go",
+        "title": "GTC Go – Trade & Invest",
+        "tagline": "Our own app for trading and investing on the go",
+        "cta": "Download GTC Go"
+      },
+      {
+        "key": "mt5",
+        "brand": "MetaTrader 5",
+        "title": "MT5 Trading Platform",
+        "tagline": "Advanced tools for modern trading",
+        "cta": "Download MT5 Platform"
+      },
+      {
+        "key": "mt4",
+        "brand": "MetaTrader 4",
+        "title": "MT4 Trading Platform",
+        "tagline": "A trusted and classic trading platform",
+        "cta": "Download MT4 Platform"
+      }
+    ],
+    "features": [
+      "Windows · macOS · Web",
+      "iOS · Android",
+      "One-click trading"
+    ],
+    "perks": [
+      "<10ms execution",
+      "Leverage up to 1:2000",
+      "24/5 trading"
+    ]
+  },
+  "accounts": {
+    "eyebrow": "An account that fits you",
+    "titleA": "Your trading style.",
+    "titleB": "Your account.",
+    "title": "Choose Your Trading Account",
+    "subtitle": "Every trader is different. Find the account that matches your experience level, trading style, and goals.",
+    "recommended": "Recommended",
+    "open": "Open account",
+    "compare": "Compare accounts",
+    "labels": {
+      "minDeposit": "Minimum deposit",
+      "spreads": "Spreads from",
+      "commission": "Commission",
+      "leverage": "Maximum leverage",
+      "lot": "Minimum lot size"
+    },
+    "standard": {
+      "name": "Standard",
+      "desc": "Built for everyday trading — no minimum deposit, zero commission, and full platform access from day one.",
+      "minDeposit": "No minimum",
+      "spreads": "1.0 pips",
+      "commission": "$0",
+      "leverage": "1:2000",
+      "lot": "0.01"
+    },
+    "ecn": {
+      "name": "ECN",
+      "desc": "Raw market access for active traders — 0.0 pip spreads, low commission and ECN execution for active traders.",
+      "minDeposit": "$3,000",
+      "spreads": "0.0 pips",
+      "commission": "$5/lot",
+      "leverage": "1:500",
+      "lot": "0.01"
+    }
+  },
+  "leaders": {
+    "eyebrow": "Leadership",
+    "title": "Meet Our CEO",
+    "subtitle": "The people steering GTCFX's vision, growth and commitment to every trader.",
+    "ceo": {
+      "name": "Charbel Raffoul",
+      "role": "Chief Executive Officer",
+      "quote": "Our mission is simple: give every trader fair, fast and transparent access to the world's markets — backed by a team that puts clients first.",
+      "linkedin": "LinkedIn"
+    },
+    "gm": {
+      "name": "GM Name",
+      "role": "General Manager",
+      "quote": "We build long-term relationships through reliable service, local support and technology that keeps our clients ahead of the market.",
+      "linkedin": "LinkedIn"
+    },
+    "placeholder": "Photo"
+  },
+  "faq": {
+    "eyebrow": "Here to help",
+    "titleA": "Everything you",
+    "titleB": "need to know.",
+    "title": "Everything You Need to Know",
+    "subtitle": "Still have a trading question? Reach our customer service team for support.",
+    "contact": "Contact us",
+    "items": [
+      {
+        "q": "What is CFD trading?",
+        "a": "A Contract for Difference (CFD) lets you speculate on the price movement of an asset without owning it. You can go long if you expect the price to rise or short if you expect it to fall."
+      },
+      {
+        "q": "Which markets can I trade with GTCFX?",
+        "a": "You can trade CFDs on forex, metals, energy, indices, commodities, shares and futures — all from one account."
+      },
+      {
+        "q": "What is leverage in trading?",
+        "a": "Leverage lets you control a larger position with a smaller amount of capital. It magnifies both profits and losses, so it should be used with care."
+      },
+      {
+        "q": "How do spreads and commissions work?",
+        "a": "The spread is the difference between the bid and ask price. Standard accounts are commission-free with spreads from 1.0 pips, while ECN accounts offer spreads from 0.0 pips with a $5 per lot commission."
+      },
+      {
+        "q": "What is margin and how is it calculated?",
+        "a": "Margin is the amount required to open and maintain a leveraged position. It is calculated from the trade size, the instrument price and the leverage applied to your account."
+      }
+    ],
+    "languages": "20+ languages",
+    "questions": "Questions"
+  },
+  "register": {
+    "eyebrow": "Get Started",
+    "title": "Trade the World's markets",
+    "subtitle": "Open your account in minutes and start trading with GTCFX.",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email address",
+    "phone": "Phone number",
+    "country": "Country of residence",
+    "submit": "Create Account",
+    "consent": "By continuing you agree to our Terms and Conditions and Privacy Policy.",
+    "steps": [
+      "Register",
+      "Verify",
+      "Fund",
+      "Trade"
+    ]
+  },
+  "deleteAccountPage": {
+    "hero": {
+      "badge": "Account Deletion Request",
+      "titleBefore": "Delete Your",
+      "titleHighlight": "Trading Account",
+      "description": "Submit a secure request to permanently delete your trading account. Please review the important notes carefully before continuing."
+    },
+    "beforeYouContinue": {
+      "title": "Before You Continue",
+      "note1": "Account deletion is permanent and may remove access to account history, balances, and platform records.",
+      "note2": "Please ensure all open positions are closed before submitting your request.",
+      "note3": "For security verification, the submitted details must match your registered account information."
+    },
+    "helpfulNotes": {
+      "title": "Helpful Notes",
+      "note1": "Use your registered email address for faster verification.",
+      "note2": "Add all trading account numbers you want to delete.",
+      "note3": "Include your reason if you want the support team to review it."
+    },
+    "formCard": {
+      "titleBefore": "Trading",
+      "titleHighlight": "Account",
+      "titleAfter": "Deletion Request Form",
+      "description": "Complete the form below and confirm the required statements to proceed."
+    },
+    "form": {
+      "sections": {
+        "personal": "Personal Information",
+        "account": "Account Details",
+        "confirmations": "Confirmations",
+        "signature": "Signature & Verification"
+      },
+      "fields": {
+        "fullNamePlaceholder": "Enter your full name",
+        "emailPlaceholder": "Enter email address",
+        "platformLabel": "Platform",
+        "accountsLabel": "Accounts to Delete",
+        "accountsPlaceholder": "e.g. 502131, 502145, 503201",
+        "reasonLabel": "Reason for Deletion",
+        "reasonOptional": "(optional)",
+        "reasonPlaceholder": "Tell us why you want to delete your account",
+        "signaturePlaceholder": "Type your full name",
+        "fullNameLabel": "Full name",
+        "emailLabel": "Email",
+        "phoneLabel": "Phone number",
+        "phoneOptional": "(optional)",
+        "codeLabel": "Verification code",
+        "signatureLabel": "Signature",
+        "dobLabel": "Date of birth"
+      },
+      "platforms": {
+        "mt4": "MT4",
+        "mt5": "MT5",
+        "both": "Both"
+      },
+      "otp": {
+        "get": "Get OTP",
+        "sending": "Sending...",
+        "resendPrefix": "Resend in",
+        "resendSuffix": "s",
+        "sentToPrefix": "OTP sent to",
+        "verified": "Verified",
+        "instruction": "Enter the 6-digit code to verify your email."
+      },
+      "confirmations": {
+        "c1": "I confirm that I am the rightful owner of the above trading accounts and wish to permanently delete them.",
+        "c2": "I understand that once deleted, all account data, balances, and history may no longer be accessible.",
+        "c3": "I understand that any pending positions must be closed prior to deletion."
+      },
+      "warning": "Please review all information carefully before submitting. This request may result in permanent removal of your trading account access.",
+      "helpText": "Need help instead? Contact support before submitting this request.",
+      "submit": {
+        "submitting": "Submitting...",
+        "ready": "Submit Request",
+        "verifyFirst": "Verify OTP to Submit"
+      },
+      "validation": {
+        "fullNameRequired": "Full name is required",
+        "emailInvalid": "Enter a valid email",
+        "emailRequired": "Email is required",
+        "platformInvalid": "Select a platform",
+        "platformRequired": "Platform is required",
+        "accountsInvalid": "Use numbers separated by commas (e.g. 502131, 502145)",
+        "accountsRequired": "Enter at least one account number",
+        "reasonMax": "Keep reason under 1000 chars",
+        "otpLength": "OTP must be 6 digits",
+        "otpRequired": "OTP is required",
+        "c1": "Please confirm ownership",
+        "c2": "Please acknowledge data removal",
+        "c3": "Please confirm positions will be closed",
+        "signatureRequired": "Signature is required",
+        "dobRequired": "Date of birth is required",
+        "emailNoPlus": "Email cannot contain a plus sign (+)",
+        "emailBlockedDomain": "Temporary or disposable email addresses are not allowed"
+      },
+      "toasts": {
+        "verifyFirst": "Please verify the OTP first.",
+        "submitted": "Your deletion request has been submitted.",
+        "requestFailed": "Request failed",
+        "emailFirst": "Please enter your email first",
+        "emailInvalid": "Invalid email address. Please use a valid email.",
+        "otpSent": "OTP sent",
+        "invalidEmail": "Invalid email address",
+        "otpSendFailed": "Failed to send OTP. Try again.",
+        "emailVerified": "Email verified",
+        "invalidOtp": "Invalid OTP"
+      }
+    },
+    "meta": {
+      "title": "Account Deletion | Close Your Trading Account | GTCFX",
+      "description": "Submit a request to securely close your GTCFX trading account by verifying your identity and account details."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "trading": "Trading",
+      "current": "Delete Account"
+    }
+  }
+}

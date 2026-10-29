@@ -1,0 +1,582 @@
+{
+  "gtcNewsPage": {
+    "meta": {
+      "title": "GTC News | Market Insights & Company Updates | GTCFX",
+      "description": "Get the latest market insights, company news, and trading updates from GTCFX."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "current": "GTC News"
+    },
+    "hero": {
+      "title": "Market News & Insights [from GTCFX]",
+      "description": "Daily market updates, trading articles, company news and events, all in one place.",
+      "latest": "Latest",
+      "readArticle": "Read article"
+    },
+    "trends": {
+      "title": "GTCFX & [Market Trends]",
+      "readMore": "Read More",
+      "emptyState": "No articles available in this category.",
+      "allNewsLink": "All news",
+      "viewAll": "View all"
+    },
+    "knowledgeHub": {
+      "title": "GTCFX & [Knowledge Hub]",
+      "subtitle": "Enhance your trading knowledge with our MetaTrader trading guides & insightful articles",
+      "viewMore": "View more",
+      "emptyState": "No event articles available right now.",
+      "readMore": "View more"
+    },
+    "app": {
+      "title": "Trade Anytime, Anywhere [with GTC Go]",
+      "description": "Fast execution. Smart tools. Full control.",
+      "qrLabel": "Scan QR code to download",
+      "downloadLabel": "Download",
+      "appName": "GTC GO"
+    },
+    "activation": {
+      "title": "How to enable [swap-free] — fast & transparent",
+      "infoColumns": {
+        "hand": {
+          "title": "Activation is simple",
+          "text": "Reach out, and our dedicated team handles the rest. No paperwork, no hidden steps just a seamless request."
+        },
+        "question": {
+          "title": "How to activate swap-free?",
+          "text": "Contact our support team via Live Chat or Email. We will review your eligibility and activate swap-free status on your account once confirmed."
+        }
+      },
+      "channels": [
+        {
+          "title": "Live Chat",
+          "subtitle": "24/7 instant support"
+        },
+        {
+          "title": "Email",
+          "subtitle": "support@gtcfx.com"
+        }
+      ],
+      "cta": "Contact Support Now"
+    },
+    "category": {
+      "loadMore": "Load more",
+      "articles": "{count, plural, one {# article} other {# articles}}",
+      "backToNews": "Back to GTC News",
+      "description": "The latest {category} from GTCFX, newest first."
+    },
+    "article": {
+      "backToCategory": "Back to {category}",
+      "related": "More from [{category}]",
+      "share": "Share this article",
+      "copyLink": "Copy link",
+      "copied": "Link copied",
+      "prev": "Previous",
+      "next": "Next",
+      "allNews": "All news",
+      "readTime": "{minutes} min read",
+      "readNext": "Read next",
+      "by": "By {author}"
+    }
+  },
+  "earningsCalendarPage": {
+    "meta": {
+      "title": "Earnings & Dividends Calendar | Stocks & Indices CFDs | GTCFX",
+      "description": "Track upcoming earnings reports and dividend dates for stocks and indices CFDs. Stay prepared for market movements with the GTCFX earnings calendar."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "news": "GTC News",
+      "current": "Earnings Calendar"
+    },
+    "hero": {
+      "badge": "Events Calendar",
+      "title": "Earnings & [Dividends Calendar.]",
+      "description": "Track upcoming earnings releases and dividend dates for shares and index CFDs — so you can plan positions before volatility and margin adjustments hit.",
+      "categories": {
+        "calendar": "Calendar",
+        "screener": "Screener",
+        "marginGuide": "Margin Guide",
+        "faqs": "FAQs"
+      },
+      "highlightTitle": "Upcoming · Corporate Events",
+      "highlightStatus": "Live",
+      "timezone": "GMT+3"
+    },
+    "calendar": {
+      "title": "Earnings & Dividends Calendar",
+      "datePrefix": "Ex-Dividend:",
+      "description": "Track upcoming ex-dividend dates and calculate potential dividend payments for your trading positions.",
+      "intro": "Our earnings & dividends calendar below shows the next earnings releases as well as the dividend dates for every share and index CFD you can trade with GTC. We also recommend checking this calendar before trading stocks and indices.",
+      "noData": "No earnings data available right now.",
+      "calc": {
+        "title": "How to Calculate Dividend",
+        "intro": "Use these formulas to estimate dividend adjustments on open CFD positions.",
+        "longTitle": "Long position — dividend payment received",
+        "longFormula": "Dividend Payment = Component Dividend (per index contract) × Contract Size × Volume × Currency Multiplier × Account Currency Multiplier",
+        "shortTitle": "Short position — dividend charge deducted",
+        "shortFormula": "Dividend Charge = Component Dividend (per index contract) × Contract Size × Volume × Currency Multiplier × Account Currency Multiplier"
+      }
+    },
+    "screener": {
+      "title": "Earnings [this month]",
+      "description": "Scan companies reporting earnings and spot opportunities before the next release."
+    },
+    "guide": {
+      "title": "How Stock & Index Earnings & Dividends [Affect Your Margin]",
+      "description": "We’ve prepared a quick guide, which explains the calendar. Basically, it tells you when corporate events hit, how we adjust margin, and why it matters to your account.",
+      "items": [
+        {
+          "title": "Why we flag earnings and dividends",
+          "text": [
+            "Providers often flag index and margin each earnings or dividend cycle to reduce risk through exposure. That’s why we list these dates on the calendar. The flagged instrument shows the products where the event will impact volatility."
+          ],
+          "list": [],
+          "note": []
+        },
+        {
+          "title": "Reading the margin tiers",
+          "text": [
+            "Keep your risk in line! View margin tiers in levels. This ensures stronger logic is applied to the scale of your positions."
+          ],
+          "list": [],
+          "note": []
+        },
+        {
+          "title": "Share example of earnings",
+          "text": [
+            "Let’s look at a simplified example, based on Apple’s latest:"
+          ],
+          "list": [
+            "Instrument: AAPL",
+            "Share price: $182.40",
+            "Expected EPS: $2.84",
+            "Reported EPS: $2.90"
+          ],
+          "note": [
+            "If the figure is higher in another currency, go short and convert. If it’s less than that — then supply the return risk."
+          ]
+        },
+        {
+          "title": "Index example of a Dividend adjustment",
+          "text": [
+            "Let’s take a look at an example of a dividend adjustment that’s based on the CHN50:"
+          ],
+          "list": [
+            "Instrument: CHN50",
+            "Dividend size: 1.50",
+            "You’re long 1 lot – so 50 lots x 0.5 lots = 200 lots",
+            "1.50 × 50 = $75",
+            "PnL Credit: $75.00"
+          ],
+          "note": []
+        },
+        {
+          "title": "Dividend cash adjustments",
+          "text": [
+            "When an instrument goes ex-dividend, you can balance it against liquidity gaps:"
+          ],
+          "list": [
+            "If you're long (and open on ex-date) – the dividend is credited to your ledger.",
+            "If not or sold (closed) pre-ex-date – the dividend is deducted from your ledger."
+          ],
+          "note": []
+        },
+        {
+          "title": "Your responsibility",
+          "text": [
+            "During these high-margin periods, the new requirements might trigger “free margin” shortages. Ensure enough capital or margin is maintained on your positions through logic calls or proactive trading setups."
+          ],
+          "list": [],
+          "note": []
+        }
+      ],
+      "support": {
+        "title": "Heads-up on dates & times",
+        "text": [
+          "Spreads/dates are shown as estimates. At times, one calendar event can trigger multiple products in the same index. Stay one call ahead and protect margin to be outpaced of your margin. Trade smart and stay protected."
+        ]
+      }
+    },
+    "faq": {
+      "title": "Common questions, [answered.]",
+      "description": "Everything you need to know about earnings, dividends, and how they can affect your CFD positions.",
+      "items": [
+        {
+          "q": "What affects stock and index CFDs around earnings dates?",
+          "a": "Earnings releases can increase volatility, spread changes, and margin requirements on related CFDs."
+        },
+        {
+          "q": "What is an ex-dividend date in CFD trading?",
+          "a": "It is the date when dividend adjustment is applied based on your open position direction."
+        },
+        {
+          "q": "Do long and short positions get treated differently?",
+          "a": "Yes. Long positions are generally credited while short positions are generally charged for dividend adjustments."
+        },
+        {
+          "q": "Why should I check the earnings calendar before trading?",
+          "a": "It helps you plan exposure, avoid surprises, and prepare for potential margin and volatility shifts."
+        },
+        {
+          "q": "Can one event impact multiple instruments?",
+          "a": "Yes. A single corporate event may affect several related index or stock CFDs."
+        },
+        {
+          "q": "How can I reduce risk during high-margin periods?",
+          "a": "Use smaller position sizes, monitor free margin, and keep a risk buffer before major events."
+        },
+        {
+          "q": "Where can I get help if I’m unsure?",
+          "a": "Contact support before market close for guidance on instrument details and margin impact."
+        }
+      ]
+    }
+  },
+  "economicCalendarPage": {
+    "meta": {
+      "title": "Real-Time Economic Calendar | High-Impact Events | GTCFX",
+      "description": "Track real-time economic events for Forex and CFD trading with GTCFX. Check actual, forecast and prior data, impact levels, currencies and release times."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "news": "GTC News",
+      "current": "Economic Calendar"
+    },
+    "hero": {
+      "badge": "Professional Trading Tool",
+      "headingPrefix": "Your daily",
+      "headingAccent1": "trading",
+      "headingAccent2": "command",
+      "headingSuffix": "center",
+      "sub": "Track high-impact economic events, analyze historical data, and plan your trades with a real-time economic calendar with impact data — all in one professional trading tool.",
+      "viewCalendarCta": "View Live Calendar",
+      "alertsCta": "Set Event Alerts",
+      "statValues": [
+        "1,800",
+        "25+",
+        "Real-time"
+      ],
+      "stats": [
+        "Events per month",
+        "Countries covered",
+        "Data updates"
+      ],
+      "card": {
+        "title": "Economic Calendar",
+        "timezone": "UTC+4 · GST",
+        "tabs": [
+          "Yesterday",
+          "Today",
+          "Tomorrow",
+          "This Week"
+        ],
+        "columns": {
+          "time": "TIME",
+          "event": "EVENT",
+          "actual": "ACTUAL",
+          "forecast": "FORECAST",
+          "prior": "PRIOR"
+        },
+        "tradeCta": "Trade",
+        "empty": "No high-impact events scheduled.",
+        "live": "Live"
+      },
+      "events": [
+        "Caixin Mfg PMI",
+        "Mfg PMI Final",
+        "NFP Employment",
+        "ISM Mfg PMI",
+        "Construction Spend"
+      ]
+    },
+    "calendar": {
+      "title": "Economic [Calendar]",
+      "description": "Every scheduled release, central bank decision and data print that can move the markets — filter by country and importance, with forecasts and previous values.",
+      "loading": "Loading the economic calendar…",
+      "provider": "Economic calendar by TradingView",
+      "cards": [
+        {
+          "id": "calendar",
+          "title": "Economic Calendar",
+          "text": "Stay updated with our economic events calendar. Keep track of upcoming economic events and their potential market impact.",
+          "link": "View economic calendar"
+        },
+        {
+          "id": "hours",
+          "title": "Forex & CFD Trading Hours",
+          "text": "View the latest trading hours for Forex, Metals, Commodities, and other financial instruments.",
+          "link": "View trading hours"
+        },
+        {
+          "id": "holidays",
+          "title": "Holiday Hours & Notices",
+          "text": "Market holidays may affect trading schedules and volatility. Stay up to date with holiday trading hours.",
+          "link": "View holiday hours"
+        }
+      ]
+    },
+    "faq": {
+      "badge": "Q&A",
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "What is an Economic Calendar?",
+          "answer": "An economic data calendar is a schedule of upcoming economic events and data releases, such as interest rate decisions, GDP figures, employment reports, and inflation data, that can influence financial markets. Traders use it to plan positions ahead of high-impact events."
+        },
+        {
+          "question": "How do I use the Economic Calendar to trade?",
+          "answer": "Filter upcoming economic events by date range, impact level (High / Medium / Low), and country. Before a high-impact release, check the forecast vs. previous values. If the actual data is available, compare it with the forecast to understand how the market may react. Always use proper risk management around new events."
+        },
+        {
+          "question": "What does the impact level (High / Medium / Low) mean?",
+          "answer": "Impact levels indicate how much a data release has historically influenced financial markets. High-impact events — such as Non-Farm Payrolls, FOMC decisions, and CPI releases — can cause significant market volatility. Medium-impact events may cause moderate price movements, while low-impact events generally have a more limited effect on market prices."
+        },
+        {
+          "question": "What time zone does the calendar use?",
+          "answer": "By default, the economic calendar displays event times in your local time zone. You can switch to UTC or another time zone using the selector at the top of the calendar, making it easier to track economic events across different markets."
+        },
+        {
+          "question": "Is the Economic Calendar data real-time?",
+          "answer": "Yes. The real-time economic calendar updates actual values as soon as official data is released. Forecast and previous figures are sourced from leading financial data providers and updated regularly."
+        }
+      ]
+    },
+    "cta": {
+      "headingLine1": "Data-Driven Trading",
+      "headingLine2": "Seize the Moment",
+      "sub": "Act on economic data the instant it's released. Open a GTCFX account and trade smarter.",
+      "openCta": "Open Live Account",
+      "demoCta": "Try Demo Account"
+    }
+  },
+  "marketHolidaysPage": {
+    "meta": {
+      "title": "Market Holidays | Trading Hours & Schedule | GTCFX",
+      "description": "View upcoming market holidays and trading schedule changes. Plan your trades around global exchange closures with GTCFX."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "news": "GTC News",
+      "current": "Market Holidays"
+    },
+    "hero": {
+      "badge": "Trading Accounts",
+      "headingPrefix": "Find the trading account",
+      "headingAccent": "that fits",
+      "headingSuffix": "you best.",
+      "sub": "From Dubai to London, Singapore to Hong Kong — GTCFX is honored by the institutions and authorities that define each region. Every award is a reflection of the trust we've earned.",
+      "openCta": "Open live account",
+      "demoCta": "Try Demo Account First",
+      "tickerCategories": [
+        "FX",
+        "Gold",
+        "Index"
+      ],
+      "stats": [
+        "Currency Pairs",
+        "Market Hours",
+        "Avg Execution",
+        "Countries Served"
+      ],
+      "statValues": [
+        "96+",
+        "24/5",
+        "<10ms",
+        "100+"
+      ],
+      "live": "Live"
+    },
+    "tradingHours": {
+      "eyebrow": "Market schedule",
+      "heading": "Forex & CFD Trading Hours",
+      "sub": "View the latest trading hours for Forex, Metals, Commodities, and other financial instruments. GTCFX provides updated market session times to help you plan your trades effectively. Please note these times provided are subject to change. For the most accurate and real-time session details, please refer to your trading terminal or check the specifications of each instrument.",
+      "timezoneBadge": "Timezone: GMT+0",
+      "tabsLabel": "Instrument categories",
+      "modeLabel": "Hours type",
+      "pricing": "Pricing",
+      "trading": "Trading",
+      "pricingHint": "Pricing hours show when live market prices are available.",
+      "tradingHint": "Trading hours show when you can open and close positions.",
+      "footnote": "Schedules are indicative and may change during market holidays or daylight saving adjustments.",
+      "tabs": {
+        "fx": "FX",
+        "goldSilver": "Gold & Silver",
+        "crudeOil": "Crude Oil",
+        "cashIndices": "Cash Indices",
+        "stocks": "Stocks"
+      },
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "daysShort": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "daysFull": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "symbolsHeader": "Symbols",
+      "open": "Open",
+      "close": "Close",
+      "today": "Today",
+      "openNow": "Open now",
+      "closedNow": "Closed now",
+      "symbols": {
+        "fx": [
+          "Majors",
+          "Cross & Exotics",
+          "JPY Symbols",
+          "Indices — EU",
+          "Indices — US",
+          "Metals — Gold/Silver"
+        ],
+        "goldSilver": [
+          "Gold (XAUUSD)",
+          "Silver (XAGUSD)"
+        ],
+        "crudeOil": [
+          "WTI",
+          "Brent"
+        ],
+        "cashIndices": [
+          "US30",
+          "NAS100",
+          "SPX500"
+        ],
+        "stocks": [
+          "US Stocks",
+          "EU Stocks"
+        ]
+      }
+    },
+    "holidayCalendar": {
+      "heading": "Holiday Hours & Notices",
+      "sub": "Market holidays may affect trading hours. Review upcoming closures and early-close schedules below.",
+      "months": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+      ],
+      "dayLabels": [
+        "Sun",
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat"
+      ],
+      "prevMonthAria": "Previous month",
+      "nextMonthAria": "Next month",
+      "legend": {
+        "today": "Today",
+        "holiday": "Holiday",
+        "selected": "Selected"
+      },
+      "upcomingHeading": "Upcoming Holidays",
+      "holidays": [
+        {
+          "name": "Australia Queen's Birthday",
+          "market": "ASX",
+          "badge": "Early Close"
+        },
+        {
+          "name": "Juneteenth",
+          "market": "US Markets",
+          "badge": "Closed"
+        },
+        {
+          "name": "Today — Normal Hours",
+          "market": "All Markets",
+          "badge": "Open"
+        },
+        {
+          "name": "Independence Day (US)",
+          "market": "US Markets",
+          "badge": "Closed"
+        }
+      ],
+      "loadingAria": "Loading holiday schedule",
+      "noEventsOnDate": "No market events on this date.",
+      "noUpcoming": "No upcoming holidays scheduled.",
+      "hint": "Tap a highlighted date on the calendar to filter",
+      "thisMonth": "This month",
+      "stats": {
+        "dates": "Dates",
+        "notices": "Notices",
+        "earlyClose": "Early close"
+      },
+      "closed": "Closed",
+      "earlyClose": "Early close",
+      "showAll": "Show all",
+      "selectedDateHint": "Events on the selected date",
+      "noMonthEvents": "No market notices this month.",
+      "nextUp": "Next up",
+      "more": "more",
+      "view": "View",
+      "noticeCount": "{count, plural, one {# market notice} other {# market notices}}"
+    },
+    "instruments": {
+      "eyebrow": "ASSET CLASSES",
+      "heading": "Tradeable Instruments",
+      "sub": "Access global markets across multiple asset classes with competitive spreads.",
+      "closed": "Closed now",
+      "items": [
+        {
+          "title": "Forex — FX Pairs",
+          "hours": "Mon-Fri: 00:00-23:59 GMT",
+          "status": "Open Now"
+        },
+        {
+          "title": "Metals — Gold & Silver",
+          "hours": "Mon-Fri: 00:00-23:59 GMT",
+          "status": "Open Now"
+        },
+        {
+          "title": "Energies — Oil & Gas",
+          "hours": "Mon-Fri: 00:00-23:00 GMT",
+          "status": "Open Now"
+        },
+        {
+          "title": "Cash Indices",
+          "hours": "Varies by exchange",
+          "status": "Most Open"
+        },
+        {
+          "title": "US & EU Shares",
+          "hours": "NYSE, NASDAQ, LSE, XETRA",
+          "status": "Pre-Market"
+        }
+      ]
+    },
+    "cta": {
+      "heading": "Stay Ahead of Market Changes",
+      "sub": "Trading hours and holiday schedules are subject to change. Always verify in your terminal before placing a trade.",
+      "hoursBadge": "⚠️ Hours may vary on holidays",
+      "liquidityBadge": "📉 Reduced liquidity possible",
+      "openCta": "Open an Account",
+      "contactCta": "Contact Support"
+    }
+  }
+}

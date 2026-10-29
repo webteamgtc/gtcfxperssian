@@ -1,0 +1,548 @@
+{
+  "routes": {
+    "home": {
+      "website": {
+        "name": "Online CFD Trading with Low Spread | GTCFX",
+        "description": "Access 6+ trading markets with GTCFX, a leading CFD broker offering forex, indices, energy, metals, shares, and more. Access tight spreads & trade CFDs today."
+      },
+      "financialService": {
+        "name": "GTC Global SA (Pty) Ltd",
+        "legalName": "GTC Global SA (Pty) Ltd",
+        "description": "GTC Global SA (Pty) Ltd is an authorised financial services provider (FSP No. 51545) licensed and regulated by the Financial Sector Conduct Authority (FSCA) in South Africa.",
+        "address": {
+          "streetAddress": "18 Cavendish Road, Claremont",
+          "addressLocality": "Cape Town",
+          "addressRegion": "Western Cape",
+          "postalCode": "7708",
+          "addressCountry": "ZA"
+        },
+        "identifiers": [
+          {
+            "propertyID": "CIPC Company Number",
+            "value": "2020/810937/07"
+          },
+          {
+            "propertyID": "FSCA FSP Number",
+            "value": "51545"
+          }
+        ]
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "What is CFD trading?",
+            "answer": "CFD trading allows you to trade on the price movement of selected financial instruments without owning the underlying asset."
+          },
+          {
+            "question": "Which markets can I trade with GTCFX?",
+            "answer": "Depending on your account type and region, you may access Forex, Metals, Energy, Indices, Commodities, Shares and Futures CFDs."
+          },
+          {
+            "question": "What is leverage in trading?",
+            "answer": "Leverage allows you to control a larger trading position with a smaller amount of capital. It can increase both potential gains and potential losses."
+          },
+          {
+            "question": "How do spreads and commissions work?",
+            "answer": "The spread is the difference between the bid and ask price. Some account types may also apply a commission per trade or per lot."
+          },
+          {
+            "question": "What is margin and how is it calculated?",
+            "answer": "Margin is the amount required to open and maintain a trading position. It depends on the instrument, position size, leverage and market conditions."
+          }
+        ]
+      }
+    },
+    "marketsForex": {
+      "product": {
+        "name": "GTCFX Forex CFD Trading",
+        "alternateName": [
+          "Forex CFD Trading",
+          "FX CFD Trading"
+        ],
+        "serviceType": "Online Forex CFD Trading",
+        "description": "Access more than 70 major, minor and exotic currency pairs through Forex CFDs with GTCFX.",
+        "category": [
+          "Forex CFDs",
+          "Major Currency Pairs",
+          "Minor Currency Pairs",
+          "Exotic Currency Pairs"
+        ]
+      }
+    },
+    "marketsEnergy": {
+      "product": {
+        "name": "GTCFX Energy CFD Trading",
+        "serviceType": "Online Energy CFD Trading",
+        "description": "Access energy CFD markets including crude oil and natural gas through GTCFX without owning or taking physical delivery of the underlying commodity.",
+        "category": [
+          "Energy CFDs",
+          "Crude Oil CFDs",
+          "Natural Gas CFDs"
+        ]
+      }
+    },
+    "marketsIndices": {
+      "product": {
+        "name": "GTCFX Indices CFD Trading",
+        "alternateName": [
+          "Index CFD Trading",
+          "Indices CFD Trading"
+        ],
+        "serviceType": "Online Indices CFD Trading",
+        "description": "Access more than 20 global index CFDs covering US, European and Asian equity markets through GTCFX.",
+        "category": [
+          "Indices CFDs",
+          "Index CFDs",
+          "Equity Index CFDs",
+          "US Indices",
+          "European Indices",
+          "Asian Indices"
+        ]
+      }
+    },
+    "marketsMetals": {
+      "product": {
+        "name": "GTCFX Metals CFD Trading",
+        "serviceType": "Online Metals CFD Trading",
+        "description": "Access metals CFD markets including gold, silver, platinum and palladium through GTCFX without owning or taking physical delivery of the underlying metals.",
+        "category": [
+          "Metals CFDs",
+          "Gold CFDs",
+          "Silver CFDs",
+          "Platinum CFDs",
+          "Palladium CFDs"
+        ]
+      }
+    },
+    "marketsShares": {
+      "product": {
+        "name": "GTCFX Shares CFD Trading",
+        "alternateName": [
+          "Share CFD Trading",
+          "Stock CFD Trading",
+          "Equity CFD Trading"
+        ],
+        "serviceType": "Online Shares and Equity CFD Trading",
+        "description": "Access more than 500 global share CFDs through GTCFX and take long or short positions on stock price movements without owning the underlying shares.",
+        "category": [
+          "Share CFDs",
+          "Stock CFDs",
+          "Equity CFDs",
+          "Global Stock CFDs"
+        ]
+      }
+    },
+    "marketsFutureCfds": {
+      "product": {
+        "name": "GTCFX Futures CFD Trading",
+        "serviceType": "Online Futures-based CFD Trading",
+        "description": "Access futures-based CFD markets including selected equity-index and precious-metal futures through GTCFX without physical ownership or delivery of the underlying asset.",
+        "category": [
+          "Futures CFDs",
+          "Futures CFDs",
+          "Index Futures CFDs",
+          "Metal Futures CFDs"
+        ]
+      }
+    },
+    "copyTrading": {
+      "howTo": {
+        "name": "How to Start Copy Trading with GTCFX",
+        "description": "Start copy trading with GTCFX in three simple steps.",
+        "steps": [
+          {
+            "name": "Open a Live Account",
+            "text": "Create a GTCFX live account and complete the setup to access copy trading services."
+          },
+          {
+            "name": "Choose the Right Trader",
+            "text": "Review trader profiles, performance and trading style before selecting who to follow."
+          },
+          {
+            "name": "Start Copying Strategy",
+            "text": "Allocate capital, activate copying and track performance directly from your dashboard."
+          }
+        ]
+      },
+      "service": {
+        "name": "GTCFX Copy Trading Service",
+        "alternateName": "GTCFX Copy Trading",
+        "serviceType": "Online Copy Trading Service",
+        "description": "An online copy trading service that allows eligible clients to review trader profiles, select a strategy and automatically replicate selected trades while monitoring performance and managing capital allocations.",
+        "disambiguatingDescription": "Copy trading automates the replication of selected traders' transactions while clients maintain control over their own account and capital.",
+        "category": [
+          "Copy Trading",
+          "Automated Trading",
+          "Strategy Copying"
+        ]
+      }
+    },
+    "gtcGoApp": {
+      "application": {
+        "name": "GTC Go",
+        "alternateName": [
+          "GTC Go Trading App",
+          "GTCFX Mobile Trading App"
+        ],
+        "description": "GTC Go is a mobile trading application for iOS and Android that provides access to 6+ trading markets, live quotes, charting, professional order types, account management and copy trading.",
+        "featureList": [
+          "Access to 6+ trading markets",
+          "Live market quotes",
+          "Professional order types",
+          "Technical charts and indicators",
+          "Custom price alerts",
+          "Account management",
+          "Deposits and withdrawals",
+          "Copy trading"
+        ]
+      }
+    },
+    "freeDemoAccount": {
+      "service": {
+        "name": "GTCFX Free Demo Trading Account",
+        "alternateName": "GTCFX Demo Account",
+        "serviceType": "Online CFD Demo Trading Account",
+        "description": "A free demo trading account that allows users to practice CFD trading with virtual funds in market conditions across supported GTCFX trading platforms.",
+        "category": [
+          "CFD Demo Account",
+          "Demo Trading Account",
+          "Practice Trading Account"
+        ]
+      },
+      "howTo": {
+        "name": "How to Start with a GTCFX Demo Account",
+        "description": "Set up a GTCFX demo trading environment and start testing trading strategies with virtual funds.",
+        "steps": [
+          {
+            "name": "Register an Account",
+            "text": "Sign up to create your GTCFX demo account."
+          },
+          {
+            "name": "Select Platform and Parameters",
+            "text": "Choose your trading platform and configure your preferred demo account settings."
+          },
+          {
+            "name": "Download and Configure",
+            "text": "Set up your preferred trading platform on desktop or mobile."
+          },
+          {
+            "name": "Run Strategy Tests",
+            "text": "Use virtual capital to test strategies and monitor trading performance."
+          }
+        ]
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "Does the demo account have an expiry date?",
+            "answer": "No. The GTCFX demo account does not expire and can be used for ongoing trading practice."
+          },
+          {
+            "question": "Are spreads on the demo identical to the live account?",
+            "answer": "Demo spreads are designed to closely reflect live market conditions, although minor differences may occur because demo trades do not interact with real liquidity and live order flow."
+          },
+          {
+            "question": "How do I reset my demo balance?",
+            "answer": "The virtual demo balance can be reset from the account dashboard when you want to begin a new testing cycle."
+          },
+          {
+            "question": "Which platforms are supported?",
+            "answer": "The GTCFX demo account supports MetaTrader 4, MetaTrader 5 and GTC Trader across supported desktop, web and mobile environments."
+          },
+          {
+            "question": "Do I need to verify my identity to open a demo?",
+            "answer": "No. A GTCFX demo account can be opened without identity verification, a deposit or supporting documents."
+          }
+        ]
+      }
+    },
+    "openLiveAccount": {
+      "service": {
+        "name": "GTCFX Live Trading Account",
+        "alternateName": "GTCFX Live Account",
+        "serviceType": "Online Live Trading Account",
+        "description": "Open a GTCFX live trading account to access global CFD markets, multiple account types and supported trading platforms.",
+        "category": [
+          "Live Trading Account",
+          "CFD Trading Account"
+        ]
+      },
+      "howTo": {
+        "name": "How to Open a GTCFX Live Trading Account",
+        "description": "Open a GTCFX live trading account in three steps.",
+        "steps": [
+          {
+            "name": "Basic Information",
+            "text": "Provide your name, email and phone number to create your secure trading profile."
+          },
+          {
+            "name": "Verify Identity (KYC)",
+            "text": "Upload your identification and proof of address for account verification."
+          },
+          {
+            "name": "Deposit and Trade",
+            "text": "Fund your account using an available payment method and start trading once the funds are available."
+          }
+        ]
+      }
+    },
+    "pammAccount": {
+      "service": {
+        "name": "GTCFX PAMM Account Service",
+        "alternateName": "GTCFX PAMM",
+        "serviceType": "PAMM Account and Investment Management Service",
+        "description": "GTCFX PAMM allows multiple investors to allocate capital to a managed account where a professional money manager executes trades and profits and losses are distributed proportionally.",
+        "category": [
+          "PAMM Account",
+          "PAMM Investment",
+          "Managed Trading Account"
+        ]
+      },
+      "howTo": {
+        "name": "How to Start with a GTCFX PAMM Account",
+        "description": "Start using GTCFX PAMM by funding an account, selecting a manager and setting your allocation.",
+        "steps": [
+          {
+            "name": "Open and Fund Account",
+            "text": "Register your GTCFX account and make a deposit."
+          },
+          {
+            "name": "Browse Managers",
+            "text": "Compare managers by return, risk level, strategy and historical performance."
+          },
+          {
+            "name": "Set Allocation and Limits",
+            "text": "Choose how much capital to allocate and set your acceptable drawdown limits."
+          },
+          {
+            "name": "Monitor Performance",
+            "text": "Monitor performance and the proportional allocation of profits and losses through your account."
+          }
+        ]
+      }
+    },
+    "swapUpdate": {
+      "dataset": {
+        "name": "GTCFX Daily CFD Swap Rates",
+        "description": "Daily overnight swap rates for CFD instruments across Forex, Metals and Indices, including long and short swap values by trading symbol.",
+        "keywords": [
+          "CFD Swap Rates",
+          "Overnight CFD Swap Rates",
+          "Forex CFD Swap Rates",
+          "Metal CFD Swap Rates",
+          "Indices CFD Swap Rates"
+        ]
+      }
+    },
+    "dynamicLeverage": {
+      "webpage": {
+        "name": "Dynamic Leverage & Margin Conditions | GTCFX",
+        "description": "Learn how GTCFX dynamic leverage and margin requirements adjust according to trading position size, instrument and market conditions.",
+        "about": "Dynamic Leverage and Margin Conditions"
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "How does tiered leverage work?",
+            "answer": "Tiered leverage reduces the leverage ratio as the size of the trade increases. Larger positions may therefore require more margin."
+          },
+          {
+            "question": "Can tiered leverage affect my trading strategy?",
+            "answer": "Yes. For larger positions, increased margin requirements may limit the ability to open additional positions or require adjustments to existing positions."
+          },
+          {
+            "question": "Is tiered leverage the same for all assets?",
+            "answer": "No. Tiered leverage can vary between asset classes, and leverage available for forex pairs may differ from commodities or indices."
+          },
+          {
+            "question": "What happens if I can't meet the margin requirements due to tiered leverage?",
+            "answer": "Additional funds may be required to meet the applicable margin requirements when trading larger volumes."
+          },
+          {
+            "question": "Is tiered leverage applied automatically?",
+            "answer": "Yes. Tiered leverage is applied automatically based on the size of the trading position."
+          },
+          {
+            "question": "How can I calculate the margin required with tiered leverage?",
+            "answer": "The required margin can be estimated using the margin calculator available on the GTCFX Dynamic Leverage page."
+          }
+        ]
+      }
+    },
+    "mt4Platform": {
+      "application": {
+        "name": "MetaTrader 4",
+        "alternateName": [
+          "MT4",
+          "MT4 Trading Platform"
+        ],
+        "description": "MetaTrader 4 is a multi-asset trading platform available through GTCFX, offering advanced charting, automated trading, multiple order types and access across desktop and mobile devices.",
+        "featureList": [
+          "Advanced charting",
+          "30+ built-in technical indicators",
+          "Automated trading with Expert Advisors",
+          "MQL4 support",
+          "Multiple order types",
+          "One-click trading",
+          "Multi-device access"
+        ]
+      },
+      "howTo": {
+        "name": "How to Start Trading with GTCFX MT4",
+        "description": "Get started with MetaTrader 4 through GTCFX in three steps.",
+        "steps": [
+          {
+            "name": "Open Account",
+            "text": "Register a GTCFX account, complete verification and fund your trading account."
+          },
+          {
+            "name": "Download MT4",
+            "text": "Download MetaTrader 4 for Windows, macOS, iOS or Android."
+          },
+          {
+            "name": "Login and Trade",
+            "text": "Log in using your GTCFX server credentials, configure your charts and indicators, and start trading."
+          }
+        ]
+      }
+    },
+    "mt5Platform": {
+      "application": {
+        "name": "MetaTrader 5",
+        "alternateName": [
+          "MT5",
+          "MT5 Trading Platform"
+        ],
+        "description": "MetaTrader 5 is a multi-asset trading platform available through GTCFX, offering advanced charting, automated trading, multiple order types and access to global markets across desktop and mobile devices.",
+        "featureList": [
+          "38+ built-in technical indicators",
+          "21 timeframes",
+          "Automated trading with MQL5",
+          "Multi-asset strategy testing",
+          "Six order types",
+          "Depth of Market",
+          "One-click trading",
+          "Multi-device access"
+        ]
+      },
+      "howTo": {
+        "name": "How to Start Trading with GTCFX MT5",
+        "description": "Get started with MetaTrader 5 through GTCFX in three steps.",
+        "steps": [
+          {
+            "name": "Open Account",
+            "text": "Register a GTCFX account, complete verification and fund your trading account."
+          },
+          {
+            "name": "Download MT5",
+            "text": "Choose MetaTrader 5 for Windows, macOS, iOS or Android and install the platform."
+          },
+          {
+            "name": "Login and Trade",
+            "text": "Log in with your GTCFX server credentials, configure your charts and indicators, and start trading."
+          }
+        ]
+      }
+    },
+    "vpsHosting": {
+      "service": {
+        "name": "GTCFX Forex VPS Hosting",
+        "alternateName": [
+          "Forex VPS Hosting",
+          "MT4 VPS Hosting",
+          "MT5 VPS Hosting"
+        ],
+        "serviceType": "Forex VPS Hosting Service",
+        "description": "GTCFX Forex VPS Hosting provides traders with a dedicated remote server environment for running MT4, MT5 and Expert Advisors with low-latency connectivity and continuous operation.",
+        "category": [
+          "Forex VPS Hosting",
+          "Trading VPS",
+          "MT4 VPS",
+          "MT5 VPS"
+        ]
+      },
+      "offers": [
+        {
+          "name": "Bronze Forex VPS Plan",
+          "price": "40.00",
+          "priceCurrency": "USD",
+          "description": "Bronze Forex VPS hosting at $40 per month with 1 vCPU, 2,560MB RAM, 30GB SSD, Windows Server and pre-installed MT4/MT5. Free for eligible traders maintaining a minimum balance of $5,000."
+        },
+        {
+          "name": "Silver Forex VPS Plan",
+          "price": "70.00",
+          "priceCurrency": "USD",
+          "description": "Silver Forex VPS hosting at $70 per month with 1 vCPU, 4,096MB RAM, 50GB SSD, Windows Server and pre-installed MT4/MT5. Free for eligible traders maintaining a minimum balance of $7,500."
+        },
+        {
+          "name": "Gold Forex VPS Plan",
+          "price": "120.00",
+          "priceCurrency": "USD",
+          "description": "Gold Forex VPS hosting at $120 per month with 4 vCPU, 6,656MB RAM, 75GB SSD, Windows Server and pre-installed MT4/MT5. Free for eligible traders maintaining a minimum balance of $10,000."
+        }
+      ],
+      "faq": {
+        "items": [
+          {
+            "question": "Can I set up an MT4 or MT5 VPS on my Mac?",
+            "answer": "Yes. GTCFX MT4 and MT5 VPS hosting can be set up and accessed from a Mac."
+          },
+          {
+            "question": "How does a Forex VPS actually work?",
+            "answer": "A Forex VPS provides a dedicated and stable environment for traders to host their trading platforms and algorithms with continuous operation and low-latency connectivity."
+          },
+          {
+            "question": "Who qualifies for free VPS hosting?",
+            "answer": "Eligible traders who maintain the minimum account balance for their selected plan tier receive VPS hosting at no additional cost."
+          },
+          {
+            "question": "Which trading platforms are supported?",
+            "answer": "GTCFX Forex VPS Hosting supports MetaTrader 4 and MetaTrader 5, including charts, indicators, Expert Advisors and essential trading functions."
+          }
+        ]
+      }
+    },
+    "economicCalendar": {
+      "dataset": {
+        "name": "GTCFX Forex & CFD Economic Calendar",
+        "description": "A real-time economic calendar for Forex and CFD traders to track market-moving economic events, actual results, forecasts and prior data across major global markets.",
+        "keywords": [
+          "Forex Economic Calendar",
+          "CFD Economic Calendar",
+          "Economic Events Calendar",
+          "Forex Trading Calendar",
+          "CFD Trading Calendar"
+        ],
+        "about": [
+          "Forex CFD Trading",
+          "CFD Trading",
+          "Global Economic Events"
+        ]
+      },
+      "faq": {
+        "items": [
+          {
+            "question": "What is an Economic Calendar?",
+            "answer": "An economic calendar is a schedule of upcoming economic events and data releases, such as interest rate decisions, GDP figures, employment reports and inflation data, that can move financial markets."
+          },
+          {
+            "question": "How do I use the Economic Calendar to trade?",
+            "answer": "Filter economic events by date range, impact level and country, then compare forecast and prior values before important releases. Traders can use this information to prepare for potential market volatility while applying appropriate risk management."
+          },
+          {
+            "question": "What does the impact level (High / Medium / Low) mean?",
+            "answer": "The impact level indicates how much an economic release has historically affected financial markets. High-impact events such as Non-Farm Payrolls, FOMC decisions and CPI can cause significant market movements."
+          },
+          {
+            "question": "What time zone does the calendar use?",
+            "answer": "The economic calendar displays event times in the user's local time zone by default, with options to switch to UTC or another supported time zone."
+          },
+          {
+            "question": "Is the Economic Calendar data real-time?",
+            "answer": "Yes. The real-time economic calendar updates actual values as soon as official data is released. Forecast and previous figures are sourced from leading financial data providers and updated regularly."
+          }
+        ]
+      }
+    }
+  }
+}

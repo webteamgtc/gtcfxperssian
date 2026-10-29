@@ -1,0 +1,478 @@
+{
+  "knowledgePage": {
+    "meta": {
+      "title": "Knowledge to Learn | Trading Education | GTCFX",
+      "description": "Structured trading education, platform guides, and learning resources for every stage of your trading journey with GTCFX."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "current": "Knowledge to Trade"
+    },
+    "hero": {
+      "title": "Educational [Materials]",
+      "description": "Structured resources for every stage of your trading journey.",
+      "platforms": "MT4 · MT5 · WebTrader",
+      "stats": [
+        {
+          "value": "1000+",
+          "label": "Articles"
+        },
+        {
+          "value": "200+",
+          "label": "E-Book Categories"
+        },
+        {
+          "value": "30+",
+          "label": "Learning Modules"
+        },
+        {
+          "value": "10+",
+          "label": "Learning Paths"
+        }
+      ]
+    },
+    "educationalMaterials": {
+      "title": "Educational [Materials]",
+      "subtitle": "For Trading Beginners",
+      "explore": "Explore",
+      "cards": [
+        {
+          "key": "videoTutorials",
+          "title": "For Trading Beginners",
+          "description": "Step-by-step video courses covering platform navigation, order types, risk management, and advanced trading concepts with real-market examples.",
+          "tags": [
+            "Beginner",
+            "Intermediate",
+            "Advanced"
+          ]
+        },
+        {
+          "key": "ebooksGuides",
+          "title": "Trading Essentials",
+          "description": "Downloadable PDF guides on Forex basics, CFD trading strategies, commodity analysis, and index trading fundamentals.",
+          "tags": [
+            "Forex",
+            "CFDs",
+            "Commodities"
+          ]
+        },
+        {
+          "key": "webinarsLive",
+          "title": "Market Guides",
+          "description": "Join live market analysis sessions hosted by experienced traders. Ask questions in real time and learn professional decision-making techniques.",
+          "tags": [
+            "Live",
+            "Interactive",
+            "Weekly"
+          ]
+        },
+        {
+          "key": "platformWalkthroughs",
+          "title": "Risk Management Basics",
+          "description": "Detailed guides for MT4, MT5, and our proprietary WebTrader platform—from installation to executing your first trade.",
+          "tags": [
+            "MT4",
+            "MT5",
+            "WebTrader"
+          ]
+        },
+        {
+          "key": "technicalAnalysis",
+          "title": "Technical Analysis Basics",
+          "description": "An exhaustive A–Z glossary of trading terminology. From 'Ask Price' to 'Yield Curve', never feel lost in market jargon again.",
+          "tags": [
+            "Reference",
+            "A–Z Index"
+          ]
+        },
+        {
+          "key": "strategyBlueprints",
+          "title": "GTCFX Platform Guides",
+          "description": "Tested trading frameworks with clear entry, exit, and risk parameters. Scalping, day trading, swing trading, and position trading covered.",
+          "tags": [
+            "Scalping",
+            "Swing",
+            "Position"
+          ]
+        }
+      ]
+    },
+    "gtcGoPromo": {
+      "title": "Trade Anytime, Anywhere [with GTC Go]",
+      "description": "Fast execution. Smart tools. Full control.",
+      "qrLabel": "Scan to download GTC Go",
+      "stats": [
+        {
+          "value": "500K+",
+          "label": "Active traders"
+        },
+        {
+          "value": "4.8",
+          "label": "App store rating"
+        },
+        {
+          "value": "0ms",
+          "label": "Avg. latency"
+        }
+      ]
+    },
+    "demoTrading": {
+      "title": "Invest with the World's Premier [Online Trading Platform.]",
+      "description": "Trade across 6+ markets with the most stable platform, our MetaTrader Platform offers favorable spreads.",
+      "openLiveAccount": "Open Live Account",
+      "openDemoAccount": "Open Demo Account",
+      "features": [
+        {
+          "key": "tightestSpread",
+          "title": "Tightest Spread",
+          "description": "Experience competitive spreads designed"
+        },
+        {
+          "key": "bestLeverage",
+          "title": "Best Leverage",
+          "description": "Providing the highest leverage, up to 1:2000"
+        },
+        {
+          "key": "tradingInstrument",
+          "title": "Trading Instrument",
+          "description": "Access to 6+ trading markets including Forex, Metals, Indices, Shares & more across"
+        },
+        {
+          "key": "ultraFastExecution",
+          "title": "Ultra-fast Execution",
+          "description": "Trade with top-tier liquidity for fast"
+        }
+      ]
+    },
+    "qanda": {
+      "title": "Frequently Asked [Questions]",
+      "searchPlaceholder": "Please enter your question?",
+      "leftHeading": "Please enter your question?",
+      "leftDesc": "A general report provides a concise overview of key findings and conclusions on a specific subject.",
+      "noResults": "No questions match your search.",
+      "stats": [
+        {
+          "value": "24",
+          "label": "Articles"
+        },
+        {
+          "value": "98%",
+          "label": "Resolved"
+        },
+        {
+          "value": "24/7",
+          "label": "Live Support"
+        }
+      ],
+      "openAccountCta": "Open an Account",
+      "items": [
+        {
+          "q": "Ask price/Ask",
+          "a": "The price at which a seller has offered to purchase the currency or instrument."
+        },
+        {
+          "q": "What leverage options are available for trading?",
+          "a": "GTCFX offers flexible leverage options up to 1:2000 depending on your account type, instrument, and regulatory region. Please refer to our leverage page for full details."
+        },
+        {
+          "q": "Is my account and funds protected?",
+          "a": "Yes. Client funds are held in segregated accounts with top-tier banks. GTCFX complies with regulatory requirements to ensure the safety of your funds."
+        },
+        {
+          "q": "Is my account and funds protected?",
+          "a": "GTCFX uses advanced encryption and two-factor authentication to protect your account. Our risk management team monitors accounts 24/7."
+        }
+      ]
+    },
+    "tradingJourneyCta": {
+      "title": "Ready to Start Your [Trading Journey?]",
+      "description": "Open a demo or live account today and access the full GTCFX trading ecosystem — advanced platforms, tight spreads, and dedicated support.",
+      "openAccount": "Open an Account",
+      "contactUs": "Contact Us"
+    },
+    "course": {
+      "progressLabel": "Your progress",
+      "progressCount": "{done} of {total} finished",
+      "sectionLabel": "Section {n}",
+      "lessons": "{count, plural, =0 {No lessons yet} one {# lesson} other {# lessons}}",
+      "start": "Start",
+      "noSections": "No categories found.",
+      "lessonsTitle": "Lessons in [this section]",
+      "readMore": "Read more",
+      "noArticles": "No articles found.",
+      "backToCourse": "Back to course",
+      "backToSection": "Back to section",
+      "lessonOf": "Lesson {n} of {total}",
+      "previous": "Previous lesson",
+      "next": "Next lesson",
+      "share": "Share this lesson",
+      "copyLink": "Copy link",
+      "copied": "Link copied",
+      "pathTitle": "Your learning [path]",
+      "pathSummary": "{sections, plural, one {# section} other {# sections}} · {lessons, plural, one {# lesson} other {# lessons}}",
+      "upNext": "Up next",
+      "completed": "Completed"
+    }
+  },
+  "technicalAnalysisPage": {
+    "meta": {
+      "title": "Technical Analysis for Traders | Forex & CFD Guide | GTCFX",
+      "description": "Build your technical analysis skills with GTCFX. Explore structured guides on price action, market structure, chart analysis, indicators and trading patterns for Forex and CFDs."
+    },
+    "courseHeader": {
+      "title": "Technical Analysis for Beginners: [Trading with Charts and Indicators]",
+      "subtitle": "Free online courses covering technical analysis",
+      "psychologyLink": "Psychology"
+    }
+  },
+  "forTradingBeginnersPage": {
+    "meta": {
+      "title": "Trading for Beginners | Forex & CFD Trading Guide | GTCFX",
+      "description": "Learn Forex and CFD trading with GTCFX. Explore beginner-friendly guides covering trading basics, platforms, order types, risk management and more."
+    },
+    "courseHeader": {
+      "title": "For trading beginners: step-by-step video courses",
+      "subtitle": "Free video lessons on platforms, order types, and risk management with real-market examples.",
+      "progressLabel": "Your progress",
+      "progressCount": "0 of 5 finished",
+      "psychologyLink": "Psychology"
+    },
+    "appPromo": {
+      "title": "Trade global markets from the [palm of your hand]",
+      "description": "Live pricing on 6+ trading markets, one-tap execution, and institutional-grade charting — built for the moments the market won't wait for."
+    },
+    "cta": {
+      "title": "Trade the World's [markets.]",
+      "description": "Open a live account and access 6+ trading markets including Forex, Metals, Indices, Shares & more — from a broker trusted globally.",
+      "openLiveAccount": "Open Live Account",
+      "tryDemoFirst": "Try Demo Account First",
+      "disclaimer": "CFD trading involves significant risk of loss. Please trade responsibly.",
+      "trustBadges": [
+        "Multi-jurisdiction regulated",
+        "Ultra-fast execution",
+        "Segregated client funds 24/7 support"
+      ],
+      "stats": [
+        {
+          "value": "7+",
+          "label": "Trading Markets"
+        },
+        {
+          "value": "20+",
+          "label": "Languages Supported"
+        },
+        {
+          "value": "5",
+          "label": "Regulated Entities"
+        }
+      ]
+    }
+  },
+  "glossaryPage": {
+    "meta": {
+      "title": "Forex Trading Glossary | Key Terms & Definitions | GTCFX",
+      "description": "Learn essential Forex and trading terms with the GTCFX glossary. Understand financial markets and improve your trading knowledge."
+    },
+    "breadcrumb": {
+      "current": "Trading Glossary"
+    },
+    "bannerTitle": "Glossary and [FAQs]",
+    "bannerDescription": "Explore key trading terms and find answers to common questions about GTCFX's products, services, and trading conditions.",
+    "title": "Trading glossary",
+    "browseByLetter": "Browse by letter",
+    "searchPlaceholder": "Search for glossary",
+    "termsCount": "{count} terms",
+    "noTerms": "No glossary entries for this letter yet.",
+    "noResults": "No terms match “{query}”.",
+    "unavailable": "The glossary could not be loaded right now. Please try again later.",
+    "trendingTitle": "Trending [glossary]",
+    "viewLetter": "View all {letter} terms",
+    "cta": {
+      "heading": "Ready to [trade?]",
+      "primary": "Start trading",
+      "secondary": "Or try demo",
+      "footnote": "Ready to start your trading journey with GTCFX? Apply for an account in just a matter of minutes."
+    }
+  },
+  "liquidityTechnologyPage": {
+    "meta": {
+      "title": "Liquidity & Trading Technology | GTC Prime | GTCFX",
+      "description": "Access institutional-grade liquidity and advanced trading technology with GTC Prime. Benefit from deep liquidity pools and reliable execution."
+    },
+    "breadcrumb": {
+      "current": "Liquidity & Technology"
+    },
+    "banner": {
+      "title": "Liquidity | Connectivity | [Risk Solutions]",
+      "subTitle": "Access To 8 Asset Markets With Over 27,000 Trading Instruments",
+      "liveAccount": "Open Live Account",
+      "stats": [
+        {
+          "value": "Tier 1",
+          "label": "Bank Liquidity"
+        },
+        {
+          "value": "<1ms",
+          "label": "Execution Latency"
+        },
+        {
+          "value": "10",
+          "label": "Levels of Depth"
+        },
+        {
+          "value": "24/7",
+          "label": "Market Coverage"
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Why Choose GTCFX [Liquidity & Technology]",
+      "items": [
+        {
+          "title": "Trusted Partner",
+          "desc": "We are a regulated Liquidity Provider with a team of experienced professionals."
+        },
+        {
+          "title": "Competitive Pricing",
+          "desc": "Thanks to our proprietary solutions we can offer lower commission and a minimum monthly fee as low as $1000."
+        },
+        {
+          "title": "Low Latency Execution",
+          "desc": "We host our servers close to our liquidity sources to minimize execution latency."
+        },
+        {
+          "title": "Deep Liquidity",
+          "desc": "Take advantage of our deep liquidity across all of our multi-asset instruments. Up to 10 levels of Market Depth."
+        },
+        {
+          "title": "In-House Technology",
+          "desc": "Based on advanced technology developed by the team of highly qualified experts to provide robust and scalable solutions."
+        },
+        {
+          "title": "Comprehensive Solutions",
+          "desc": "We are like a one-stop-shop offering our clients, product packages tailored to their needs."
+        }
+      ]
+    },
+    "whoServe": {
+      "heading": "Who We [Serve]",
+      "desc": "GTC Prime with advance infrastructure and comprehensive expertise, offer tailor made pricing sourced from tier 1 banks with DMA execution. Our services have the full capacity to manage our clients trading demands and expectations.",
+      "items": [
+        {
+          "title": "Broker",
+          "desc": "A flexible, end-to-end broker solution integrated with prime-of-prime liquidity and advanced risk analytics. STP/ECN clients see meaningfully tighter spreads and lower fees."
+        },
+        {
+          "title": "Hedge Funds & Assets",
+          "desc": "Our tools create a prime performance experience for our clients across the board. With a diversified portfolio of multiple asset classes, clients experience a reliable and trusted relationship with GTC Prime."
+        },
+        {
+          "title": "Professional Clients",
+          "desc": "With GTC Prime, you can experience efficient trading via a single platform, institutional pricing backed by competitive margins & attractive commission and segregated accounts for funds."
+        }
+      ]
+    },
+    "directAccess": {
+      "heading": "Direct Access to Top Tier [Liquidity Provider]",
+      "desc": "GTCFX is a trusted liquidity provider giving you easy access to FX liquidity platforms. Trade efficiently at low cost with fast execution, on infrastructure built for transparency, privacy and reliability.",
+      "points": [
+        "Low spreads & Commissions",
+        "Ultra Fast Execution",
+        "Up to 10 levels of market Depth",
+        "Quick Integration",
+        "Ultra Fast Price Feeds",
+        "Fast onboarding Procedure"
+      ],
+      "lpLabel": "Unlocking profitable opportunities",
+      "lpLabel1": "Your best investment journey begins with us",
+      "button": "Apply For Liquidity Service"
+    },
+    "offer": {
+      "heading": "What We [Offer]",
+      "items": [
+        {
+          "title": "Liquidity",
+          "desc": "At GTC Prime, we offer liquidity solutions that can be customized to meet your specific needs and goals. Our technology-driven approach allows us to serve clients around the world, including hedge funds, brokers, exchanges, and other professional clients."
+        },
+        {
+          "title": "Connectivity",
+          "desc": "Connectivity is an essential element of successful trading. At GTC Prime, we offer reliable and fast connectivity solutions to connect our clients to the world's financial markets. We understand the importance of speed and low latency in trading, and that's why we have partnered with leading technology providers to deliver cutting-edge connectivity solutions."
+        }
+      ]
+    }
+  },
+  "ebooksGuidesPage": {
+    "meta": {
+      "title": "Forex & CFD E-Books & Guides | GTCFX",
+      "description": "Explore downloadable Forex and CFD trading guides from GTCFX, covering trading styles, costs, economic calendars, market analysis, commodities, indices and trading plans."
+    },
+    "courseHeader": {
+      "title": "E-Books & Guides: [Forex and CFD Fundamentals]",
+      "subtitle": "Downloadable guides for every stage of your trading journey",
+      "psychologyLink": "Knowledge to Trade"
+    }
+  },
+  "webinarsLivePage": {
+    "meta": {
+      "title": "Forex & CFD Trading Webinars | Live Market Analysis | GTCFX",
+      "description": "Join GTCFX trading webinars for live Forex and CFD market analysis, practical trading insights and interactive Q&A sessions with active traders."
+    },
+    "courseHeader": {
+      "title": "Webinars & Live Sessions: [Learn From Active Traders]",
+      "subtitle": "Interactive live market analysis and Q&A sessions",
+      "psychologyLink": "Knowledge to Trade"
+    }
+  },
+  "platformWalkthroughsPage": {
+    "meta": {
+      "title": "MT4, MT5 & WebTrader Guides | Trading Platform Tutorials | GTCFX",
+      "description": "Master MT4, MT5 and WebTrader with GTCFX step-by-step guides covering platform setup, order types, risk management and your first trade."
+    },
+    "courseHeader": {
+      "title": "Platform Walkthroughs: [MT4, MT5 & WebTrader]",
+      "subtitle": "Step-by-step platform guides from install to first trade",
+      "psychologyLink": "Knowledge to Trade"
+    }
+  },
+  "platformGuidePage": {
+    "hero": {
+      "title": "GTCFX Platform Guides",
+      "description": "Get the most from your GTCFX account, and discover everything you need to know about our platform's tools and features.",
+      "primaryCta": "Open Live Account"
+    },
+    "cta": {
+      "titleLine1": "Trade the World's",
+      "titleAccent": "markets.",
+      "description": "Open a live account and access 6+ trading markets including Forex, Metals, Indices, Shares & more — from a broker trusted globally.",
+      "primaryCta": "Open Live Account"
+    },
+    "subTabs": {
+      "png": "PNG",
+      "pdf": "PDF",
+      "video": "Video"
+    },
+    "languageFilter": {
+      "ariaLabel": "Filter guides by language",
+      "closeMenu": "Close language menu"
+    },
+    "platforms": {
+      "gtcgo": "GTCFX: GTC Go App Tutorial",
+      "gettingStarted": "GTCFX Client Portal Tutorial"
+    },
+    "downloadPdf": "Download PDF",
+    "viewPdf": "View PDF",
+    "showAll": "Show All",
+    "loadError": "Unable to load platform guide content. Please try again later.",
+    "emptyPng": "No PNG guides available yet.",
+    "emptyPdf": "No PDF guides available yet.",
+    "emptyVideo": "No tutorial videos available yet.",
+    "watchVideo": "Watch video",
+    "closeVideo": "Close video",
+    "backToGuides": "Back to platform guides",
+    "moreGuides": "More [guides]",
+    "meta": {
+      "title": "GTCFX Platform Guides | GTC Go & Client Portal Tutorials",
+      "description": "Get the most from your GTCFX account, and discover everything you need to know about our platform's tools and features."
+    }
+  }
+}

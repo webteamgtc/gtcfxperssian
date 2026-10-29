@@ -1,0 +1,84 @@
+{
+  "liveAccountApplicationPage": {
+    "meta": {
+      "title": "Live Account Application | Apply for GTCFX Trading Account",
+      "description": "Apply for a GTCFX live trading account online. Complete the secure application form and start trading global markets with a regulated broker."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "trading": "Trading",
+      "current": "Open Live Account"
+    },
+    "hero": {
+      "eyebrow": "GLOBALLY MULTI-REG BROKER",
+      "title": "Open [Live Account]"
+    },
+    "accounts": {
+      "standard-account": {
+        "title": "Standard Account",
+        "subtitle": "Start trading across global markets with institutional-grade infrastructure and multi-regulatory protection."
+      },
+      "ecn-account": {
+        "title": "ECN Account",
+        "subtitle": "Trade with raw spreads and direct market access for professional traders."
+      },
+      "mam-pamm-account": {
+        "title": "MAM/PAMM Account",
+        "subtitle": "Manage multiple accounts with advanced allocation methods."
+      },
+      "pro-ecn-account": {
+        "title": "Pro ECN Account",
+        "subtitle": "Professional-grade ECN trading with ultra-low latency execution."
+      },
+      "raw-spread-account": {
+        "title": "RAW Spread Account",
+        "subtitle": "Access raw interbank spreads with minimal markup."
+      },
+      "vip-account": {
+        "title": "VIP Account",
+        "subtitle": "Exclusive trading conditions and personalized services for high-volume traders."
+      },
+      "corporate-account": {
+        "title": "Corporate Account",
+        "subtitle": "Institutional trading solutions for corporate clients."
+      },
+      "demo-account": {
+        "title": "Demo Account",
+        "subtitle": "Practice your trading with virtual funds."
+      },
+      "multi-account": {
+        "title": "Multi-Account",
+        "subtitle": "Manage multiple trading accounts from a single dashboard."
+      },
+      "mt5-account": {
+        "title": "MT5 Account",
+        "subtitle": "Trade on MetaTrader 5 with multi-asset access and advanced analytics."
+      },
+      "partnership-account": {
+        "title": "Partnership Account",
+        "subtitle": "Start trading across global markets with institutional-grade infrastructure and multi-regulatory protection."
+      },
+      "pamm-account": {
+        "title": "PAMM Account",
+        "subtitle": "Allocate capital across managed strategies with transparent performance."
+      },
+      "mam-account": {
+        "title": "MAM Account",
+        "subtitle": "Manage multiple client accounts with flexible allocation methods."
+      }
+    },
+    "form": {
+      "title": "Apply live trading account",
+      "subtitle": "You're applying live account, please fill the form carefully"
+    },
+    "sidebar": {
+      "needHelp": "Need Help?",
+      "needHelpText": "Questions about your application? Our support team is ready to help.",
+      "labels": {
+        "phone": "Phone",
+        "website": "Website",
+        "email": "Email"
+      }
+    }
+  }
+}
